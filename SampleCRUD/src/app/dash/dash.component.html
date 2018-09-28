@@ -1,0 +1,12 @@
+<table>
+  <tr>
+    <th>MID</th>
+    <th>FirstName</th>
+    <th>LastName</th>
+    <th>Swipe In Time</th>
+    <th></th>
+  </tr>
+  <tr *ngFor="let mind of filterService.minds">
+    <td>{{mind.MID}}<td>{{mind.FirstName}}</td>  <td>{{mind.LastName}} </td>  <td> {{mind.SwipeInTime}} </td> 
+    <td> <button mat-raised-button color="primary" routerLink='/Details' (click)="details(mind.ID)"> Details </button> </td>
+</table> 

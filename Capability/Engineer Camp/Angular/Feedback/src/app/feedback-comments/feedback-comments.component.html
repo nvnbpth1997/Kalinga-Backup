@@ -1,0 +1,15 @@
+<hr />
+<h2 class="title is-3" style="color:orange">Feedbacks</h2>
+<div class="container">
+<ul *ngFor="let item of details">
+    <div><span class="title is-4" style="color:royalblue">{{item.name}}</span>&nbsp;<span class="title is-4" style="color:royalblue">({{item.mid}})</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <span class="title is-5">{{item.date | date :'short'}}</span></div>
+    <div class="field">
+        <input type="text" name="name" class="input" placeholder="Your Feedback" style="font-weight: bold" [(ngModel)]="item.comment">
+      </div>
+      <br>
+</ul>
+</div>
+
+
+

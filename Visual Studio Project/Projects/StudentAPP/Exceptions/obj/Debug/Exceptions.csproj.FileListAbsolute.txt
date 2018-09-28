@@ -1,0 +1,6 @@
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\Exceptions\bin\Debug\Exceptions.dll
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\Exceptions\obj\Debug\Exceptions.dll
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\Exceptions\obj\Debug\Exceptions.pdb

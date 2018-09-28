@@ -1,0 +1,183 @@
+@import"~bootstrap/dist/css/bootstrap.min.css";
+@import"~font-awesome/css/font-awesome.min.css"; 
+.my-grid-tile {
+    margin-top: 10px;
+    padding-top: -50px;
+    } 
+.btn {
+    color:#7B5151;
+}
+/* .id{
+    margin-top: 20px;    
+} */
+.headings
+{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 100px;
+    /* padding-left: -10px; */
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.container
+         {
+              margin-top: 50px;
+              background-color: blue;
+             
+         }
+
+         /* .maincontainer
+         {
+             position: relative;
+             width:250px;
+             height:320px;
+             background:white;
+         } */
+         .maincontainer
+         {
+             position: relative;
+             width:250px;
+             height:320px;
+             
+             
+              /* box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19); */
+         }
+         
+         /* .thecard
+         {
+             margin-left:0px;
+             position:absolute;
+             width: 100%;
+             height: 150px;
+             transform-style:preserve-3d;
+             transition: all 0.5s ease;
+             background:#EAE1EB; */
+           /*} margin-top: 10px; */
+         
+          .thecard
+         {
+            margin-top: -60px;
+            margin-left:-55px;
+         position:absolute;
+         width: 350px;
+         height: 150px;
+         transform-style:preserve-3d;
+         transition: all 0.5s ease;
+         background:#EAE1EB;
+          box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+        
+         /* margin-top: 10px; */
+         }
+         
+         
+         .thecard:hover{
+             transform: rotateY(180deg);
+         }
+         /* .thefront
+         {
+             position: absolute;
+             width: 100%;
+             height: 100%;
+             backface-visibility: hidden;
+             background: #EAE1EB; 
+             color: darkgray;
+         
+         } */
+          .thefront
+         {
+             position: absolute;
+             width: 100%;
+             height: 100%;
+             backface-visibility: hidden;
+             background: #EAE1EB; 
+             color: darkgray;
+             box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+         
+         }
+         
+         /* .theback
+         {
+             position: absolute;
+             width: 100%;
+             height: 290px;
+             backface-visibility: hidden;
+             background:gray;  */
+             /* color: darkgray; */
+             /* transform: rotateY(180deg);
+         
+         } */
+         .theback
+         {
+             position: absolute;
+             width: 100%;
+             height: 420px;
+             backface-visibility: hidden;
+             background:greenyellow; 
+             /* color: darkgray; */
+             transform: rotateY(180deg);
+             box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 20px 20px 0 rgba(0,0,0,0.19); 
+         
+         }
+         
+         body {
+             background: #F17563;
+             font-family: Open Sans;
+             font-size: 50px;
+               color: #222;
+         }
+         /* .card-header
+         {
+             padding-left:50px;
+             width:150px;
+             height: 150px; 
+         }
+
+         .card-body
+         {
+             background-color:#C6BDB1;
+             width: 100%;
+             height:170px;
+             color: black;
+         }  */
+         .card-header
+         {
+             padding-left:90px;
+             width:150px;
+             height: 100px; 
+             
+         }
+
+         .card-body
+         {
+             background-color:#C6BDB1;
+             width: 100%;
+             height:300px;
+             color: black;
+             padding-left:40px;
+             padding-top:60px;
+             font-size: 20px;
+            box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+         } 
+         /* .card-backbody
+         {
+             background-color:#EAE1EB;
+             width: 100%;
+             height:320px;
+         }  */
+         .card-backbody
+         {
+             background-color:#EAE1EB;
+             width: 100%;
+             height:420px;
+             box-shadow: 0 8px 50px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19); 
+             color:black;
+         } 
+         .card-cm
+         {
+             padding-left:90px;
+             padding-top: 10px;
+             font-size: 20px;
+         }
+         .card-det{
+             padding-left: 20px;
+         }

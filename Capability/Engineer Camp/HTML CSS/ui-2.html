@@ -1,0 +1,112 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body{
+        margin-top: 50px;
+        margin-bottom: 50px;
+        margin-left: 50px;
+        margin-right: 50px;
+        background-color:brown; 
+    }  
+    div {
+        border-style: solid;
+        border-width: 40px;
+        border-color: lightblue;
+        
+        
+    }
+
+    .ex1 {
+        background-color:aqua;
+    }
+ </style>
+ <script>
+function validateForm() {
+    var from = document.getElementById('from');
+    var to = document.getElementById('to'); 
+    var date = document.getElementById('date');
+    var time = document.getElementById('select1');
+    var services = document.getElementById('select2');
+    if (from.value == "") {
+            return alert("must enter from");
+        }
+    if (to.value == "") {
+            return alert("must enter to");
+        }
+    
+    if(from.value==to.value){
+        return alert("source and destination cannot be true");
+    } 
+    datepattern = /^([0-9]{2})\/([0-9]{2})\/([0-9]{4})$/;
+    if(datepattern.test(date.value)==false){
+        return alert("date is not in correct format.");
+    }
+    if(time.value==""){
+        return alert("must select an option from time");
+    }
+    if(services.value=""){
+        return alert("must select a service type");
+    }
+}
+
+
+</script>
+</head>
+
+<body>
+<div>
+    <div class="ex1">
+        <u style="color:blue">
+            <h1 style="color: blue; text-align:center"> JOY TRIP </h1>
+        </u>
+
+<form name="RegForm" method="post" onsubmit="return validateForm()">
+        <table style="width:100%" , border="1" , cellpadding="20">
+            <th style="color:blue" colspan="4"> Find My Schedule </th>
+
+            <tr>
+                <th style="color:blue" , align="center"> From</th>
+                <td align="center"> <input type="text" name="from" id="from"> </td>
+            </tr>
+
+            <tr>
+                <th style="color:blue" , align="center">To </th>
+                <td align="center"> <input type="text" name="to" id="to"> </td>
+            </tr>
+
+            <tr>
+                <th style="color:blue" , align="center"> Travel Date(DD/MM/YYYY) </th>
+                <td align="center"> <input type="text" name="date"> </td>
+                <th style="color:blue" , align="center"> Time </th> <td align="center">
+        <select id="select1">
+                <option value="6PM">6PM</option>
+                <option value="7PM">7PM</option>
+                <option value="8PM">8PM</option>
+        </select>
+    </td>
+            </tr>
+
+            <tr>
+                <th style="color:blue" , align="center"> Services </th>
+                <td align="center"> 
+        <select id="select2">
+                <option value="luxury">Luxury</option>
+                <option value="bussiness">Bussiness</option>
+                <option value="economy">Economy</option>
+        </select>
+     </td>
+            </tr>
+        </table>
+        <br><br>
+        <center> <input type="submit" value="Submit" onsubmit="return validateForm()"></center>
+
+    </form>   
+    </br>
+    </br>
+        <center> <button type="button">Home</button>
+    </div>
+</div>
+</body>   
+</html>

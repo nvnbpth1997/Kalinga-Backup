@@ -1,0 +1,29 @@
+<div class="grid-container">
+  <mat-grid-list cols="3" rowHeight="520px">
+    <ul *ngFor="let card of mobiles">
+    <mat-grid-tile>
+      <mat-card class="dashboard-card">
+        <mat-card-header>
+          <mat-card-title>
+            <h3>{{card.title}}</h3>
+            <button mat-icon-button class="more-button" [matMenuTriggerFor]="menu" aria-label="Toggle menu">
+              <mat-icon>more_vert</mat-icon>
+            </button>
+            <mat-menu #menu="matMenu" xPosition="before">
+              <button mat-menu-item>Expand</button>
+              <button mat-menu-item>Remove</button>
+            </mat-menu>
+          </mat-card-title>
+        </mat-card-header>
+        <mat-card-content class="dashboard-card-content">
+        <div><img src={{card.path}} height="200px"/> </div> 
+        </mat-card-content>
+        <div><span class="label">Memory </span> <span class = "values">{{card.rom}}</span></div>
+        <div><span class="label">RAM </span> <span class = "values">{{card.ram}}</span></div>
+        <div><span class="label">OS </span> <span class = "values">{{card.os}}</span></div><br>
+        <div><span class="cost">{{card.cost}}</span> </div>
+      </mat-card>
+    </mat-grid-tile>
+  </ul>
+  </mat-grid-list>
+</div>

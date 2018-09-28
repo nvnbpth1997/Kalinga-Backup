@@ -1,0 +1,67 @@
+﻿@model Events.Models.setEvents
+
+@*@{
+        List<Events.Models.setEvents> events = (List<Events.Models.setEvents>)
+            ViewData["events"];
+    }*@
+
+@*@{
+        List<Events.Models.setEvents> events = (List<Events.Models.setEvents>)
+            ViewBag.events;
+    }*@
+
+@{
+    List<Events.Models.setEvents> events = (List<Events.Models.setEvents>)
+        TempData["events"];
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>My Events</title>
+    <link rel="stylesheet" type="text/css" href="~/Content/loginform.css">
+</head>
+<body>
+    <div>
+        <h2>My Events</h2>
+        <hr />
+    </div>
+    <div>
+        <table>
+            <tr>
+                <th><h4>Title</h4></th>
+                <th><h4>Date</h4></th>
+                <th><h4>Time</h4></th>
+                <th><h4>Description</h4></th>
+                <th><h4>Location</h4></th>
+                <th><h4>Public Event</h4></th>
+                <th></th>
+                <th></th>
+            </tr>
+
+            @foreach (var ch in events)
+            {
+                <tr>
+                    <td><h5>@ch.title</h5></td>
+                    <td><h5>@ch.date</h5></td>
+                    <td><h5>@ch.time</h5></td>
+                    <td><h5>@ch.description</h5></td>
+                    <td><h5>@ch.location</h5></td>
+                    <td><h5>@ch.isPublic</h5></td>
+                    <td>@Html.ActionLink("Edit", "Edit", "Events")</td>
+                    <td>@Html.ActionLink("Delete", "Delete", "Events")</td>                    
+                </tr>
+            }
+
+        </table>
+    </div>
+</body>
+</html>
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\CosmeticStore\CosmeticStore.DataAccessLayer\bin\Debug\CosmeticStore.DataAccessLayer.dll.config
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\CosmeticStore\CosmeticStore.DataAccessLayer\bin\Debug\CosmeticStore.DataAccessLayer.dll
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\CosmeticStore\CosmeticStore.DataAccessLayer\bin\Debug\CosmeticStore.DataAccessLayer.pdb
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\CosmeticStore\CosmeticStore.DataAccessLayer\bin\Debug\CosmeticStore.Entities.dll
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\CosmeticStore\CosmeticStore.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\CosmeticStore\CosmeticStore.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\CosmeticStore\CosmeticStore.DataAccessLayer\bin\Debug\CosmeticStore.Entities.pdb
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\CosmeticStore\CosmeticStore.DataAccessLayer\bin\Debug\CosmeticStore.Entities.dll.config
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\CosmeticStore\CosmeticStore.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\CosmeticStore\CosmeticStore.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\CosmeticStore\CosmeticStore.DataAccessLayer\obj\Debug\CosmeticStore.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\CosmeticStore\CosmeticStore.DataAccessLayer\obj\Debug\CosmeticStore.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\CosmeticStore\CosmeticStore.DataAccessLayer\obj\Debug\CosmeticStore.DataAccessLayer.csproj.CopyComplete
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\CosmeticStore\CosmeticStore.DataAccessLayer\obj\Debug\CosmeticStore.DataAccessLayer.dll
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\CosmeticStore\CosmeticStore.DataAccessLayer\obj\Debug\CosmeticStore.DataAccessLayer.pdb

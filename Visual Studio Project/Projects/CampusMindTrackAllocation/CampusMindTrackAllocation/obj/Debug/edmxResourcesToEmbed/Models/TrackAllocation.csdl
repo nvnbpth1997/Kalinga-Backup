@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DatabaseModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Mind">
+    <Key>
+      <PropertyRef Name="MID" />
+    </Key>
+    <Property Name="MID" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Gender" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Contact" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="TrackId" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Track" Relationship="Self.FK_Tracks_Minds" FromRole="Minds" ToRole="Tracks" />
+  </EntityType>
+  <EntityType Name="Track">
+    <Key>
+      <PropertyRef Name="TrackId" />
+    </Key>
+    <Property Name="TrackId" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="TrackName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="RoomAllocated" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="LeadName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Minds" Relationship="Self.FK_Tracks_Minds" FromRole="Tracks" ToRole="Minds" />
+  </EntityType>
+  <Association Name="FK_Tracks_Minds">
+    <End Role="Tracks" Type="Self.Track" Multiplicity="1" />
+    <End Role="Minds" Type="Self.Mind" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tracks">
+        <PropertyRef Name="TrackId" />
+      </Principal>
+      <Dependent Role="Minds">
+        <PropertyRef Name="TrackId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="NaveenEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Minds" EntityType="Self.Mind" />
+    <EntitySet Name="Tracks" EntityType="Self.Track" />
+    <AssociationSet Name="FK_Tracks_Minds" Association="Self.FK_Tracks_Minds">
+      <End Role="Tracks" EntitySet="Tracks" />
+      <End Role="Minds" EntitySet="Minds" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

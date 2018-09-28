@@ -1,0 +1,52 @@
+﻿@model IEnumerable<RoomAllocation.Models.CombinedModel>
+
+@{
+    ViewBag.Title = "Allocation";
+}
+
+<h2>Room Allocation</h2>
+
+@{
+    if (!Model.Any())
+    {
+        <br><br><br><br><br>
+        <h4>There are no rooms available at this time. Try again later!</h4>
+        @Html.ActionLink("Back", "Index");
+    }
+    else
+    {
+        <table class="table">
+            <tr>
+                <th> Room ID</th>
+                <th> Block Name </th>
+                <th> Floor Number</th>
+                <th></th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @item.rooms.room_RID
+                    </td>
+                    <td>
+                        @item.rooms.room_blockName
+                    </td>
+                    <td>
+                        @item.rooms.room_floorNumber
+                    </td>
+                    <td>
+                        @Html.ActionLink("Select", "RoomSelect", new { id = item.rooms.roomID, id2 = item.users.userID })
+                    </td>
+                </tr>
+
+            }
+        </table>
+    }
+}
+
+
+
+
+
+
+

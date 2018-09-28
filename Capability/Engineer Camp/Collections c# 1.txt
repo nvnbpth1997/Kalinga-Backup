@@ -1,0 +1,103 @@
+1. ArrayList
+
+using System;
+using System.Collections;
+
+public class TestList {
+
+	public static void Main(string []args) 
+	{
+ArrayList al = new ArrayList();
+		float sum = 0;
+bool acceptFlag=true;
+		
+while(acceptFlag)
+	{
+Console.WriteLine("Enter some integer");
+int i = int.Parse(Console.ReadLine().ToString());
+	al.Add(i);
+Console.WriteLine("Do you want to continue? Y/N");
+char accept= char.Parse(Console.ReadLine().ToString().ToUpper());
+	if(accept=='Y')
+		acceptFlag=true;
+    else
+		acceptFlag=false;
+	}
+		
+		int count = al.Count;
+		Console.WriteLine("\n"+ count);
+		
+		foreach(int i in al)
+		  sum = sum + i;
+		
+		  sum=sum/count;
+		
+		Console.WriteLine("\n"+sum);
+		
+		if(count%2==0)
+		al.Insert(count/2, sum);
+		else
+		al.Insert((count/2)+1, sum);
+		
+		foreach(var i in al)
+			Console.Write(i+" ");
+		
+		al.RemoveAt(2);
+		
+		Console.Write("\n\n");
+		
+		al.Remove(sum);
+		
+		foreach(var i in al)
+			Console.Write(i+" ");
+		
+ }
+}
+
+
+
+2. Arraylist of objects
+
+using System;
+using System.Collections;
+
+public class TestList {
+	
+	string name;
+	
+	 void create() {
+		this.name = Console.ReadLine();
+	}
+	
+	string getName()
+	{
+		return this.name;
+	}
+
+	public static void Main(string []args) 
+	{
+		ArrayList al = new ArrayList();
+		
+		TestList []obj= new TestList[5];
+		
+		for(int i=0; i<5; ++i)
+		{
+			obj[i]=new TestList();
+			obj[i].create();
+			al.Add(obj[i]);
+		}
+		
+		foreach(TestList  i in al)
+			Console.Write("{0}  ",i.getName());
+		
+		Console.WriteLine();
+		
+		for(int i=0; i<al.Count; ++i)
+			Console.Write("{0}  ", obj[i].getName());	
+ }
+}
+
+
+
+
+3. 

@@ -1,0 +1,36 @@
+using System;
+using System.Collections.Generic;
+using System.Collections;
+
+namespace HashTableDemo
+{
+    public class Form
+		
+    {
+		public static void Main(string []args)
+		{
+         string variable1 = "key1";
+            Hashtable hashTable = new Hashtable();
+            hashTable.Add(variable1, new List<string>());
+			((List<string>)hashTable[variable1]).Add("text1");
+            ((List<string>)hashTable[variable1]).Add("text2");
+			
+			variable1 = "key2";
+			hashTable.Add(variable1, new List<string>());
+			((List<string>)hashTable[variable1]).Add("text3");
+            ((List<string>)hashTable[variable1]).Add("text4");
+			
+            
+
+			foreach(string key in hashTable.Keys)
+			{
+				 Console.WriteLine(key);
+				foreach(string s in ((List<string>)hashTable[key]))
+            {
+                Console.WriteLine(s);
+            }
+			}
+    }
+		
+	}
+}

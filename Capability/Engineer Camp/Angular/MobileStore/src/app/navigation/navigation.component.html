@@ -1,0 +1,60 @@
+<mat-sidenav-container class="sidenav-container">
+  <mat-sidenav
+    #drawer
+    class="sidenav"
+    fixedInViewport="true"
+    [attr.role]="(isHandset$ | async) ? 'dialog' : 'navigation'"
+    [mode]="(isHandset$ | async) ? 'over' : 'side'"
+    [opened]="!(isHandset$ | async)">
+    <mat-toolbar color="primary">Menu</mat-toolbar>
+    <mat-nav-list>
+      <h3>Brand</h3>
+      <div><mat-checkbox>Apple</mat-checkbox></div>
+      <div><mat-checkbox>Samsung</mat-checkbox></div>
+      <div><mat-checkbox>Sony</mat-checkbox></div>
+      <div><mat-checkbox>HTC</mat-checkbox></div>
+      <div><mat-checkbox>Nokia</mat-checkbox></div>
+      <div><mat-checkbox>OnePlus</mat-checkbox></div>
+
+      <h3>RAM</h3>
+      <div><mat-checkbox>512 MB - 1 GB</mat-checkbox></div>
+      <div><mat-checkbox>1 GB</mat-checkbox></div>
+      <div><mat-checkbox>2 GB</mat-checkbox></div>
+      <div><mat-checkbox>4 GB</mat-checkbox></div>
+      <div><mat-checkbox>6 GB</mat-checkbox></div>
+
+      <h3>Internal Storage</h3>
+      <div><mat-checkbox>8 GB</mat-checkbox></div>
+      <div><mat-checkbox>16 GB</mat-checkbox></div>
+      <div><mat-checkbox>32 GB</mat-checkbox></div>
+      <div><mat-checkbox>64 GB</mat-checkbox></div>
+      <div><mat-checkbox>128 GB</mat-checkbox></div>
+
+      <h3>Operating System</h3>
+      <div><mat-checkbox>Android</mat-checkbox></div>
+      <div><mat-checkbox>iOS</mat-checkbox></div>
+      <div><mat-checkbox>Windows</mat-checkbox></div>
+      <button mat-button (onclick)="clear">Clear Filters</button>      
+    </mat-nav-list>      
+  </mat-sidenav>
+  <mat-sidenav-content>
+      <mat-toolbar color="primary">
+          <button
+            type="button"
+            aria-label="Toggle sidenav"
+            mat-icon-button
+            (click)="drawer.toggle()"
+            *ngIf="isHandset$ | async">
+            <mat-icon aria-label="Side nav toggle icon">menu</mat-icon>
+          </button>
+          <span>
+              <h1>
+                Welcome to MobileStore!
+              </h1>
+          </span>
+          
+        </mat-toolbar>
+    <app-dashboard></app-dashboard>
+  </mat-sidenav-content>
+  
+</mat-sidenav-container>

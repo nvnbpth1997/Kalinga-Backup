@@ -1,0 +1,15 @@
+<button type="button" (click)="getEvents()">Show</button>
+<table *ngIf="list!=null; else th">
+  <th>
+    Event Name
+  </th>
+  <th>
+      Participant Name
+  </th>
+  <tr *ngFor="let event of list">
+    <td>{{event.eventName}}</td>
+    <td>{{event.participantName}}</td>
+  </tr>
+</table>
+<ng-template #th>
+</ng-template>

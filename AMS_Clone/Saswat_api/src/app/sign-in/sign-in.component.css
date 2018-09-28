@@ -1,0 +1,55 @@
+
+.mat-toolbar.mat-primary{
+	background: #8F6182;
+	color: #fff;
+}
+
+.title-center{
+  font-size: 30px;
+ text-align: center;
+  width: 100%;
+  font-style: bold;
+  color: white;
+}
+
+.login-container{
+	width: 50%;
+  	height:90%;
+	  padding: 0% !important;
+	background-color: #fff;
+
+}
+ 
+.login-box-header{
+	width: auto;
+    height: 20%;
+    background-color: #8F6182;;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 3em;
+    padding: 2%;
+    color: #fff;
+}
+ 
+.login-box-body{
+	width: auto;
+	height:100%;
+	padding: 5% 5% 5% 5%;
+	color: #d2d2d2;
+}
+
+.login-icon{
+	margin-top: -2px;
+}
+.justifier {
+	width: 100%;
+	padding-bottom: 2%;
+}
+.login-button{
+	width: 100%;
+	padding:1.5% !important;	
+	background-color: #8F6182;
+	margin-bottom: 3%;
+    font-size: 1.2em;
+    color: #fff !important;
+}

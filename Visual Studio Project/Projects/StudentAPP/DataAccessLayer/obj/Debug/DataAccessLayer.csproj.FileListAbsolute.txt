@@ -1,0 +1,15 @@
+c:\users\m1047096\documents\visual studio 2017\Projects\ClassLibrary1\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+c:\users\m1047096\documents\visual studio 2017\Projects\ClassLibrary1\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+c:\users\m1047096\documents\visual studio 2017\Projects\ClassLibrary1\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+c:\users\m1047096\documents\visual studio 2017\Projects\ClassLibrary1\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+c:\users\m1047096\documents\visual studio 2017\Projects\ClassLibrary1\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+c:\users\m1047096\documents\visual studio 2017\Projects\ClassLibrary1\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\DataAccessLayer\bin\Debug\StudentEntity.dll
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\DataAccessLayer\bin\Debug\StudentEntity.pdb
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete

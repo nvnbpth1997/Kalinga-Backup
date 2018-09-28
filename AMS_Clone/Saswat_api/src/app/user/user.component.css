@@ -1,0 +1,12 @@
+.title-center
+{
+  font-size: 30px;
+ text-align: center;
+  width: 100%;
+  font-style: bold;
+  color: white;
+}
+.mat-toolbar.mat-primary{
+	background: #8F6182;
+	color: #fff;
+}

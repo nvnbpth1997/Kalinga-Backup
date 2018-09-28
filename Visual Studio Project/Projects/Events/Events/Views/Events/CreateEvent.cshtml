@@ -1,0 +1,74 @@
+﻿@model Events.Models.setEvents
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create Event</title>
+
+    <link rel="stylesheet" type="text/css" href="~/Content/loginform.css">
+
+</head>
+<body>
+    @using (Html.BeginForm("CreateEvent", "Events", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+
+    <div class="form">
+        <h2>Create New Event</h2>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            <div>
+                @Html.Label("Title*")
+                @Html.TextBoxFor(model => model.title)
+            </div>
+            <br><br>
+
+            <div>
+                @Html.Label("Date*")
+                @Html.TextBoxFor(model => model.date)
+            </div>
+            <br><br>
+
+            <div>
+                @Html.Label("Time*")
+                @Html.TextBoxFor(model => model.time)
+            </div>
+            <br><br>
+
+                <div class="editor-multiline-field">
+                    @Html.Label("Description*")
+                    @Html.TextAreaFor(model => model.description)
+                </div>
+
+            <br>
+            <div>
+                @Html.Label("Location*")
+                @Html.TextBoxFor(model => model.location)
+            </div>
+            <br><br>
+
+            <div>
+                @Html.Label("Is Public?*")
+                Yes &nbsp;
+                @Html.RadioButtonFor(model => model.isPublic, "Yes")
+                &nbsp;&nbsp;&nbsp;
+                No &nbsp;
+                @Html.RadioButtonFor(model => model.isPublic, "No")
+            </div>
+
+            <br><br>
+
+            <div class="button-class">
+                <input type="submit" value="Create" class="btn btn-default" />
+                &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+                @Html.ActionLink("Cancel", "CreateEvent")
+            </div>
+        </div>
+     </div>   
+    }
+</body>
+   
+</html>

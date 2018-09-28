@@ -1,0 +1,329 @@
+1. 
+
+using System;
+
+namespace TestAccount{
+
+class AccountMgr{
+  public Account storeData(Account a)
+  {
+	a.accountNo = Convert.ToInt32(Console.ReadLine()); 
+	a.accountType  = Console.ReadLine();
+	a.debitCardNo = Convert.ToInt32(Console.ReadLine());
+	a.pin = Convert.ToInt32(Console.ReadLine());
+	a.loginId = Console.ReadLine();
+	a.password = Console.ReadLine();
+	a.balance = Convert.ToDouble(Console.ReadLine());
+
+	  return a;
+  }
+	
+	public void showData(Account a) {
+		Console.WriteLine("\n\n"+a.accountNo);
+		Console.WriteLine(a.accountType);
+		Console.WriteLine(a.debitCardNo);
+		Console.WriteLine(a.pin);
+		Console.WriteLine(a.loginId);
+		Console.WriteLine(a.password);
+		Console.WriteLine(a.balance);		
+	}
+}
+
+class Account{
+	public int accountNo;
+	public string accountType;
+	public int debitCardNo;
+	public int pin;
+	public string loginId;
+	public string password;
+	public double balance;	
+	}
+	
+public class TestMain {
+	public static void Main(string []args) {
+	  AccountMgr am = new AccountMgr();
+	  Account a =  new Account();
+	  a = am.storeData(a);
+	  am.showData(a);
+	}
+		
+}
+}
+
+
+2. 
+
+using System;
+
+namespace TestPayee{
+
+class PayeeMgr{
+  public Payee storeData(Payee p)
+  {
+	 p.setpayeeid(Convert.ToInt32(Console.ReadLine())); 
+	p.setaccName(Console.ReadLine());
+	p.setaccNo(Convert.ToInt32(Console.ReadLine()));
+	p.setbank(Console.ReadLine());
+	
+	 return p;
+  }
+	
+	public void showData(Payee p) {
+		Console.WriteLine("\n\n"+p.getpayeeid());
+		Console.WriteLine(p.getaccName());
+		Console.WriteLine(p.getaccNo());
+		Console.WriteLine(p.getbank());		
+	}
+}
+
+class Payee{
+	int payeeid;
+	string accName;
+	int accNo;
+	string bank;
+	
+	public void setpayeeid(int payeeid)
+	{
+		this.payeeid = payeeid;
+	}
+	
+	public void setaccName(string accName)
+	{
+		this.accName = accName;
+	}
+	
+	public void setaccNo(int accNo)
+	{
+		this.accNo = accNo;
+	}
+	
+	public void setbank(string bank)
+	{
+		this.bank = bank;
+	}
+	
+	public int getpayeeid()
+	{
+		return payeeid;
+	}
+	
+	public string getaccName()
+	{
+		return accName;
+	}
+	
+	public int getaccNo()
+	{
+		return accNo;
+	}
+	
+	public string getbank()
+	{
+		return bank;
+	}
+	
+	}
+	
+public class TestMain {
+	public static void Main(string []args) {
+	  PayeeMgr pm = new PayeeMgr();
+	  Payee p =  new Payee();
+	  p = pm.storeData(p);
+	  pm.showData(p);
+	}
+		
+}
+}
+
+
+3. 
+
+using System;
+
+namespace TestContact{
+
+class ContactInfoMgr{
+  public ContactInfo storeData(ContactInfo c)
+  {
+	  c.address = Console.ReadLine(); 
+	c.city = Console.ReadLine();
+	c.state = Console.ReadLine();
+	c.country = Console.ReadLine();
+	c.mobileNo =  Console.ReadLine();
+	c.emailid =  Console.ReadLine();
+	 return c;
+  }
+	
+	public void showData(ContactInfo c) {
+		Console.WriteLine("\n\n"+c.address);
+		Console.WriteLine(c.city);
+		Console.WriteLine(c.state);
+		Console.WriteLine(c.country);		
+		Console.WriteLine(c.mobileNo);
+		Console.WriteLine(c.emailid );
+	}
+}
+
+class ContactInfo{
+	public string address;
+	public string city;
+	public string state;
+	public string country;
+	public string mobileNo;
+	public string emailid;
+	}
+	
+public class TestMain {
+	public static void Main(string []args) {
+	  ContactInfoMgr cm = new ContactInfoMgr();
+	  ContactInfo c =  new ContactInfo();
+	  c = cm.storeData(c);
+	  cm.showData(c);
+	}
+		
+}
+}
+
+4.
+
+using System;
+
+namespace Equals{
+	
+public class current {
+		
+	 string companyName;
+	 string typeOfBusiness;
+	 string website;
+	 string contactName;
+		
+	void getData()
+	{
+		 companyName = Console.ReadLine();
+		 typeOfBusiness = Console.ReadLine();
+		 website = Console.ReadLine();
+		 contactName = Console.ReadLine();
+	}
+	
+	static void check(current c1, current c2)
+	{
+		Console.WriteLine("\n\nCheck Value:{0}",c1.equals(c2));
+	}
+	
+	bool equals(current c)
+	{
+		if(c==null)
+			return false;
+	return(this.companyName==c.companyName&&this.typeOfBusiness==c.typeOfBusiness&&this.website==c.website&&this.contactName==c.contactName);	
+	}
+	
+	public static void Main(String []args)
+	{
+		current c1 = new current();
+		current c2 = new current();
+		
+		c1.getData();
+		c2.getData();
+		
+		check(c1, c2);
+	}
+	}
+	
+}
+
+
+5. 
+
+using System;
+
+namespace Equals{
+	
+public class current {
+		
+	 string companyName;
+	 string typeOfBusiness;
+	 string website;
+	 string contactName;
+		
+	void getData()
+	{
+		 companyName = Console.ReadLine();
+		 typeOfBusiness = Console.ReadLine();
+		 website = Console.ReadLine();
+		 contactName = Console.ReadLine();
+	}
+	
+	static void check(current c1, current c2)
+	{
+		Console.WriteLine("\n\nCheck Value:{0}",c1.Equals(c2));
+	}
+	
+	bool Equals(current c)
+	{
+		if(c==null)
+			return false;
+	return(this.companyName==c.companyName&&this.typeOfBusiness==c.typeOfBusiness&&this.website==c.website&&this.contactName==c.contactName);	
+	}
+	
+	public static void Main(String []args)
+	{
+		current c1 = new current();
+		current c2 = new current();
+		
+		c1.getData();
+		c2.getData();
+		
+		//string s1 = "Naveen";
+		//string s2 = "Naveen";
+		
+		check(c1,c2);
+		
+		//Console.WriteLine(c1.Equals(c2));
+	}
+	}	
+}
+
+6. 
+
+using System;
+
+namespace Equals{
+	
+public class Transaction {
+		
+	 string transactID;
+	 int amount;
+	 string transactDate;
+		
+	void getData()
+	{
+		 transactID = Console.ReadLine();
+		 amount = Convert.ToInt32(Console.ReadLine());
+		 transactDate = Console.ReadLine();
+	}
+	
+	static void check(Transaction c1, Transaction c2)
+	{
+		Console.WriteLine("\n\nCheck Value:{0}",c1.Equals(c2));
+	}
+	
+	bool Equals(Transaction c)
+	{
+		if(c==null)
+			return false;
+	return(this.transactID==c.transactID&&this. amount==c. amount&&this. transactDate==c.transactDate);	
+	}
+	
+	public static void Main(String []args)
+	{
+		Transaction c1 = new Transaction();
+		Transaction c2 = new Transaction();
+		
+		c1.getData();
+		c2.getData();
+		
+		
+		check(c1,c2);
+	}
+	}	
+}

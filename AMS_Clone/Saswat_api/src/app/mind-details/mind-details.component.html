@@ -1,0 +1,53 @@
+<div class="container">
+  <div class="card">
+    <mat-card>
+      <mat-card-header>
+        <mat-card-title>
+          <h1>{{mind.FirstName}} {{mind.LastName}}</h1>
+        </mat-card-title>
+        <mat-card-subtitle>
+          <h2>({{mind.Mid}})</h2>
+        </mat-card-subtitle>
+      </mat-card-header>
+      <br/>
+      <h3 class="cmImg">
+        <img [src]="mb.Photograph" alt={{mb.Mid}} *ngIf="(mb.Photograph != null); else noImageFound"  style="width:140px;height:120px"
+           align="center">
+          </h3>
+          <ng-template #noImageFound>
+            <h3 class="cmImg">
+              <img src="https://firebasestorage.googleapis.com/v0/b/attendance-cc2a0.appspot.com/o/minds.png?alt=media&token=ebbb1edf-46a5-4bf2-ad05-3935e030ae55"
+                style="width:140px;height:120px"  align="center">
+                </h3>
+                </ng-template>
+      <mat-card-content>
+        <h3>Phone Number: {{mind.PhoneNo}}</h3>
+        <h3>Email: {{mind.Email}}</h3>
+        <h3>Gender: {{mind.Gender}}</h3>
+        <h3>Lead Name: {{mind.LeadName}}</h3>
+        <h3>Lead Email: {{mind.LeadEmail}}</h3>
+        <h3>Residence: {{mind.ResidenceString}}</h3>
+      </mat-card-content>
+    </mat-card>
+  </div>
+  <div class="list">
+    <mat-grid-list cols=2 rowHeight="6:1">
+      <!-- <mat-grid-tile-header><img src="/assets/minds.png" style="width:210px;height:180px" align="center"></mat-grid-tile-header>
+    <br/>
+    <mat-grid-tile>MID: {{mind.Mid}}</mat-grid-tile>
+    <mat-grid-tile>Name: {{mind.FirstName}} {{mind.LastName}}</mat-grid-tile>
+    <mat-grid-tile>Phone Number: {{mind.PhoneNo}}</mat-grid-tile>
+    <mat-grid-tile>Email: {{mind.Email}}</mat-grid-tile>
+    <mat-grid-tile>Gender: {{mind.Gender}}</mat-grid-tile>
+    <mat-grid-tile>Lead Name: {{mind.LeadName}}</mat-grid-tile>
+    <mat-grid-tile>Allocated Room: {{mind.AllocatedSpace}}</mat-grid-tile>
+    <mat-grid-tile>Residence: {{mind.ResidenceString}}</mat-grid-tile> -->
+      <mat-grid-tile class="late">
+        <h3>Number of Late Swipes: {{mind.LateSwipe}}</h3>
+      </mat-grid-tile>
+      <mat-grid-tile class="no">
+        <h3>Number of No Swipes: {{mind.NotSwipe}}</h3>
+      </mat-grid-tile>
+    </mat-grid-list>
+  </div>
+</div>

@@ -1,0 +1,14 @@
+<form [formGroup]="eventForm" (ngSubmit)="postEvent()">
+<label>
+  Event Name:
+  <select formControlName="eventName" required>
+  <option *ngFor="let event of eventsList" [value]="event.name">{{event.name}}</option>
+</select>
+</label>
+<label>
+  Participant Name:
+  <input type="text" formControlName="participantName" required>
+</label>
+<button type="submit" [disabled]="!eventForm.valid">Submit</button>
+
+</form>

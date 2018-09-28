@@ -1,0 +1,58 @@
+
+ 
+
+ <!-- user should have Admin and Non-Admin-->       
+ <form #LoginForm = "ngForm" 
+ (ngSubmit) = "onSubmit(UserName.value, Password.value)">
+ <mat-toolbar  color="primary">
+        <span class="title-center">Login</span>      
+      </mat-toolbar>
+ <div *ngIf="signInError" class="red-text center error-message">
+    <i class="material-icons">error</i> Incorrect username or password
+</div>
+
+<mat-grid-list cols="1">
+
+<mat-grid-tile class='login-element'>
+    <div class="login-container">
+            
+
+        <div class="login-box-body">
+            <mat-grid-list cols="9" rowHeight="75px">
+                <mat-grid-tile [rowspan]="1" class="login-icon">
+                    <mat-icon>lock</mat-icon>
+                </mat-grid-tile>
+                <mat-grid-tile [colspan]="7">
+                    <mat-form-field class="justifier">
+                        <input type = "text" #UserName ngModel name="Username" matInput placeholder="Username" required>
+                    </mat-form-field>
+                </mat-grid-tile>
+            </mat-grid-list>
+
+
+            <mat-grid-list cols="9" rowHeight="100px">
+                <mat-grid-tile [rowspan]="1"  class="login-icon">
+                    <mat-icon>remove_red_eye</mat-icon>
+                </mat-grid-tile>
+                <mat-grid-tile [colspan]="7">
+                    <mat-form-field class="justifier">
+                        <input type = "password" #Password ngModel name = "Password" matInput placeholder="Password" required>
+                    </mat-form-field>
+                </mat-grid-tile>
+            </mat-grid-list>
+     
+
+            <button mat-raised-button class="login-button"> 
+                <mat-icon>input</mat-icon> Login
+            </button>
+            <button mat-raised-button class="login-button" (click) = "forgotPassword();"> 
+                Forgot Password?
+            </button>
+        </div>
+        
+    </div>
+</mat-grid-tile>
+</mat-grid-list>
+
+</form>
+

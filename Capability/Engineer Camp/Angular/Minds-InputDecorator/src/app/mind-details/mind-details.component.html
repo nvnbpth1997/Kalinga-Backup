@@ -1,0 +1,12 @@
+<hr />
+<h2 style="color:orange">Details</h2>
+<div>
+<table>
+ <tr> <th> MID </th> <th> Name </th> <th> TrackName </th> </tr>
+ <tr *ngFor="let item of mind"> 
+   <td [ngClass]="{'positive' : item.track == '.Net', 'negative' : item.track == 'Java'}"> {{item.mid}} </td>
+    <td [ngClass]="{'positive' : item.track == '.Net', 'negative' : item.track == 'Java'}"> {{item.name}} </td>
+     <td [ngClass]="{'positive' : item.track == '.Net', 'negative' : item.track == 'Java'}"> {{item.track}} </td> 
+  </tr>
+    </table>
+</div>

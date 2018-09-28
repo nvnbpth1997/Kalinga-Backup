@@ -1,0 +1,38 @@
+.grid-container {
+  margin-left: 20px;
+}
+
+.dashboard-card {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  right: 15px;
+  bottom: 15px;
+}
+
+.more-button {
+  position: absolute;
+  top: 5px;
+  right: 10px;
+}
+
+ .dashboard-card-content {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+} 
+
+.label{
+  margin-left : 20px;
+  display: inline-block;
+  min-width: 150px;
+  font-weight: bold;
+  margin-left: 80px;
+  padding-bottom: 10px;
+}
+
+.cost{
+  font-weight: bold;
+  margin-left: 250px;
+}
+

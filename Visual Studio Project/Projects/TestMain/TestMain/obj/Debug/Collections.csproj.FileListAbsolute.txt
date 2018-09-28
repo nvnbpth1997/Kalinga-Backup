@@ -1,0 +1,7 @@
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\TestMain\TestMain\bin\Debug\TestMain.exe.config
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\TestMain\TestMain\bin\Debug\TestMain.exe
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\TestMain\TestMain\bin\Debug\TestMain.pdb
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\TestMain\TestMain\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\TestMain\TestMain\obj\Debug\TestMain.exe
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\TestMain\TestMain\obj\Debug\TestMain.pdb
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\TestMain\TestMain\obj\Debug\Collections.csprojAssemblyReference.cache

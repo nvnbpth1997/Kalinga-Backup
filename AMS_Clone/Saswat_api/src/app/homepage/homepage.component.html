@@ -1,0 +1,60 @@
+
+<!--<app-logout name="logout"> </app-logout>-->
+  <mat-sidenav-container class="sidenav-container" >
+
+    <!--^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^BEGINNING OF SIDENAV^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ -->
+    <mat-sidenav
+      #drawer
+      class="sidenav"
+      fixedInViewport="true"
+      [attr.role]="(isHandset$ | async) ? 'dialog' : 'navigation'"
+      [mode]="(isHandset$ | async) ? 'over' : 'side'"
+      [opened]="!(isHandset$ | async)">
+       <mat-toolbar class="tool"> 
+          <a routerLink="/home/swiped-not-on-time">
+            <img src="https://firebasestorage.googleapis.com/v0/b/attendance-cc2a0.appspot.com/o/mindtreelogo.jpg?alt=media&token=4e8d9462-0618-43a9-a877-ffbe7493718f"  width="200px" height="60px">
+          </a>
+          </mat-toolbar> 
+
+
+     <!--^^^^^^^^^^^^^^^^^^^^^^^^^^^^BEGINNING OF LIST CONTAINED IN SIDENAV^^^^^^^^^^^^^^^^^^^^^^^^^-->
+      <mat-nav-list >
+         <div>
+        <a mat-list-item routerLink="./swiped-on-time"class="hov">Swiped On Time</a>
+        <a mat-list-item routerLink="./swiped-not-on-time"class="hov">Late Swiped </a>
+        <a mat-list-item routerLink="./not-swiped"class="hov">Not Swiped</a>
+        <a mat-list-item routerLink="./upload-excused-excel"class="hov">Upload Excused</a>
+         </div>
+         
+      </mat-nav-list>
+      <!--^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^END OF LIST CONTAINED IN SIDENAV^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^-->
+    </mat-sidenav>
+    <!--^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^END OF SIDENAV^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ -->
+    
+
+    <!--^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^BEGINNING OF TOOLBAR^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ -->
+    <mat-sidenav-content>
+      <mat-toolbar class="toolbar">
+         <button
+          type="button"
+          aria-label="Toggle sidenav"
+          mat-icon-button
+          (click)="drawer.toggle()"
+          *ngIf="isHandset$ | async">
+          <mat-icon aria-label="Side nav toggle icon">menu</mat-icon>
+        </button>
+         <span class="span">AMS </span>  
+         <a mat-list-item routerLink="./settings"class="hovering">Settings</a>
+         <a  class="hovering"(click)="Logout()"> Logout </a>
+
+    <!--^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^LOG OUT OPTION PRESENT IN TOOLBAR ^^^^^^^^^^^^^^^^^^^^^^^^-->
+         <!-- <button type="button" class="btn" routerLink="./logout">Logout</button> -->
+
+         
+        </mat-toolbar>
+
+      <router-outlet></router-outlet>
+    </mat-sidenav-content>
+  </mat-sidenav-container>
+ 
+  

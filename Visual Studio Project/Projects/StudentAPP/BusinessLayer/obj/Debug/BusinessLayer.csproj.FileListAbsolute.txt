@@ -1,0 +1,13 @@
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\BusinessLayer\bin\Debug\StudentEntity.dll
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\BusinessLayer\bin\Debug\StudentEntity.pdb
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\BusinessLayer\bin\Debug\Exceptions.dll
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\BusinessLayer\bin\Debug\Exceptions.pdb

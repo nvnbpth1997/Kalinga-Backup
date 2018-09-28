@@ -1,0 +1,32 @@
+<section class="section">
+<div class="container">
+<form #myForm="ngForm">
+  
+    <!-- name -->
+    <div class="field">
+      <input #name="ngModel" type="text" name="name" class="input" placeholder="Your Name" [(ngModel)]="feedback.name" required>
+    </div>
+    <div class="field" style="color:red" *ngIf="name.invalid"> 
+      *Name required 
+    </div> 
+    <!-- mid -->
+    <div class="field">
+      <input #mid="ngModel" type="text" name="mid" class="input" placeholder="Your Mid" [(ngModel)]="feedback.mid" required>
+    </div>
+    <div class="field" style="color:red" *ngIf="mid.invalid"> 
+      *MID required 
+    </div> 
+    <!-- message -->
+    <div class="field">
+      <textarea #comment="ngModel" class="textarea" name="feedback" placeholder="Give your feedback!" [(ngModel)]="feedback.comment" required></textarea>
+    </div>
+    <div class = "field" style="color:red" *ngIf="comment.invalid"> 
+      *Feedback required 
+    </div> 
+    <button class="button is-danger is-large" [disabled]="!myForm.valid"  (click)="processForm()">Submit</button> &nbsp;
+    <button class="button is-danger is-large" (click)="clearForm()">Clear</button>
+  
+  </form>
+  <app-feedback-comments [details]="feedbacks.reverse()"></app-feedback-comments>
+</div>
+</section>

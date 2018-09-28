@@ -1,0 +1,3 @@
+enable-migrations -cotextTypeName Conext_name -migratonsDirectory migration_folder_name
+add-migration -configurationtypename configuration_name migration_name
+update-database -configurationtypename configuration_name -verbose -force

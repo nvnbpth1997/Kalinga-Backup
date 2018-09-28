@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DatabaseModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Minds">
+    <Key>
+      <PropertyRef Name="MID" />
+    </Key>
+    <Property Name="MID" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Gender" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Contact" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="TrackId" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Tracks">
+    <Key>
+      <PropertyRef Name="TrackId" />
+    </Key>
+    <Property Name="TrackId" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="TrackName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="RoomAllocated" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="LeadName" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Tracks_Minds">
+    <End Role="Tracks" Type="Self.Tracks" Multiplicity="1" />
+    <End Role="Minds" Type="Self.Minds" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tracks">
+        <PropertyRef Name="TrackId" />
+      </Principal>
+      <Dependent Role="Minds">
+        <PropertyRef Name="TrackId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DatabaseModelStoreContainer">
+    <EntitySet Name="Minds" EntityType="Self.Minds" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tracks" EntityType="Self.Tracks" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Tracks_Minds" Association="Self.FK_Tracks_Minds">
+      <End Role="Tracks" EntitySet="Tracks" />
+      <End Role="Minds" EntitySet="Minds" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

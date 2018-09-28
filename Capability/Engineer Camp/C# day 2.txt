@@ -1,0 +1,149 @@
+1. 
+
+using System;
+
+
+	class User {
+	
+			 int userId;
+			string dateOfBirth;
+			 string userName;
+			char gender;
+			string guardianName;
+		 
+		public User(int uId, string dob, string uname, char g, string gname)
+		{
+			userId = uId;
+			dateOfBirth = dob;
+			userName = uname;
+			gender = g;
+			guardianName = gname;
+		}
+		
+		public int getuserId() {
+			return this.userId;
+		}
+		
+		public string getdateOfBirth() {
+			return this.dateOfBirth;
+		}
+		public string getuserName() {
+		    return this.userName;	
+		}
+		public char getgender() {
+		  return this.gender;	
+		}
+		public string getguardianName() {
+		return this.guardianName;	
+		}
+	}
+	
+	public class UserManager {
+	
+		User createUser()
+		{
+			return new User(12, "July", "nvn", 'm', "bpth");	
+		}
+		
+		void showUserDetails(User u) {
+			Console.WriteLine("{0}  {1}  {2}  {3}  {4}", u.getuserId(), u.getdateOfBirth(), u.getuserName(), u.getgender(), u.getguardianName());
+		}
+		
+		public static void Main(string []args) 
+		{
+			UserManager um = new UserManager();
+		    User u = um.createUser();
+			um.showUserDetails(u);	
+		}
+	}
+
+
+
+2. 
+
+using System;
+
+abstract class Account {
+    int accountNo;
+    string accountType;
+	int debitCardNo;
+	int pin;
+	string loginId;
+	string password;
+	double balance;
+	
+	public abstract void setDetails();
+	public abstract string getDetails();
+}
+
+class Current : Account {
+	
+string companyName;
+string typeOfBusiness;
+string website;
+string contactName;
+	
+	public override void setDetails()
+	{
+	  companyName = "Mindtree";
+	  typeOfBusiness = "IT";
+	  website = "www.mindtree.com";
+	  contactName = "Amar";
+	}
+	
+	
+	public override string getDetails()
+	{
+	return this.companyName + " " + this.typeOfBusiness + " " + this.website + "  " + this.contactName;
+	}
+	
+	
+	Account acc = new Current();
+	AccountManager am = new AccountManager();
+	
+}
+
+class Savings_Corporate : Account{
+string companyName;	
+	
+	public override void setDetails()
+	{
+	  companyName = "Fiddle";
+	}
+	
+	public override string getDetails()
+	{
+		return this.companyName;
+	}
+	
+}
+
+public class AccountManager {
+
+  Account createAccount() 
+	{
+	    Account acc;
+		Console.WriteLine("1. Current Account \n 2. Corporate Savings Account");
+		if(Convert.ToInt32(Console.ReadLine())==1)
+			 acc = new Current();
+		else
+			 acc = new Savings_Corporate();
+		
+		acc.setDetails();
+		return acc;
+	}
+	
+ void displayAccount(Account acc) 
+	{
+		Console.WriteLine(acc.getDetails());
+	}
+	
+	public static void Main(string []args)
+	{
+	   	 AccountManager am = new AccountManager();
+		 Account acc;
+		 acc=am.createAccount();
+		 am.displayAccount(acc);
+	}
+	
+}

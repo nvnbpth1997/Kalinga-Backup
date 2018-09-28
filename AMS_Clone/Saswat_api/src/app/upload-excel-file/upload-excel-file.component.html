@@ -1,0 +1,60 @@
+  <mat-sidenav-container class="sidenav-container" >
+<mat-sidenav #drawer class="sidenav" fixedInViewport="true" [attr.role]="(isHandset$ | async) ? 'dialog' : 'navigation'"
+  [mode]="(isHandset$ | async) ? 'over' : 'side'" [opened]="!(isHandset$ | async)">
+  <mat-toolbar class="tool">
+    <img src="https://firebasestorage.googleapis.com/v0/b/attendance-cc2a0.appspot.com/o/mindtreelogo.jpg?alt=media&token=4e8d9462-0618-43a9-a877-ffbe7493718f" width="200px" height="60px">
+  </mat-toolbar>
+</mat-sidenav>
+<mat-sidenav-content>
+  <mat-toolbar class="toolbar">
+    
+    <span class="span">AMS </span>
+
+    
+    <a class="hovering" (click)="Logout()"> Logout </a>
+
+   
+
+  </mat-toolbar>
+  
+  <!-- <div class = "container">
+    <div class = "row"> 
+    <div class = "col-lg-3 col-md-3 col-sm-3"></div> 
+    <div class = "col-lg-6 col-md-6 col-sm-6">
+      <h3>Please upload Excel File..</h3>
+      <br> <br>
+    <input style type="file" #fileuploader ngf-pattern="'.xlsx'" accept="xlsx" class="btn btn-success" (change)="onFileChange($event)">
+    <button type="file" [disabled]="disableUpload !== 1" class="btn dark btn-outline" (click)="uploadfile()">Upload</button> 
+    </div>
+    <div class = "col-lg-3 col-md-3 col-sm-3"></div>
+    </div>
+    </div>  -->
+
+    <mat-tab-group class="group">
+      <mat-tab label="UPLOAD REGULAR FILE">
+      <div class = "regular">
+      <h3>Please upload Excel File..</h3>
+      <br> <br>
+      <input style type="file" #fileuploader ngf-pattern="'.xlsx'" ref="cmrecords"accept="xlsx" class="btn btn-success" (change)="onFileChangereg($event)" >
+      <button type="file"  [disabled]="disableUploadreg!==1"class="btn dark btn-outline" (click)="uploadfile()">Upload</button>  
+      </div>
+      </mat-tab>
+      <mat-tab label="UPLOAD MINDS RECORDS">
+          <h3>Please upload Excel File..</h3>
+          <br> <br>
+      <input style type="file" #fileuploader ngf-pattern="'.xlsx'" ref="regular" accept="xlsx" class="btn btn-success" (change)="onFileChange($event)" >
+      <button type="file"class="btn dark btn-outline"[disabled]="disableUpload!==1" (click)="uploadCMfile()">Upload</button> 
+      <h3>Upload Image Here</h3><h5>(Rename the Image to Mids)</h5>
+      <br> <br>
+      <input type="file" #Image accept="image/*" multiple (change)="getFileDetails($event.target.files)">
+      <button type="submit" class="btn-large btn-submit" (click)="uploadFiles()" [disabled]="isUploading==false||Image.value==''">Upload Images</button>  
+    </mat-tab>
+      </mat-tab-group> 
+
+</mat-sidenav-content>
+</mat-sidenav-container>
+
+
+
+
+

@@ -1,0 +1,6 @@
+ng generate module customers --routing
+
+ng generate component customers/customer-list
+
+module_name.module#ModuleClassName
+

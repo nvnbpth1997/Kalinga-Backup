@@ -1,0 +1,452 @@
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\ITracking.Bussiness.dll.config
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\ITracking.Bussiness.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\ITracking.Bussiness.pdb
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\EntityFramework.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\EntityFramework.xml
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\obj\Debug\ITracking.Bussiness.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\obj\Debug\ITracking.Bussiness.pdb
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\obj\Debug\ITracking.Business.csprojResolveAssemblyReference.cache
+D:\Attendance Tracking\ITracking.Bussiness\bin\Debug\ITracking.Bussiness.dll.config
+D:\Attendance Tracking\ITracking.Bussiness\bin\Debug\ITracking.Bussiness.dll
+D:\Attendance Tracking\ITracking.Bussiness\bin\Debug\ITracking.Bussiness.pdb
+D:\Attendance Tracking\ITracking.Bussiness\bin\Debug\EntityFramework.dll
+D:\Attendance Tracking\ITracking.Bussiness\bin\Debug\EntityFramework.SqlServer.dll
+D:\Attendance Tracking\ITracking.Bussiness\bin\Debug\EntityFramework.xml
+D:\Attendance Tracking\ITracking.Bussiness\bin\Debug\EntityFramework.SqlServer.xml
+D:\Attendance Tracking\ITracking.Bussiness\obj\Debug\ITracking.Bussiness.dll
+D:\Attendance Tracking\ITracking.Bussiness\obj\Debug\ITracking.Bussiness.pdb
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\Newtonsoft.Json.dll
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\System.Web.Http.dll
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\Newtonsoft.Json.xml
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\System.Web.Http.xml
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\Unity.Abstractions.dll
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\Unity.AspNet.WebApi.dll
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\Unity.Container.dll
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\WebActivatorEx.dll
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\Unity.AspNet.WebApi.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\ITracking.Bussiness.dll.config
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\ITracking.Bussiness.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\ITracking.Bussiness.pdb
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\EntityFramework.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Cors.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Newtonsoft.Json.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Owin.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\System.Web.Cors.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\System.Web.Http.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Unity.Abstractions.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Unity.AspNet.WebApi.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Unity.Container.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\WebActivatorEx.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\EntityFramework.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Cors.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Newtonsoft.Json.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\System.Web.Http.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Unity.AspNet.WebApi.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\obj\Debug\ITracking.Business.csprojAssemblyReference.cache
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\obj\Debug\ITracking.Business.csproj.CoreCompileInputs.cache
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\obj\Debug\ITracking.Business.csproj.CopyComplete
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\obj\Debug\ITracking.Bussiness.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\obj\Debug\ITracking.Bussiness.pdb
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\ITracking.Bussiness.dll.config
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\ITracking.Bussiness.dll
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\ITracking.Bussiness.pdb
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\EntityFramework.dll
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\EntityFramework.SqlServer.dll
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Newtonsoft.Json.dll
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\System.Net.Http.Formatting.dll
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\System.Web.Http.dll
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\System.Web.Http.WebHost.dll
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Unity.Abstractions.dll
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Unity.AspNet.WebApi.dll
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Unity.Container.dll
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\WebActivatorEx.dll
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\EntityFramework.xml
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\EntityFramework.SqlServer.xml
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Newtonsoft.Json.xml
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\System.Net.Http.Formatting.xml
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\System.Web.Http.xml
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\System.Web.Http.WebHost.xml
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Unity.AspNet.WebApi.xml
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\obj\Debug\ITracking.Bussiness.dll
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\obj\Debug\ITracking.Bussiness.pdb
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\System.Web.Cors.dll
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\Tracking.Entities.dll
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\Tracking.Entities.pdb
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\Tracking.Entities.dll.config
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\System.Web.Http.Cors.xml
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\System.Web.Cors.dll
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\System.Web.Http.Cors.dll
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Tracking.Entities.dll
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Tracking.Entities.pdb
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Tracking.Entities.dll.config
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\System.Web.Http.Cors.xml
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\obj\Debug\ITracking.Business.csprojResolveAssemblyReference.cache
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\ITracking.Bussiness.dll.config
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\ITracking.Bussiness.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\ITracking.Bussiness.pdb
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\EntityFramework.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\EntityFramework.SqlServer.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Cors.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Newtonsoft.Json.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Owin.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\System.Net.Http.Formatting.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\System.Web.Cors.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\System.Web.Http.Cors.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\System.Web.Http.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\System.Web.Http.WebHost.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Tracking.Entities.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Unity.Abstractions.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Unity.AspNet.WebApi.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Unity.Container.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\WebActivatorEx.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Tracking.Entities.pdb
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Tracking.Entities.dll.config
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\EntityFramework.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\EntityFramework.SqlServer.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Cors.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Newtonsoft.Json.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\System.Net.Http.Formatting.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\System.Web.Http.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\System.Web.Http.Cors.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\System.Web.Http.WebHost.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Unity.AspNet.WebApi.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\obj\Debug\ITracking.Business.csprojResolveAssemblyReference.cache
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\obj\Debug\ITracking.Bussiness.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\ITracking.Bussiness\obj\Debug\ITracking.Bussiness.pdb
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Tracking.Entities.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Tracking.Entities.pdb
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Tracking.Entities.dll.config
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\System.Web.Http.Cors.xml
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Cors.dll
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.dll
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.dll
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Owin.dll
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.xml
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Cors.xml
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.xml
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\AttendanceTracking_WebAPI\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\ITracking.Bussiness.dll.config
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\ITracking.Bussiness.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\ITracking.Bussiness.pdb
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\EntityFramework.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Cors.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\Newtonsoft.Json.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\Owin.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Cors.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Http.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\Tracking.Entities.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\Unity.Abstractions.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\Unity.AspNet.WebApi.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\Unity.Container.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\WebActivatorEx.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\Tracking.Entities.pdb
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\Tracking.Entities.dll.config
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\EntityFramework.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Cors.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\Newtonsoft.Json.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Http.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\Unity.AspNet.WebApi.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\obj\Debug\ITracking.Business.csprojResolveAssemblyReference.cache
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\obj\Debug\ITracking.Bussiness.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\obj\Debug\ITracking.Bussiness.pdb
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\Tracking.DataAccessLayer.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\Tracking.DataAccessLayer.pdb
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\ITracking.Bussiness\bin\Debug\Tracking.DataAccessLayer.dll.config
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\ITracking.Bussiness.dll.config
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\ITracking.Bussiness.dll
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\ITracking.Bussiness.pdb
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\EntityFramework.dll
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\EntityFramework.SqlServer.dll
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Cors.dll
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.dll
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.dll
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\Newtonsoft.Json.dll
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\Owin.dll
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Net.Http.Formatting.dll
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Cors.dll
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Http.Cors.dll
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Http.dll
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Http.WebHost.dll
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\Tracking.DataAccessLayer.dll
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\Tracking.Entities.dll
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\Unity.Abstractions.dll
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\Unity.AspNet.WebApi.dll
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\Unity.Container.dll
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\WebActivatorEx.dll
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\Tracking.DataAccessLayer.pdb
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\Tracking.DataAccessLayer.dll.config
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\Tracking.Entities.pdb
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\Tracking.Entities.dll.config
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\EntityFramework.xml
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\EntityFramework.SqlServer.xml
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.xml
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Cors.xml
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.xml
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\Newtonsoft.Json.xml
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Net.Http.Formatting.xml
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Http.xml
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Http.Cors.xml
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Http.WebHost.xml
+D:\Saswat_Backup\ITracking.Bussiness\bin\Debug\Unity.AspNet.WebApi.xml
+D:\Saswat_Backup\ITracking.Bussiness\obj\Debug\ITracking.Business.csprojResolveAssemblyReference.cache
+D:\Saswat_Backup\ITracking.Bussiness\obj\Debug\ITracking.Bussiness.dll
+D:\Saswat_Backup\ITracking.Bussiness\obj\Debug\ITracking.Bussiness.pdb
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\ITracking.Bussiness.dll.config
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\ITracking.Bussiness.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\ITracking.Bussiness.pdb
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\EntityFramework.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\EntityFramework.SqlServer.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Cors.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\Newtonsoft.Json.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\Owin.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Net.Http.Formatting.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Cors.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Http.Cors.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Http.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Http.WebHost.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\Tracking.DataAccessLayer.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\Tracking.Entities.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\Unity.Abstractions.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\Unity.AspNet.WebApi.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\Unity.Container.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\WebActivatorEx.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\Tracking.DataAccessLayer.pdb
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\Tracking.DataAccessLayer.dll.config
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\Tracking.Entities.pdb
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\Tracking.Entities.dll.config
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\EntityFramework.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\EntityFramework.SqlServer.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Cors.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\Newtonsoft.Json.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Net.Http.Formatting.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Http.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Http.Cors.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Http.WebHost.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\bin\Debug\Unity.AspNet.WebApi.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\obj\Debug\ITracking.Business.csprojResolveAssemblyReference.cache
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\obj\Debug\ITracking.Bussiness.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\ITracking.Bussiness\obj\Debug\ITracking.Bussiness.pdb
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\ITracking.Bussiness.dll.config
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\ITracking.Bussiness.dll
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\ITracking.Bussiness.pdb
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\EntityFramework.dll
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Cors.dll
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.dll
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.dll
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\Newtonsoft.Json.dll
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\Owin.dll
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Net.Http.Formatting.dll
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Cors.dll
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Http.Cors.dll
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Http.dll
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Http.WebHost.dll
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\Tracking.DataAccessLayer.dll
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\Tracking.Entities.dll
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\Unity.Abstractions.dll
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\Unity.AspNet.WebApi.dll
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\Unity.Container.dll
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\WebActivatorEx.dll
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\Tracking.DataAccessLayer.pdb
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\Tracking.DataAccessLayer.dll.config
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\Tracking.Entities.pdb
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\Tracking.Entities.dll.config
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\EntityFramework.xml
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.xml
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Cors.xml
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.xml
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\Newtonsoft.Json.xml
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Net.Http.Formatting.xml
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Http.xml
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Http.Cors.xml
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Http.WebHost.xml
+D:\Project\Saswat_Backup\ITracking.Bussiness\bin\Debug\Unity.AspNet.WebApi.xml
+D:\Project\Saswat_Backup\ITracking.Bussiness\obj\Debug\ITracking.Business.csprojAssemblyReference.cache
+D:\Project\Saswat_Backup\ITracking.Bussiness\obj\Debug\ITracking.Business.csproj.CoreCompileInputs.cache
+D:\Project\Saswat_Backup\ITracking.Bussiness\obj\Debug\ITracking.Business.csproj.CopyComplete
+D:\Project\Saswat_Backup\ITracking.Bussiness\obj\Debug\ITracking.Bussiness.dll
+D:\Project\Saswat_Backup\ITracking.Bussiness\obj\Debug\ITracking.Bussiness.pdb
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\ITracking.Bussiness.dll.config
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\ITracking.Bussiness.dll
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\ITracking.Bussiness.pdb
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\EntityFramework.dll
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\EntityFramework.SqlServer.dll
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Cors.dll
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.dll
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.dll
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\Newtonsoft.Json.dll
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\Owin.dll
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Net.Http.Formatting.dll
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Cors.dll
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Http.Cors.dll
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Http.dll
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Http.WebHost.dll
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\Tracking.DataAccessLayer.dll
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\Tracking.Entities.dll
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\Unity.Abstractions.dll
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\Unity.AspNet.WebApi.dll
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\Unity.Container.dll
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\WebActivatorEx.dll
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\Tracking.DataAccessLayer.pdb
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\Tracking.DataAccessLayer.dll.config
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\Tracking.Entities.pdb
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\Tracking.Entities.dll.config
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\EntityFramework.xml
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\EntityFramework.SqlServer.xml
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.xml
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Cors.xml
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.xml
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\Newtonsoft.Json.xml
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Net.Http.Formatting.xml
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Http.xml
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Http.Cors.xml
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\System.Web.Http.WebHost.xml
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\bin\Debug\Unity.AspNet.WebApi.xml
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\obj\Debug\ITracking.Business.csprojAssemblyReference.cache
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\obj\Debug\ITracking.Business.csproj.CoreCompileInputs.cache
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\obj\Debug\ITracking.Business.csproj.CopyComplete
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\obj\Debug\ITracking.Bussiness.dll
+D:\AMS_Clone\Saswat_Backup\ITracking.Bussiness\obj\Debug\ITracking.Bussiness.pdb

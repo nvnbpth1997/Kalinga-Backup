@@ -1,0 +1,49 @@
+﻿@model RoomAllocation.Models.CombinedModel
+@{
+    ViewBag.Title = "Room Allocation";
+}
+<div>
+    <h2>Allocated Room</h2>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.users.user_mid)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.users.user_mid)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.users.user_name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.users.user_name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.rooms.room_RID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.rooms.room_RID)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.rooms.room_blockName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.rooms.room_blockName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.rooms.room_floorNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.rooms.room_floorNumber)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Back", "Index")
+</p>

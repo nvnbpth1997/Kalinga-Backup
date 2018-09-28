@@ -1,0 +1,184 @@
+.sidenav-container {
+  height: 100%;
+  background-color:white;
+
+}
+
+/*^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ CSS FOR MINDTREE LOGO^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^*/
+.tool      
+{
+   background-color:white; 
+   width:200px;
+}
+/*^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^END OF CSS FOR MINDTREE LOGO^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^*/
+
+
+
+
+
+/* ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^CSS FOR SIDENAV^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^*/
+.sidenav
+{
+  background-color:rgb(143, 97, 130);
+  width: 200px;
+}
+ /*^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^CSS FOR LISTS CONTAINED IN SIDENAV^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ */
+.hov
+{
+  color: white;
+}
+.hov:hover{
+  background-color: white;
+  color: black;
+}
+.hov:focus{
+  background-color: white;
+  color: black;
+} 
+/*^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^END OF CSS FOR LISTS CONTAINED IN SIDENAV^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ */
+/* ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^END OF CSS FOR SIDENAV^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^*/
+
+
+
+
+
+/*^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^CSS FOR TOOLBAR^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ */
+.toolbar{
+  position: fixed;
+  z-index:5;
+  background-color:#8F6182;
+  /* font-size: 30px; */
+  color:white;
+  text-align: center;
+  }
+  /*^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^END OF CSS FOR TOOLBAR^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ */
+
+
+
+
+
+
+/*^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^SPAN CLASS FOR TOOLBAR^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^*/
+.span
+{
+  font-size: 30px;
+ text-align: center;
+  width: 80%;
+  font-style: bold;
+  color: white;
+}
+
+
+.logout
+{
+  font-size: 20px;
+  float: right;
+  color: white;
+}
+
+.upload
+{
+    margin-top: 200px;
+    padding-left: 250px;
+    width: 1000px;
+    text-align: left;
+    /* background-color:rgb(239, 229, 229); */
+}
+button
+{
+  background-color: #8F6182; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    cursor: pointer;
+  
+}
+
+.logout
+{
+  /* font-size: 20px;
+  float: right;
+  color: white;
+  size:100px;
+  padding: 15px 32px;
+  margin: 4px 2px; */
+  /* transition : transform .2s; */
+  background-color: #8F6182;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+  
+}
+
+.hovering:hover
+{
+cursor: pointer;
+background-color:rgb(167, 70, 140);
+color: white;
+ /* size: 100px; */
+ padding: 10px 4px; 
+ font-size: 25px;
+    /* margin: 4px 2px; */
+    transform : scale(1.0);
+}
+
+.upload[type=file]{
+ 
+    cursor: inherit;
+    display: block;
+    font-size: 999px;
+    filter: alpha(opacity=0);
+    min-height: 100%;
+    min-width: 100%;
+    opacity: 0;
+    position: absolute;
+    right: 0;
+    text-align: right;
+    top: 0;
+
+}
+
+button:disabled {
+  background-color: gray;
+}
+.container{
+  margin-top: 50px;
+  text-align: center;
+  height:100%;
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/attendance-cc2a0.appspot.com/o/newimg.jpg?alt=media&token=92806f2c-3a68-4d9c-bc82-7e10bcb1fdca");
+   background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+h4{
+  text-align: center;
+}
+
+.group
+{
+  margin-top: 60px;
+}
+
+.regular
+{
+align-content: center;
+text-align: center;
+margin-top: 100px;
+} 

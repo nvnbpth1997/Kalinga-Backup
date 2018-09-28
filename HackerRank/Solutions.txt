@@ -1,0 +1,760 @@
+1. 
+
+    static String mergeStrings(String a, String b) {
+        
+        char mString[] = new char[a.length()+b.length()];
+        int k=0, i;
+        
+        for(i=0; i<a.length()&&i<b.length(); ++i)
+        {
+            mString[k++] = a.charAt(i);
+            mString[k++] = b.charAt(i);
+        }
+        
+        while(i<a.length())
+          mString[k++]=a.charAt(i++);
+        while(i<b.length())
+          mString[k++]=b.charAt(i++); 
+        
+        String mergedString = new String(mString);
+        return mergedString;
+    }
+
+2. 
+static int countDuplicates(int[] numbers) {
+       int counter[] = new int[1001], count=0;
+        
+        for(int i=0; i<numbers.length; ++i)
+            counter[numbers[i]]++;
+        
+        for(int i=1; i<=1000; ++i)
+            if(counter[i]>1)
+                count++;
+        
+            
+        return count;
+    }
+
+
+3.
+
+
+4.
+
+
+5.
+ static void fizzBuzz(int n) {
+        for(int i=1; i<=n; ++i)
+        {
+            if(i%3==0&&i%5==0)
+                System.out.println("FizzBuzz");
+            else if(i%3==0&&i%5!=0)
+                System.out.println("Fizz");
+            else if(i%3!=0&&i%5==0)
+                System.out.println("Buzz");
+            else
+                System.out.println(i);           
+        }
+
+    }
+
+
+6.
+class Student {
+    static int id;
+    String name;
+    Student(String n)
+    {
+        name=n;
+        id++;
+    }
+    
+    public String toString()
+    {
+        return id+": "+name;
+    }
+}
+
+
+7.
+
+private static int isPresent(Node root, int val){
+
+    int flag=0;
+    while(root!=null)
+    {
+        if(val<root.data)
+            root=root.left;
+        else if(val>root.data)
+            root=root.right;
+        else if(val==root.data)
+        {
+            flag=1;
+            break;
+        }
+    }
+    if(flag==1)
+        return 1;
+    else
+        return 0;
+}
+
+
+
+8. 
+static String winner(String erica, String bob) {
+        if(points(erica)>points(bob))
+            return "Erica";
+        else
+            if(points(erica)<points(bob))
+                return "Bob";
+        else
+            return "Tie";
+     }
+    
+static int points(String name)
+{
+    int points=0;
+    for(int i=0; i<name.length(); ++i)
+            if(name.charAt(i)=='E')
+                points+=1;
+            else if(name.charAt(i)=='M')
+                points+=3;
+            else if(name.charAt(i)=='H')
+                points+=5;
+    return points;
+}
+
+
+9. 
+ 
+    // Complete the breakPalindrome function below.
+    
+    static boolean checkPalindrome(String s)
+    {
+        char c[] = new char[s.length()];
+        
+        for(int i=s.length()-1; i>=0; --i)
+            c[s.length()-i-1]=s.charAt(i);
+        
+        String sb = new String(c);
+        
+        if(s.equals(sb))
+            return false;
+        else
+            return true;
+    }
+
+    static String breakPalindrome(String s) {
+        char[] str = s.toCharArray();
+        
+        if(!s.equals(null)&&!s.equals(""))
+        {
+        for(int i=0; i<s.length(); ++i)
+            if(str[i]=='a')
+                continue;
+            else
+            {  
+                while(str[i]!='a')
+                str[i]-=1;
+                break;
+            }
+        String result = new String(str);
+            
+        if(!result.equals(s)&&checkPalindrome(result))
+           return(result);
+        else 
+             return("IMPOSSIBLE");
+        }
+        else return("IMPOSSIBLE");
+    }
+
+
+
+
+10. 
+ static long waitingTime(int[] tickets, int p) {
+        long count=0;
+        int i;
+        
+        while(tickets[p]!=0)
+        {
+           for( i=0; i<tickets.length&&tickets[p]!=0; ++i)
+           {
+               if(tickets[i]!=0)
+               {
+                   tickets[i]--;
+                   count++;
+               }
+                if(tickets[p]==0)
+                break;
+           }
+        }
+        return count;
+    }
+
+
+
+11.
+
+  static String[] usernamesSystem(String[] u) {
+        int count=1;
+        for(int i=0; i<u.length; ++i)
+        {
+            for(int j=i+1; j<u.length; ++j)
+            if(u[i].equals(u[j]))
+            {
+                u[j]=u[i].concat(Integer.toString(count));
+                count++;
+            }
+        }
+        return u;
+    }
+
+12. 
+
+static String winner(int[] andrea, int[] maria, String s) {
+        int i, points[]=new int[2];
+        if(s.equals("Even"))
+        {
+          i=0;  
+            for(; i<maria.length; i+=2)
+            {
+                points[0]+=andrea[i]-maria[i];
+                points[1]+=maria[i]-andrea[i];
+            }
+        }
+        else
+        {
+           i=1; 
+             for(; i<andrea.length; i+=2)
+            {
+                points[0]+=andrea[i]-maria[i];
+                points[1]+=maria[i]-andrea[i];
+            }
+        }
+        
+        System.out.println(points[0]+" "+points[1]);
+        if(points[0]>points[1])
+            return "Andrea";
+        else if(points[0]<points[1])
+            return "Maria";
+        else
+            return "Tie";
+
+    }
+
+14.    4 cases not passed
+
+int findMaxNum(int x, int y, int z) {
+    
+    int res=0, max=0;
+    
+    if(x>y)
+    {
+        z=z-(x-y);
+        
+        if((z<=0))
+           max=x;
+        else 
+            max=x+(z/2);   
+    }
+    else
+        if(x<=y&&z%2==0)
+          res+=x+(z/2);
+        else if(x==y&&z%2==1)
+            res+=x+((z-1)/2);
+        else
+            if(x<y&&z%2==1)
+                res+=x+((z+1)/2);
+        else
+            res=x;
+    
+    if(res>=max)
+return res;
+    else
+        return max;
+}
+
+
+15.
+
+ static void customSort(int[] arr) {
+        int count[] = new int[1000001], max=0, k=0, j=1;
+        
+        for(int i=0; i<arr.length; ++i)
+        {
+            count[arr[i]]++;
+            
+            if(count[arr[i]]>max)
+                max=count[arr[i]];
+        }
+        
+        while(j<=max)
+        {
+        for(int i=1; i<count.length; ++i)
+        {
+            int l=j;
+            if(count[i]==j)
+                while(l!=0)
+                {
+                  arr[k++] = i;  
+                    l--;
+                }      
+        }  
+            j++;
+        }
+        
+        for(int i=0; i<arr.length; ++i)
+            System.out.println(arr[i]);
+    }
+
+
+16. 2 cases not passed
+
+ static SinglyLinkedListNode removeNodes(SinglyLinkedListNode listHead, int x) {
+        
+        SinglyLinkedListNode node = listHead;
+        
+        while(node.next!=null)
+        {
+            if(node==listHead && node.data>x)
+                node=listHead = listHead.next;  
+            else if(node.next.data>x)
+                  node.next=node.next.next;
+            else    
+                 node=node.next;
+        }
+return listHead;
+
+    }
+
+17. Not compiling yet!!!
+
+
+static String check(String name, int j)
+    {
+        char newstr[] = new char[name.length()+2];
+        name=name.toLowerCase();
+        for(int i=0; i<name.length(); ++i)
+                if(Character.isLetter(name.charAt(i)))
+                   newstr[i]=name.charAt(i);
+        
+        if(j==0)
+        {
+            newstr[j] = Character.toUpperCase(newstr[j]);
+            newstr[name.length()]=' ';
+        }
+        else
+            if(j==-1)
+            {
+                newstr[name.length()]='.';
+            }
+        else
+            newstr[name.length()]=' ';
+        
+            newstr[name.length()+1]='\0';
+    
+        return  new String(newstr);
+                            
+    }
+
+
+    static String arrange(String sentence) {
+            
+        String words [] = sentence.split(" ");
+        String st = "";
+        int a[] = new int[words.length];
+        int k=0;
+        
+        for(int i=0; i<words.length; ++i)
+            a[i] = words[i].length();
+         
+        for(int i=0; i<words.length-1; ++i)
+        {
+            for(int j=0; j<words.length-1; ++j)
+                if(a[j]>a[j+1])
+                {
+                    int temp = a[j];
+                    a[j] = a[j+1];
+                    a[j+1] = temp;
+                }
+        }
+        
+    while(k<words.length)
+    {
+        for(int i=0; i<words.length; ++i)
+        {
+            if(a[k]==words[i].length()&&!st.toLowerCase().contains((words[i]).toLowerCase()))
+                if(k==0)
+                    st = st + check(words[i], 0);
+                else if(k==words.length-1)
+                     st = st + check(words[i], -1);
+                else
+                     st = st + check(words[i], 1);
+            
+        }
+        k++;
+    }
+return st;
+    }
+
+
+18. 
+
+  static int minimumMoves(int[] a, int[] m) {
+        
+        int total=0;
+        
+        for(int i=0; i<a.length; ++i)
+        {
+            while(a[i]!=0)
+            {
+               int arem = a[i]%10;
+                int mrem = m[i]%10;
+                
+                if(arem>mrem)
+                    total+=arem-mrem;
+                else
+                    total+=mrem-arem;
+                
+                a[i]/=10;
+                m[i]/=10;                        
+            }
+        }
+        return total;
+    }
+
+19. 5 test cases not passing
+
+ static int[] jobOffers(int[] scores, int[] lowerLimits, int[] upperLimits) {
+        
+        int []count = new int[lowerLimits.length];
+        
+        if(lowerLimits.length==upperLimits.length)
+        {
+        for(int i=0; i<lowerLimits.length; ++i)
+        {
+            for(int j=0; j<scores.length; ++j)
+            {
+                if(scores[j]>=lowerLimits[i]&&scores[j]<=upperLimits[i])
+                    count[i]++;
+            }
+        }
+        }
+        return count;
+    }
+
+20.
+
+
+22. 
+
+static long calculateAmount(int[] prices) {
+        int d[]=new int[prices.length];
+        long cost;
+        d[1]=prices[0];
+        cost=prices[0];
+        
+        for(int i=1; i<prices.length; ++i)
+        {
+            if(i>1)
+                d[i]=Math.min(d[i-1],prices[i-1]);
+            if(d[i]<=prices[i])
+            cost+=prices[i]-d[i];
+            System.out.println(d[i]+" ");
+        }
+        return cost;
+    }
+
+23. 
+
+static String compressedString(String message) {
+        char []s=new char[message.length()+2];
+        int count=49, k=1;
+        s[0]=message.charAt(0);
+        for(int i=1; i<message.length(); ++i)
+        {         
+        if(message.charAt(i)==message.charAt(i-1))
+                count++;
+            else
+                if(count>49)
+                {
+                    s[k++]=(char)(count);
+                    s[k++]=message.charAt(i);
+                    count=49;
+                } 
+            else
+                 s[k++]=message.charAt(i); 
+        }
+        if(count>49)
+                s[k++]=(char)count;
+        s[k]='\0';
+        
+        char []s1 = new char[k];
+        for(int i=0; s[i]!='\0'; ++i)
+            s1[i]=s[i];
+        
+        message = new String(s1);
+        return message;
+
+35. 
+
+class Encrypter {   
+    
+    public static String getEncryptedName(String name) {
+      
+        try{
+             Validator v=new Validator();
+             boolean val = v.validate(name);
+            if(!val)
+            throw new IllegalArgumentException("Try again with valid name");
+            else
+            { 
+              StringBuilder sb = new StringBuilder(name.toLowerCase());
+              return sb.reverse().toString();  
+            }
+        }
+        catch(IllegalArgumentException e)
+        {
+            throw e;
+        } 
+        
+    }
+    
+}
+
+36. 8 cases passed out of 13
+
+ static int consecutive(long num) {
+            int count=0;
+            long n=num, j, limit;
+        
+        if(num==1||num==2)
+            return 0;
+        
+      if(num%2==0)
+          limit=(num/2);
+      else 
+        limit=(num/2)+1;
+        
+        for(long i=1; i<limit; ++i)
+        {
+            j=i;
+             while(n>0)
+             {
+                 n-=j;
+                 j++;
+                 if(j>n)
+                     break;
+             }
+            if(n==0)
+                count++;
+            
+            n=num;
+        }
+        
+         return count;
+
+    }
+
+
+40.  6 out of 12 test cases passed
+
+static int countPairs(int[] data, int key) {
+            
+        int count =0, k=0, m=data.length, flag=0;
+        int b[] = new int[m];
+        
+        for(int i=0; i<m-1; ++i)
+            for(int j=0; j<m-1; ++j)
+                if(data[j]>data[j+1])
+                {
+                    int temp=data[j];
+                    data[j]=data[j+1];
+                    data[j+1]=temp;
+                }
+
+        b[k++]=data[0];
+		
+		for(int i=1; i<m; ++i)
+		{
+			for(int j=0; j<k; ++j)
+				if(data[i]!=b[j])
+					flag=0;
+				else
+					{
+					flag=1;
+					break;
+					}
+			if(flag==0)
+				b[k++]=data[i];
+			
+		}
+        
+        for(int i=0; i<k-1; ++i)
+			for(int j=i+1; j<k; ++j)
+				{
+					if(b[j]-b[i]==key)
+						count++;
+				}
+        return count;
+    }
+
+
+44.  4 cases passed out of 13
+
+import java.io.*;
+import java.util.*;
+
+public class Solution {
+    public static void main(String args[] ) throws Exception {
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT */
+        Scanner in = new Scanner(System.in);
+        
+        int n = in.nextInt();
+        int o = in.nextInt();
+        int max;
+        
+        int a[] = new int[n];
+        int oper[][]=new int[o][3];
+                                
+        for(int i=0; i<o; ++i)
+        { 
+            oper[i][0]=in.nextInt();
+            oper[i][1]=in.nextInt();
+            oper[i][2]=in.nextInt();     
+        }
+        
+        for(int i=0; i<o; ++i)
+        {
+            for(int j=oper[i][0]-1; j<=oper[i][1]-1; ++j)
+                a[j]+=oper[i][2];
+        }
+        
+        max = a[0];
+        for(int i=1; i<n; ++i)
+            max=Math.max(max,a[i]);
+        
+        System.out.println(max);
+    }
+}
+
+
+
+55. 
+
+    // Complete the textQueries function below.
+    static void textQueries(String[] sentences, String[] queries) {
+        int flag, check, k, count;
+        for(int i=0; i<queries.length; ++i)
+        {  
+            check=0;
+        for(int j=0; j<sentences.length; ++j)
+            {
+                String [] arr = queries[i].split(" ");
+                flag=1;
+                k=0;
+                while(k<arr.length)
+                if(!sentences[j].contains(arr[k++]))
+                {
+                    flag=0; 
+                    break;
+                }
+
+            if(flag==1)
+            {
+                System.out.print(j+" ");
+                check=1;
+            }
+            }
+            if(check==0)
+            System.out.print("-1"+" ");
+            
+            System.out.print("\n");
+        }
+
+    }
+
+
+61. 
+
+select students.student_name, majors.major_name from students inner join register on students.student_id=register.student_id inner join majors on majors.major_id=register.major_id limit 20;
+
+
+62. 
+
+select uin, name from employee_uin inner join employee on employee.age<25&&employee_uin.id=employee.id order by employee.name , employee_uin.id;
+
+
+63. 
+
+select id from company where (employees)>10000;
+
+64.
+
+select id, subject, count(subject) from student inner join examination on id=student_id group by subject,  id;
+
+65. 
+
+select e1.name, e2.name from employee e1 inner join employee e2 on e1.salary<e2.salary order by e1.id, e2.salary; 
+
+66. 
+
+select p.name, w.type from plant p inner join weather w on p.species=w.plant_species group by w.type, p.name having count(w.type)=1;
+
+67.
+
+select name , uin from employee e left join employee_uin u on e.id=u.id;
+
+68.
+
+select distinct p.name, c.name from professor p inner join schedule s on p.id=s.professor_id inner join course c on s.course_id=c.id; 
+
+69. 
+
+select id, name from student order by score desc, id limit 3;
+
+70. 
+
+select e.name, e.salary, d.name, d.location from employee e inner join department d on e.dept_id=d.id order by e.salary desc, e.name;
+
+71. 
+
+select if(red=green, if(red=blue, 'GOOD', 'BAD'), if(red=blue, 'BAD', if(green=blue,"BAD", "WORSE"))) from collection;
+
+72. 
+
+select name from hacker where hackos*months>100&&months<10 order by id;
+
+73.
+
+select (months*hackos), count(months*hackos) from hacker group by months*hackos order by months*hackos desc limit 1;
+
+74.
+
+select count(*) from orders where status<>'DELIVERED';
+
+75.
+
+select gender, bg, count(bg) from ((select * from donor)union(select * from acceptor)) as T group by gender,  bg;
+
+76.
+
+
+
+77. 
+
+select d.name, count(e.name) from employee e right join department d on e.dept_id=d.id group by d.id order by count(e.name) desc, d.name;
+
+78.
+
+select customer_id from orders group by customer_id order by count(customer_id) desc limit 1; 
+
+79.
+
+select * from orders where status<>'DELIVERED' order by order_date, id limit 5;
+
+80. 
+
+select d.name, count(s.name) from student s right join department d on s.dept_id=d.id group by d.id order by count(s.name) desc, d.name;

@@ -1,0 +1,41 @@
+<html>
+    <head>
+            <script src="calculator.js" type="text/javascript"></script>
+    </head>
+
+    <style>
+    form { 
+        margin-left:600px; 
+        }
+    </style>
+
+    <body>
+        <h1>Calculator</h2>
+    <form name = "myForm" method="post" onsubmit="return compute();">
+        <label>Number 1:</label>
+        <input type = "text" name = "value1" required>
+        <br><br><label>Number 2:</label>
+        <input type = "text" name = "value2" required>
+        <br><br>
+        <select id = "select">
+            <option value = "Sum">
+                Sum
+            </option>
+            <option  value = "Difference">
+                Difference
+            </option>
+            <option value = "Multiply">
+                Multiply
+            </option>
+            <option value ="Division">
+                Division
+            </option>
+        </select>
+        <br><br>
+            <input type="textbox" name="output" id="output"/>
+        <input type = "Submit" value="Compute">
+
+        
+        </form>
+    </body>
+</html>

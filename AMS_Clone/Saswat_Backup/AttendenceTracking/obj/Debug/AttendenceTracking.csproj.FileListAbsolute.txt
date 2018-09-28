@@ -1,0 +1,1284 @@
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\ApplicationInsights.config
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\roslyn\csc.exe
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\roslyn\csc.exe.config
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\roslyn\csc.rsp
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\roslyn\csi.exe
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\roslyn\csi.rsp
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\roslyn\System.AppContext.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\roslyn\System.Collections.Immutable.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\roslyn\System.IO.FileSystem.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\roslyn\vbc.exe
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\roslyn\vbc.exe.config
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\roslyn\vbc.rsp
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\roslyn\VBCSCompiler.exe
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\roslyn\VBCSCompiler.exe.config
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\AttendenceTracking.dll.config
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\AttendenceTracking.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\AttendenceTracking.pdb
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Antlr3.Runtime.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\EntityFramework.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\EntityFramework.SqlServer.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Microsoft.AI.Web.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Microsoft.AI.WindowsServer.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Microsoft.ApplicationInsights.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Microsoft.Web.Infrastructure.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Newtonsoft.Json.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\System.Net.Http.Formatting.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\System.Web.Helpers.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\System.Web.Http.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\System.Web.Http.WebHost.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\System.Web.Mvc.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\System.Web.Optimization.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\System.Web.Razor.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\System.Web.WebPages.Deployment.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\System.Web.WebPages.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\System.Web.WebPages.Razor.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\WebGrease.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\EntityFramework.xml
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\EntityFramework.SqlServer.xml
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Newtonsoft.Json.xml
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\System.Net.Http.Formatting.xml
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\System.Web.Helpers.xml
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\System.Web.Http.xml
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\System.Web.Http.WebHost.xml
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\System.Web.Mvc.xml
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\System.Web.Optimization.xml
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\System.Web.Razor.xml
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\System.Web.WebPages.xml
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\System.Web.WebPages.Deployment.xml
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\System.Web.WebPages.Razor.xml
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Antlr3.Runtime.pdb
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Microsoft.ApplicationInsights.xml
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Microsoft.AI.WindowsServer.xml
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Microsoft.AI.Web.xml
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\obj\Debug\AttendenceTracking.csprojResolveAssemblyReference.cache
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\obj\Debug\AttendenceTracking.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\obj\Debug\AttendenceTracking.pdb
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Tracking.Entities.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Tracking.Entities.pdb
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Tracking.Entities.dll.config
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Tracking.Bussiness.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Tracking.DataAccessLayer.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\ReadXL.Handler.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Tracking.Bussiness.pdb
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Tracking.Bussiness.dll.config
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Tracking.DataAccessLayer.pdb
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Tracking.DataAccessLayer.dll.config
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\ReadXL.Handler.pdb
+D:\Attendance Tracking\AttendenceTracking\obj\Debug\AttendenceTracking.csprojResolveAssemblyReference.cache
+D:\Attendance Tracking\AttendenceTracking\bin\ApplicationInsights.config
+D:\Attendance Tracking\AttendenceTracking\bin\roslyn\csc.exe
+D:\Attendance Tracking\AttendenceTracking\bin\roslyn\csc.exe.config
+D:\Attendance Tracking\AttendenceTracking\bin\roslyn\csc.rsp
+D:\Attendance Tracking\AttendenceTracking\bin\roslyn\csi.exe
+D:\Attendance Tracking\AttendenceTracking\bin\roslyn\csi.rsp
+D:\Attendance Tracking\AttendenceTracking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Attendance Tracking\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Attendance Tracking\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Attendance Tracking\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Attendance Tracking\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Attendance Tracking\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Attendance Tracking\AttendenceTracking\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Attendance Tracking\AttendenceTracking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Attendance Tracking\AttendenceTracking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Attendance Tracking\AttendenceTracking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Attendance Tracking\AttendenceTracking\bin\roslyn\System.AppContext.dll
+D:\Attendance Tracking\AttendenceTracking\bin\roslyn\System.Collections.Immutable.dll
+D:\Attendance Tracking\AttendenceTracking\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Attendance Tracking\AttendenceTracking\bin\roslyn\System.IO.FileSystem.dll
+D:\Attendance Tracking\AttendenceTracking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Attendance Tracking\AttendenceTracking\bin\roslyn\System.Reflection.Metadata.dll
+D:\Attendance Tracking\AttendenceTracking\bin\roslyn\vbc.exe
+D:\Attendance Tracking\AttendenceTracking\bin\roslyn\vbc.exe.config
+D:\Attendance Tracking\AttendenceTracking\bin\roslyn\vbc.rsp
+D:\Attendance Tracking\AttendenceTracking\bin\roslyn\VBCSCompiler.exe
+D:\Attendance Tracking\AttendenceTracking\bin\roslyn\VBCSCompiler.exe.config
+D:\Attendance Tracking\AttendenceTracking\bin\AttendenceTracking.dll.config
+D:\Attendance Tracking\AttendenceTracking\bin\AttendenceTracking.dll
+D:\Attendance Tracking\AttendenceTracking\bin\AttendenceTracking.pdb
+D:\Attendance Tracking\AttendenceTracking\bin\Antlr3.Runtime.dll
+D:\Attendance Tracking\AttendenceTracking\bin\CommonServiceLocator.dll
+D:\Attendance Tracking\AttendenceTracking\bin\EntityFramework.dll
+D:\Attendance Tracking\AttendenceTracking\bin\EntityFramework.SqlServer.dll
+D:\Attendance Tracking\AttendenceTracking\bin\ITracking.Bussiness.dll
+D:\Attendance Tracking\AttendenceTracking\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Attendance Tracking\AttendenceTracking\bin\Microsoft.AI.DependencyCollector.dll
+D:\Attendance Tracking\AttendenceTracking\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Attendance Tracking\AttendenceTracking\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Attendance Tracking\AttendenceTracking\bin\Microsoft.AI.Web.dll
+D:\Attendance Tracking\AttendenceTracking\bin\Microsoft.AI.WindowsServer.dll
+D:\Attendance Tracking\AttendenceTracking\bin\Microsoft.ApplicationInsights.dll
+D:\Attendance Tracking\AttendenceTracking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Attendance Tracking\AttendenceTracking\bin\Microsoft.Web.Infrastructure.dll
+D:\Attendance Tracking\AttendenceTracking\bin\Newtonsoft.Json.dll
+D:\Attendance Tracking\AttendenceTracking\bin\System.Net.Http.Formatting.dll
+D:\Attendance Tracking\AttendenceTracking\bin\System.Web.Helpers.dll
+D:\Attendance Tracking\AttendenceTracking\bin\System.Web.Http.dll
+D:\Attendance Tracking\AttendenceTracking\bin\System.Web.Http.WebHost.dll
+D:\Attendance Tracking\AttendenceTracking\bin\System.Web.Mvc.dll
+D:\Attendance Tracking\AttendenceTracking\bin\System.Web.Optimization.dll
+D:\Attendance Tracking\AttendenceTracking\bin\System.Web.Razor.dll
+D:\Attendance Tracking\AttendenceTracking\bin\System.Web.WebPages.Deployment.dll
+D:\Attendance Tracking\AttendenceTracking\bin\System.Web.WebPages.dll
+D:\Attendance Tracking\AttendenceTracking\bin\System.Web.WebPages.Razor.dll
+D:\Attendance Tracking\AttendenceTracking\bin\Tracking.Bussiness.dll
+D:\Attendance Tracking\AttendenceTracking\bin\Tracking.Entities.dll
+D:\Attendance Tracking\AttendenceTracking\bin\Unity.Abstractions.dll
+D:\Attendance Tracking\AttendenceTracking\bin\Unity.Configuration.dll
+D:\Attendance Tracking\AttendenceTracking\bin\Unity.Container.dll
+D:\Attendance Tracking\AttendenceTracking\bin\Unity.Interception.Configuration.dll
+D:\Attendance Tracking\AttendenceTracking\bin\Unity.Interception.dll
+D:\Attendance Tracking\AttendenceTracking\bin\Unity.RegistrationByConvention.dll
+D:\Attendance Tracking\AttendenceTracking\bin\Unity.ServiceLocation.dll
+D:\Attendance Tracking\AttendenceTracking\bin\WebGrease.dll
+D:\Attendance Tracking\AttendenceTracking\bin\Tracking.DataAccessLayer.dll
+D:\Attendance Tracking\AttendenceTracking\bin\ReadXL.Handler.dll
+D:\Attendance Tracking\AttendenceTracking\bin\ITracking.Bussiness.pdb
+D:\Attendance Tracking\AttendenceTracking\bin\ITracking.Bussiness.dll.config
+D:\Attendance Tracking\AttendenceTracking\bin\Tracking.Bussiness.pdb
+D:\Attendance Tracking\AttendenceTracking\bin\Tracking.Bussiness.dll.config
+D:\Attendance Tracking\AttendenceTracking\bin\Tracking.Entities.pdb
+D:\Attendance Tracking\AttendenceTracking\bin\Tracking.Entities.dll.config
+D:\Attendance Tracking\AttendenceTracking\bin\CommonServiceLocator.pdb
+D:\Attendance Tracking\AttendenceTracking\bin\EntityFramework.xml
+D:\Attendance Tracking\AttendenceTracking\bin\EntityFramework.SqlServer.xml
+D:\Attendance Tracking\AttendenceTracking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Attendance Tracking\AttendenceTracking\bin\Newtonsoft.Json.xml
+D:\Attendance Tracking\AttendenceTracking\bin\System.Net.Http.Formatting.xml
+D:\Attendance Tracking\AttendenceTracking\bin\System.Web.Helpers.xml
+D:\Attendance Tracking\AttendenceTracking\bin\System.Web.Http.xml
+D:\Attendance Tracking\AttendenceTracking\bin\System.Web.Http.WebHost.xml
+D:\Attendance Tracking\AttendenceTracking\bin\System.Web.Mvc.xml
+D:\Attendance Tracking\AttendenceTracking\bin\System.Web.Optimization.xml
+D:\Attendance Tracking\AttendenceTracking\bin\System.Web.Razor.xml
+D:\Attendance Tracking\AttendenceTracking\bin\System.Web.WebPages.xml
+D:\Attendance Tracking\AttendenceTracking\bin\System.Web.WebPages.Deployment.xml
+D:\Attendance Tracking\AttendenceTracking\bin\System.Web.WebPages.Razor.xml
+D:\Attendance Tracking\AttendenceTracking\bin\Unity.Abstractions.pdb
+D:\Attendance Tracking\AttendenceTracking\bin\Unity.Configuration.pdb
+D:\Attendance Tracking\AttendenceTracking\bin\Unity.Container.pdb
+D:\Attendance Tracking\AttendenceTracking\bin\Unity.Interception.pdb
+D:\Attendance Tracking\AttendenceTracking\bin\Unity.Interception.Configuration.pdb
+D:\Attendance Tracking\AttendenceTracking\bin\Unity.RegistrationByConvention.pdb
+D:\Attendance Tracking\AttendenceTracking\bin\Unity.ServiceLocation.pdb
+D:\Attendance Tracking\AttendenceTracking\bin\Antlr3.Runtime.pdb
+D:\Attendance Tracking\AttendenceTracking\bin\Microsoft.ApplicationInsights.xml
+D:\Attendance Tracking\AttendenceTracking\bin\Microsoft.AI.DependencyCollector.xml
+D:\Attendance Tracking\AttendenceTracking\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Attendance Tracking\AttendenceTracking\bin\Microsoft.AI.WindowsServer.xml
+D:\Attendance Tracking\AttendenceTracking\bin\Microsoft.AI.Web.xml
+D:\Attendance Tracking\AttendenceTracking\bin\Tracking.DataAccessLayer.pdb
+D:\Attendance Tracking\AttendenceTracking\bin\Tracking.DataAccessLayer.dll.config
+D:\Attendance Tracking\AttendenceTracking\bin\ReadXL.Handler.pdb
+D:\Attendance Tracking\AttendenceTracking\obj\Debug\AttendenceTracking.dll
+D:\Attendance Tracking\AttendenceTracking\obj\Debug\AttendenceTracking.pdb
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\CommonServiceLocator.dll
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\ITracking.Bussiness.dll
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Unity.Abstractions.dll
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Unity.Configuration.dll
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Unity.Container.dll
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Unity.Interception.Configuration.dll
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Unity.Interception.dll
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Unity.RegistrationByConvention.dll
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Unity.ServiceLocation.dll
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\ITracking.Bussiness.pdb
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\ITracking.Bussiness.dll.config
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\CommonServiceLocator.pdb
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Unity.Configuration.pdb
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Unity.Interception.pdb
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Unity.Interception.Configuration.pdb
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Unity.RegistrationByConvention.pdb
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Unity.ServiceLocation.pdb
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Unity.AspNet.WebApi.dll
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\WebActivatorEx.dll
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Unity.AspNet.WebApi.xml
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\ReadXL.Handler.dll.config
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\obj\Debug\AttendenceTracking.csprojAssemblyReference.cache
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\obj\Debug\AttendenceTracking.csproj.CoreCompileInputs.cache
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\obj\Debug\AttendenceTracking.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\obj\Debug\AttendenceTracking.pdb
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\ApplicationInsights.config
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\csc.exe
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\csc.exe.config
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\csc.rsp
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\csi.exe
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\csi.rsp
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\System.AppContext.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\vbc.exe
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\vbc.exe.config
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\vbc.rsp
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\VBCSCompiler.exe
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\AttendenceTracking.dll.config
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\AttendenceTracking.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\AttendenceTracking.pdb
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Antlr3.Runtime.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\CommonServiceLocator.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\EntityFramework.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\EntityFramework.SqlServer.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\ITracking.Bussiness.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AI.Web.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.ApplicationInsights.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.Cors.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.Security.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Newtonsoft.Json.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Owin.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Net.Http.Formatting.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Cors.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Helpers.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Http.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Http.WebHost.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Mvc.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Optimization.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Razor.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.WebPages.Deployment.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.WebPages.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.WebPages.Razor.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Tracking.Bussiness.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Tracking.DataAccessLayer.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Tracking.Entities.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.Abstractions.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.AspNet.WebApi.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.Configuration.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.Container.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.Interception.Configuration.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.Interception.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.RegistrationByConvention.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.ServiceLocation.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\WebActivatorEx.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\WebGrease.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\ReadXL.Handler.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\ITracking.Bussiness.pdb
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\ITracking.Bussiness.dll.config
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Tracking.Bussiness.pdb
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Tracking.Bussiness.dll.config
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Tracking.DataAccessLayer.pdb
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Tracking.DataAccessLayer.dll.config
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Tracking.Entities.pdb
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Tracking.Entities.dll.config
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\CommonServiceLocator.pdb
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\EntityFramework.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\EntityFramework.SqlServer.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.Cors.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.Security.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Net.Http.Formatting.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Http.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Http.WebHost.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Newtonsoft.Json.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Helpers.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Mvc.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Optimization.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Razor.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.WebPages.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.WebPages.Deployment.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.WebPages.Razor.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.AspNet.WebApi.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.Configuration.pdb
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.Interception.pdb
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.Interception.Configuration.pdb
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.RegistrationByConvention.pdb
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.ServiceLocation.pdb
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Antlr3.Runtime.pdb
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.ApplicationInsights.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AI.Web.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\ReadXL.Handler.pdb
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\ReadXL.Handler.dll.config
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\obj\Debug\AttendenceTracking.csproj.CopyComplete
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\ApplicationInsights.config
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\csc.exe
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\csc.exe.config
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\csc.rsp
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\csi.exe
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\csi.rsp
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\System.AppContext.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\System.Collections.Immutable.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\System.IO.FileSystem.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\System.Reflection.Metadata.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\vbc.exe
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\vbc.exe.config
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\vbc.rsp
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\VBCSCompiler.exe
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\VBCSCompiler.exe.config
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\AttendenceTracking.dll.config
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\AttendenceTracking.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\AttendenceTracking.pdb
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Antlr3.Runtime.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\CommonServiceLocator.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\EntityFramework.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\EntityFramework.SqlServer.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\ITracking.Bussiness.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AI.Agent.Intercept.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AI.DependencyCollector.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AI.Web.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AI.WindowsServer.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.ApplicationInsights.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Web.Infrastructure.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Newtonsoft.Json.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Net.Http.Formatting.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Helpers.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Http.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Http.WebHost.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Mvc.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Optimization.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Razor.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.WebPages.Deployment.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.WebPages.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.WebPages.Razor.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Tracking.Bussiness.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Tracking.DataAccessLayer.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Tracking.Entities.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.Abstractions.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.AspNet.WebApi.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.Configuration.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.Container.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.Interception.Configuration.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.Interception.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.RegistrationByConvention.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.ServiceLocation.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\WebActivatorEx.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\WebGrease.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\ReadXL.Handler.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\ITracking.Bussiness.pdb
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\ITracking.Bussiness.dll.config
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Tracking.Bussiness.pdb
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Tracking.Bussiness.dll.config
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Tracking.DataAccessLayer.pdb
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Tracking.DataAccessLayer.dll.config
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Tracking.Entities.pdb
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Tracking.Entities.dll.config
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\CommonServiceLocator.pdb
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\EntityFramework.xml
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\EntityFramework.SqlServer.xml
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Net.Http.Formatting.xml
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Http.xml
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Http.WebHost.xml
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Newtonsoft.Json.xml
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Helpers.xml
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Mvc.xml
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Optimization.xml
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Razor.xml
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.WebPages.xml
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.WebPages.Deployment.xml
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.WebPages.Razor.xml
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.AspNet.WebApi.xml
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.Configuration.pdb
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.Interception.pdb
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.Interception.Configuration.pdb
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.RegistrationByConvention.pdb
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.ServiceLocation.pdb
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Antlr3.Runtime.pdb
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.ApplicationInsights.xml
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AI.DependencyCollector.xml
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AI.WindowsServer.xml
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AI.Web.xml
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\ReadXL.Handler.pdb
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\ReadXL.Handler.dll.config
+D:\AttendanceTracking_WebAPI\AttendenceTracking\obj\Debug\AttendenceTracking.csprojResolveAssemblyReference.cache
+D:\AttendanceTracking_WebAPI\AttendenceTracking\obj\Debug\AttendenceTracking.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\obj\Debug\AttendenceTracking.pdb
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\SendEmail.Handler.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\SendEmail.Handler.pdb
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\System.Web.Cors.dll
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\System.Web.Http.Cors.dll
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\System.Web.Http.Cors.xml
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Cors.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Http.Cors.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Http.Cors.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\obj\Debug\AttendenceTracking.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\obj\Debug\AttendenceTracking.pdb
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\ApplicationInsights.config
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\csc.exe
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\csc.exe.config
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\csc.rsp
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\csi.exe
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\csi.rsp
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\System.AppContext.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\System.Collections.Immutable.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\System.IO.FileSystem.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\System.Reflection.Metadata.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\vbc.exe
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\vbc.exe.config
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\vbc.rsp
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\VBCSCompiler.exe
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\roslyn\VBCSCompiler.exe.config
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\AttendenceTracking.dll.config
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\AttendenceTracking.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\AttendenceTracking.pdb
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Antlr3.Runtime.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\CommonServiceLocator.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\EntityFramework.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\EntityFramework.SqlServer.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\ITracking.Bussiness.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AI.Agent.Intercept.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AI.DependencyCollector.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AI.Web.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AI.WindowsServer.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.ApplicationInsights.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AspNet.Identity.Core.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.Cors.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.Security.Cookies.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.Security.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.Security.OAuth.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Web.Infrastructure.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Newtonsoft.Json.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Owin.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Net.Http.Formatting.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Cors.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Helpers.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Http.Cors.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Http.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Http.WebHost.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Mvc.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Optimization.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Razor.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.WebPages.Deployment.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.WebPages.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.WebPages.Razor.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Tracking.Bussiness.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Tracking.DataAccessLayer.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Tracking.Entities.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.Abstractions.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.AspNet.WebApi.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.Configuration.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.Container.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.Interception.Configuration.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.Interception.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.RegistrationByConvention.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.ServiceLocation.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\WebActivatorEx.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\WebGrease.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\ReadXL.Handler.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\SendEmail.Handler.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\ITracking.Bussiness.pdb
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\ITracking.Bussiness.dll.config
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Tracking.Bussiness.pdb
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Tracking.Bussiness.dll.config
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Tracking.DataAccessLayer.pdb
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Tracking.DataAccessLayer.dll.config
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Tracking.Entities.pdb
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Tracking.Entities.dll.config
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\CommonServiceLocator.pdb
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\EntityFramework.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\EntityFramework.SqlServer.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AspNet.Identity.Core.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.Cors.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.Security.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.Security.Cookies.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.Security.OAuth.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Net.Http.Formatting.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Http.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Http.Cors.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Http.WebHost.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Newtonsoft.Json.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Helpers.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Mvc.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Optimization.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Razor.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.WebPages.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.WebPages.Deployment.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.WebPages.Razor.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.AspNet.WebApi.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.Configuration.pdb
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.Interception.pdb
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.Interception.Configuration.pdb
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.RegistrationByConvention.pdb
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Unity.ServiceLocation.pdb
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Antlr3.Runtime.pdb
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.ApplicationInsights.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AI.DependencyCollector.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AI.WindowsServer.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AI.Web.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\ReadXL.Handler.pdb
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\ReadXL.Handler.dll.config
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\bin\SendEmail.Handler.pdb
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\AttendenceTracking\obj\Debug\AttendenceTracking.csprojResolveAssemblyReference.cache
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Http.Cors.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\SendEmail.Handler.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\System.Web.Http.Cors.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\AttendenceTracking\bin\SendEmail.Handler.pdb
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AspNet.Identity.Core.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.Cors.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.Security.Cookies.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.Security.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.Security.OAuth.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Owin.dll
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AspNet.Identity.Core.xml
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.xml
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.Cors.xml
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.Security.xml
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.Security.Cookies.xml
+D:\AttendanceTracking_WebAPI\AttendenceTracking\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\ApplicationInsights.config
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\roslyn\csc.exe
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\roslyn\csc.exe.config
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\roslyn\csc.rsp
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\roslyn\csi.exe
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\roslyn\csi.rsp
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\roslyn\System.AppContext.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\roslyn\vbc.exe
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\roslyn\vbc.exe.config
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\roslyn\vbc.rsp
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\roslyn\VBCSCompiler.exe
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\AttendenceTracking.dll.config
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\AttendenceTracking.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\AttendenceTracking.pdb
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Antlr3.Runtime.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\CommonServiceLocator.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\EntityFramework.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\EntityFramework.SqlServer.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\ITracking.Bussiness.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.Web.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Microsoft.ApplicationInsights.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Cors.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Security.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Newtonsoft.Json.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Owin.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\System.Net.Http.Formatting.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\System.Web.Cors.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\System.Web.Helpers.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\System.Web.Http.Cors.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\System.Web.Http.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\System.Web.Http.WebHost.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\System.Web.Mvc.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\System.Web.Optimization.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\System.Web.Razor.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\System.Web.WebPages.Deployment.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\System.Web.WebPages.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\System.Web.WebPages.Razor.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Tracking.Bussiness.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Tracking.DataAccessLayer.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Tracking.Entities.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Unity.Abstractions.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Unity.AspNet.WebApi.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Unity.Configuration.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Unity.Container.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Unity.Interception.Configuration.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Unity.Interception.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Unity.RegistrationByConvention.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Unity.ServiceLocation.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\WebActivatorEx.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\WebGrease.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\ReadXL.Handler.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\SendEmail.Handler.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\ITracking.Bussiness.pdb
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\ITracking.Bussiness.dll.config
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Tracking.Bussiness.pdb
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Tracking.Bussiness.dll.config
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Tracking.DataAccessLayer.pdb
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Tracking.DataAccessLayer.dll.config
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Tracking.Entities.pdb
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Tracking.Entities.dll.config
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\CommonServiceLocator.pdb
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\EntityFramework.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\EntityFramework.SqlServer.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Cors.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Security.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\System.Net.Http.Formatting.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\System.Web.Http.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\System.Web.Http.Cors.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\System.Web.Http.WebHost.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Newtonsoft.Json.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\System.Web.Helpers.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\System.Web.Mvc.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\System.Web.Optimization.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\System.Web.Razor.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\System.Web.WebPages.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\System.Web.WebPages.Deployment.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\System.Web.WebPages.Razor.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Unity.AspNet.WebApi.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Unity.Configuration.pdb
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Unity.Interception.pdb
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Unity.Interception.Configuration.pdb
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Unity.RegistrationByConvention.pdb
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Unity.ServiceLocation.pdb
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Antlr3.Runtime.pdb
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Microsoft.ApplicationInsights.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.Web.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\ReadXL.Handler.pdb
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\ReadXL.Handler.dll.config
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\bin\SendEmail.Handler.pdb
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\obj\Debug\AttendenceTracking.csprojResolveAssemblyReference.cache
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\obj\Debug\AttendenceTracking.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\AttendenceTracking\obj\Debug\AttendenceTracking.pdb
+D:\Saswat_Backup\AttendenceTracking\bin\ApplicationInsights.config
+D:\Saswat_Backup\AttendenceTracking\bin\roslyn\csc.exe
+D:\Saswat_Backup\AttendenceTracking\bin\roslyn\csc.exe.config
+D:\Saswat_Backup\AttendenceTracking\bin\roslyn\csc.rsp
+D:\Saswat_Backup\AttendenceTracking\bin\roslyn\csi.exe
+D:\Saswat_Backup\AttendenceTracking\bin\roslyn\csi.rsp
+D:\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Saswat_Backup\AttendenceTracking\bin\roslyn\System.AppContext.dll
+D:\Saswat_Backup\AttendenceTracking\bin\roslyn\System.Collections.Immutable.dll
+D:\Saswat_Backup\AttendenceTracking\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Saswat_Backup\AttendenceTracking\bin\roslyn\System.IO.FileSystem.dll
+D:\Saswat_Backup\AttendenceTracking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Saswat_Backup\AttendenceTracking\bin\roslyn\System.Reflection.Metadata.dll
+D:\Saswat_Backup\AttendenceTracking\bin\roslyn\vbc.exe
+D:\Saswat_Backup\AttendenceTracking\bin\roslyn\vbc.exe.config
+D:\Saswat_Backup\AttendenceTracking\bin\roslyn\vbc.rsp
+D:\Saswat_Backup\AttendenceTracking\bin\roslyn\VBCSCompiler.exe
+D:\Saswat_Backup\AttendenceTracking\bin\roslyn\VBCSCompiler.exe.config
+D:\Saswat_Backup\AttendenceTracking\bin\AttendenceTracking.dll.config
+D:\Saswat_Backup\AttendenceTracking\bin\AttendenceTracking.dll
+D:\Saswat_Backup\AttendenceTracking\bin\AttendenceTracking.pdb
+D:\Saswat_Backup\AttendenceTracking\bin\Antlr3.Runtime.dll
+D:\Saswat_Backup\AttendenceTracking\bin\CommonServiceLocator.dll
+D:\Saswat_Backup\AttendenceTracking\bin\EntityFramework.dll
+D:\Saswat_Backup\AttendenceTracking\bin\EntityFramework.SqlServer.dll
+D:\Saswat_Backup\AttendenceTracking\bin\ITracking.Bussiness.dll
+D:\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.DependencyCollector.dll
+D:\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.Web.dll
+D:\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.WindowsServer.dll
+D:\Saswat_Backup\AttendenceTracking\bin\Microsoft.ApplicationInsights.dll
+D:\Saswat_Backup\AttendenceTracking\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Saswat_Backup\AttendenceTracking\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Saswat_Backup\AttendenceTracking\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Saswat_Backup\AttendenceTracking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Cors.dll
+D:\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.dll
+D:\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Security.dll
+D:\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Saswat_Backup\AttendenceTracking\bin\Microsoft.Web.Infrastructure.dll
+D:\Saswat_Backup\AttendenceTracking\bin\Newtonsoft.Json.dll
+D:\Saswat_Backup\AttendenceTracking\bin\Owin.dll
+D:\Saswat_Backup\AttendenceTracking\bin\System.Net.Http.Formatting.dll
+D:\Saswat_Backup\AttendenceTracking\bin\System.Web.Cors.dll
+D:\Saswat_Backup\AttendenceTracking\bin\System.Web.Helpers.dll
+D:\Saswat_Backup\AttendenceTracking\bin\System.Web.Http.Cors.dll
+D:\Saswat_Backup\AttendenceTracking\bin\System.Web.Http.dll
+D:\Saswat_Backup\AttendenceTracking\bin\System.Web.Http.WebHost.dll
+D:\Saswat_Backup\AttendenceTracking\bin\System.Web.Mvc.dll
+D:\Saswat_Backup\AttendenceTracking\bin\System.Web.Optimization.dll
+D:\Saswat_Backup\AttendenceTracking\bin\System.Web.Razor.dll
+D:\Saswat_Backup\AttendenceTracking\bin\System.Web.WebPages.Deployment.dll
+D:\Saswat_Backup\AttendenceTracking\bin\System.Web.WebPages.dll
+D:\Saswat_Backup\AttendenceTracking\bin\System.Web.WebPages.Razor.dll
+D:\Saswat_Backup\AttendenceTracking\bin\Tracking.Bussiness.dll
+D:\Saswat_Backup\AttendenceTracking\bin\Tracking.DataAccessLayer.dll
+D:\Saswat_Backup\AttendenceTracking\bin\Tracking.Entities.dll
+D:\Saswat_Backup\AttendenceTracking\bin\Unity.Abstractions.dll
+D:\Saswat_Backup\AttendenceTracking\bin\Unity.AspNet.WebApi.dll
+D:\Saswat_Backup\AttendenceTracking\bin\Unity.Configuration.dll
+D:\Saswat_Backup\AttendenceTracking\bin\Unity.Container.dll
+D:\Saswat_Backup\AttendenceTracking\bin\Unity.Interception.Configuration.dll
+D:\Saswat_Backup\AttendenceTracking\bin\Unity.Interception.dll
+D:\Saswat_Backup\AttendenceTracking\bin\Unity.RegistrationByConvention.dll
+D:\Saswat_Backup\AttendenceTracking\bin\Unity.ServiceLocation.dll
+D:\Saswat_Backup\AttendenceTracking\bin\WebActivatorEx.dll
+D:\Saswat_Backup\AttendenceTracking\bin\WebGrease.dll
+D:\Saswat_Backup\AttendenceTracking\bin\SendEmail.Handler.dll
+D:\Saswat_Backup\AttendenceTracking\bin\ITracking.Bussiness.pdb
+D:\Saswat_Backup\AttendenceTracking\bin\ITracking.Bussiness.dll.config
+D:\Saswat_Backup\AttendenceTracking\bin\Tracking.Bussiness.pdb
+D:\Saswat_Backup\AttendenceTracking\bin\Tracking.Bussiness.dll.config
+D:\Saswat_Backup\AttendenceTracking\bin\Tracking.DataAccessLayer.pdb
+D:\Saswat_Backup\AttendenceTracking\bin\Tracking.DataAccessLayer.dll.config
+D:\Saswat_Backup\AttendenceTracking\bin\Tracking.Entities.pdb
+D:\Saswat_Backup\AttendenceTracking\bin\Tracking.Entities.dll.config
+D:\Saswat_Backup\AttendenceTracking\bin\CommonServiceLocator.pdb
+D:\Saswat_Backup\AttendenceTracking\bin\EntityFramework.xml
+D:\Saswat_Backup\AttendenceTracking\bin\EntityFramework.SqlServer.xml
+D:\Saswat_Backup\AttendenceTracking\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Saswat_Backup\AttendenceTracking\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Saswat_Backup\AttendenceTracking\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Saswat_Backup\AttendenceTracking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.xml
+D:\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Cors.xml
+D:\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Security.xml
+D:\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Saswat_Backup\AttendenceTracking\bin\System.Net.Http.Formatting.xml
+D:\Saswat_Backup\AttendenceTracking\bin\System.Web.Http.xml
+D:\Saswat_Backup\AttendenceTracking\bin\System.Web.Http.Cors.xml
+D:\Saswat_Backup\AttendenceTracking\bin\System.Web.Http.WebHost.xml
+D:\Saswat_Backup\AttendenceTracking\bin\Newtonsoft.Json.xml
+D:\Saswat_Backup\AttendenceTracking\bin\System.Web.Helpers.xml
+D:\Saswat_Backup\AttendenceTracking\bin\System.Web.Mvc.xml
+D:\Saswat_Backup\AttendenceTracking\bin\System.Web.Optimization.xml
+D:\Saswat_Backup\AttendenceTracking\bin\System.Web.Razor.xml
+D:\Saswat_Backup\AttendenceTracking\bin\System.Web.WebPages.xml
+D:\Saswat_Backup\AttendenceTracking\bin\System.Web.WebPages.Deployment.xml
+D:\Saswat_Backup\AttendenceTracking\bin\System.Web.WebPages.Razor.xml
+D:\Saswat_Backup\AttendenceTracking\bin\Unity.AspNet.WebApi.xml
+D:\Saswat_Backup\AttendenceTracking\bin\Unity.Configuration.pdb
+D:\Saswat_Backup\AttendenceTracking\bin\Unity.Interception.pdb
+D:\Saswat_Backup\AttendenceTracking\bin\Unity.Interception.Configuration.pdb
+D:\Saswat_Backup\AttendenceTracking\bin\Unity.RegistrationByConvention.pdb
+D:\Saswat_Backup\AttendenceTracking\bin\Unity.ServiceLocation.pdb
+D:\Saswat_Backup\AttendenceTracking\bin\Antlr3.Runtime.pdb
+D:\Saswat_Backup\AttendenceTracking\bin\Microsoft.ApplicationInsights.xml
+D:\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.DependencyCollector.xml
+D:\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.WindowsServer.xml
+D:\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.Web.xml
+D:\Saswat_Backup\AttendenceTracking\bin\SendEmail.Handler.pdb
+D:\Saswat_Backup\AttendenceTracking\obj\Debug\AttendenceTracking.csprojResolveAssemblyReference.cache
+D:\Saswat_Backup\AttendenceTracking\obj\Debug\AttendenceTracking.dll
+D:\Saswat_Backup\AttendenceTracking\obj\Debug\AttendenceTracking.pdb
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\ApplicationInsights.config
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\roslyn\csc.exe
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\roslyn\csc.exe.config
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\roslyn\csc.rsp
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\roslyn\csi.exe
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\roslyn\csi.rsp
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\roslyn\System.AppContext.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\roslyn\System.Collections.Immutable.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\roslyn\System.IO.FileSystem.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\roslyn\System.Reflection.Metadata.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\roslyn\vbc.exe
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\roslyn\vbc.exe.config
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\roslyn\vbc.rsp
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\roslyn\VBCSCompiler.exe
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\roslyn\VBCSCompiler.exe.config
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\AttendenceTracking.dll.config
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\AttendenceTracking.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\AttendenceTracking.pdb
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Antlr3.Runtime.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\CommonServiceLocator.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\EntityFramework.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\EntityFramework.SqlServer.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\ITracking.Bussiness.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.Agent.Intercept.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.DependencyCollector.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.Web.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.WindowsServer.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Microsoft.ApplicationInsights.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Microsoft.AspNet.Identity.Core.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Cors.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Security.Cookies.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Security.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Security.OAuth.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Microsoft.Web.Infrastructure.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Newtonsoft.Json.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Owin.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Swashbuckle.Core.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\System.Net.Http.Formatting.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\System.Web.Cors.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\System.Web.Helpers.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\System.Web.Http.Cors.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\System.Web.Http.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\System.Web.Http.WebHost.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\System.Web.Mvc.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\System.Web.Optimization.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\System.Web.Razor.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\System.Web.WebPages.Deployment.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\System.Web.WebPages.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\System.Web.WebPages.Razor.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Tracking.Bussiness.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Tracking.DataAccessLayer.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Tracking.Entities.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Unity.Abstractions.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Unity.AspNet.WebApi.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Unity.Configuration.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Unity.Container.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Unity.Interception.Configuration.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Unity.Interception.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Unity.RegistrationByConvention.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Unity.ServiceLocation.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\WebActivatorEx.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\WebGrease.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\ReadXL.Handler.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\SendEmail.Handler.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\ITracking.Bussiness.pdb
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\ITracking.Bussiness.dll.config
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Tracking.Bussiness.pdb
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Tracking.Bussiness.dll.config
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Tracking.DataAccessLayer.pdb
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Tracking.DataAccessLayer.dll.config
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Tracking.Entities.pdb
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Tracking.Entities.dll.config
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\CommonServiceLocator.pdb
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\EntityFramework.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\EntityFramework.SqlServer.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Microsoft.AspNet.Identity.Core.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Cors.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Security.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Security.Cookies.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Security.OAuth.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Newtonsoft.Json.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\System.Net.Http.Formatting.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\System.Web.Http.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\System.Web.Http.Cors.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\System.Web.Http.WebHost.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\System.Web.Helpers.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\System.Web.Mvc.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\System.Web.Optimization.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\System.Web.Razor.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\System.Web.WebPages.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\System.Web.WebPages.Deployment.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\System.Web.WebPages.Razor.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Unity.AspNet.WebApi.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Unity.Configuration.pdb
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Unity.Interception.pdb
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Unity.Interception.Configuration.pdb
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Unity.RegistrationByConvention.pdb
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Unity.ServiceLocation.pdb
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Antlr3.Runtime.pdb
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Microsoft.ApplicationInsights.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.DependencyCollector.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.WindowsServer.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.Web.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\ReadXL.Handler.pdb
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\ReadXL.Handler.dll.config
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\bin\SendEmail.Handler.pdb
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\obj\Debug\AttendenceTracking.csprojResolveAssemblyReference.cache
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\obj\Debug\AttendenceTracking.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\AttendenceTracking\obj\Debug\AttendenceTracking.pdb
+D:\Saswat_Backup\AttendenceTracking\bin\Swashbuckle.Core.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\ApplicationInsights.config
+D:\Project\Saswat_Backup\AttendenceTracking\bin\roslyn\csc.exe
+D:\Project\Saswat_Backup\AttendenceTracking\bin\roslyn\csc.exe.config
+D:\Project\Saswat_Backup\AttendenceTracking\bin\roslyn\csc.rsp
+D:\Project\Saswat_Backup\AttendenceTracking\bin\roslyn\csi.exe
+D:\Project\Saswat_Backup\AttendenceTracking\bin\roslyn\csi.rsp
+D:\Project\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project\Saswat_Backup\AttendenceTracking\bin\roslyn\System.AppContext.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\roslyn\System.Collections.Immutable.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\roslyn\System.IO.FileSystem.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\roslyn\vbc.exe
+D:\Project\Saswat_Backup\AttendenceTracking\bin\roslyn\vbc.exe.config
+D:\Project\Saswat_Backup\AttendenceTracking\bin\roslyn\vbc.rsp
+D:\Project\Saswat_Backup\AttendenceTracking\bin\roslyn\VBCSCompiler.exe
+D:\Project\Saswat_Backup\AttendenceTracking\bin\roslyn\VBCSCompiler.exe.config
+D:\Project\Saswat_Backup\AttendenceTracking\bin\AttendenceTracking.dll.config
+D:\Project\Saswat_Backup\AttendenceTracking\bin\AttendenceTracking.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\AttendenceTracking.pdb
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Antlr3.Runtime.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\CommonServiceLocator.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\EntityFramework.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\EntityFramework.SqlServer.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\ITracking.Bussiness.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.DependencyCollector.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.Web.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.WindowsServer.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Microsoft.ApplicationInsights.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Cors.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Security.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Newtonsoft.Json.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Owin.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Swashbuckle.Core.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\System.Net.Http.Formatting.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\System.Web.Cors.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\System.Web.Helpers.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\System.Web.Http.Cors.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\System.Web.Http.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\System.Web.Http.WebHost.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\System.Web.Mvc.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\System.Web.Optimization.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\System.Web.Razor.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\System.Web.WebPages.Deployment.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\System.Web.WebPages.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\System.Web.WebPages.Razor.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Tracking.Bussiness.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Tracking.DataAccessLayer.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Tracking.Entities.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Unity.Abstractions.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Unity.AspNet.WebApi.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Unity.Configuration.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Unity.Container.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Unity.Interception.Configuration.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Unity.Interception.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Unity.RegistrationByConvention.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Unity.ServiceLocation.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\WebActivatorEx.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\WebGrease.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\SendEmail.Handler.dll
+D:\Project\Saswat_Backup\AttendenceTracking\bin\ITracking.Bussiness.pdb
+D:\Project\Saswat_Backup\AttendenceTracking\bin\ITracking.Bussiness.dll.config
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Tracking.Bussiness.pdb
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Tracking.Bussiness.dll.config
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Tracking.DataAccessLayer.pdb
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Tracking.DataAccessLayer.dll.config
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Tracking.Entities.pdb
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Tracking.Entities.dll.config
+D:\Project\Saswat_Backup\AttendenceTracking\bin\CommonServiceLocator.pdb
+D:\Project\Saswat_Backup\AttendenceTracking\bin\EntityFramework.xml
+D:\Project\Saswat_Backup\AttendenceTracking\bin\EntityFramework.SqlServer.xml
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.xml
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Cors.xml
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Security.xml
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Newtonsoft.Json.xml
+D:\Project\Saswat_Backup\AttendenceTracking\bin\System.Net.Http.Formatting.xml
+D:\Project\Saswat_Backup\AttendenceTracking\bin\System.Web.Http.xml
+D:\Project\Saswat_Backup\AttendenceTracking\bin\System.Web.Http.Cors.xml
+D:\Project\Saswat_Backup\AttendenceTracking\bin\System.Web.Http.WebHost.xml
+D:\Project\Saswat_Backup\AttendenceTracking\bin\System.Web.Helpers.xml
+D:\Project\Saswat_Backup\AttendenceTracking\bin\System.Web.Mvc.xml
+D:\Project\Saswat_Backup\AttendenceTracking\bin\System.Web.Optimization.xml
+D:\Project\Saswat_Backup\AttendenceTracking\bin\System.Web.Razor.xml
+D:\Project\Saswat_Backup\AttendenceTracking\bin\System.Web.WebPages.xml
+D:\Project\Saswat_Backup\AttendenceTracking\bin\System.Web.WebPages.Deployment.xml
+D:\Project\Saswat_Backup\AttendenceTracking\bin\System.Web.WebPages.Razor.xml
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Unity.AspNet.WebApi.xml
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Unity.Configuration.pdb
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Unity.Interception.pdb
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Unity.Interception.Configuration.pdb
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Unity.RegistrationByConvention.pdb
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Unity.ServiceLocation.pdb
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Antlr3.Runtime.pdb
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Microsoft.ApplicationInsights.xml
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.DependencyCollector.xml
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.WindowsServer.xml
+D:\Project\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.Web.xml
+D:\Project\Saswat_Backup\AttendenceTracking\bin\SendEmail.Handler.pdb
+D:\Project\Saswat_Backup\AttendenceTracking\obj\Debug\AttendenceTracking.csprojAssemblyReference.cache
+D:\Project\Saswat_Backup\AttendenceTracking\obj\Debug\AttendenceTracking.csproj.CoreCompileInputs.cache
+D:\Project\Saswat_Backup\AttendenceTracking\obj\Debug\AttendenceTracking.csproj.CopyComplete
+D:\Project\Saswat_Backup\AttendenceTracking\obj\Debug\AttendenceTracking.dll
+D:\Project\Saswat_Backup\AttendenceTracking\obj\Debug\AttendenceTracking.pdb
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\obj\Debug\AttendenceTracking.csprojAssemblyReference.cache
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\obj\Debug\AttendenceTracking.csproj.CoreCompileInputs.cache
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\obj\Debug\AttendenceTracking.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\obj\Debug\AttendenceTracking.pdb
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\ApplicationInsights.config
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\roslyn\csc.exe
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\roslyn\csc.exe.config
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\roslyn\csc.rsp
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\roslyn\csi.exe
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\roslyn\csi.rsp
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\roslyn\System.AppContext.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\roslyn\System.Collections.Immutable.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\roslyn\System.IO.FileSystem.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\roslyn\System.Reflection.Metadata.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\roslyn\vbc.exe
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\roslyn\vbc.exe.config
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\roslyn\vbc.rsp
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\roslyn\VBCSCompiler.exe
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\roslyn\VBCSCompiler.exe.config
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\AttendenceTracking.dll.config
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\AttendenceTracking.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\AttendenceTracking.pdb
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Antlr3.Runtime.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\CommonServiceLocator.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\EntityFramework.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\EntityFramework.SqlServer.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\ITracking.Bussiness.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.Agent.Intercept.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.DependencyCollector.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.Web.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.WindowsServer.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Microsoft.ApplicationInsights.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Microsoft.AspNet.Identity.Core.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Cors.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Security.Cookies.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Security.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Security.OAuth.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Microsoft.Web.Infrastructure.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Newtonsoft.Json.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Owin.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Swashbuckle.Core.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\System.Net.Http.Formatting.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\System.Web.Cors.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\System.Web.Helpers.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\System.Web.Http.Cors.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\System.Web.Http.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\System.Web.Http.WebHost.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\System.Web.Mvc.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\System.Web.Optimization.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\System.Web.Razor.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\System.Web.WebPages.Deployment.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\System.Web.WebPages.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\System.Web.WebPages.Razor.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Tracking.Bussiness.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Tracking.DataAccessLayer.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Tracking.Entities.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Unity.Abstractions.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Unity.AspNet.WebApi.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Unity.Configuration.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Unity.Container.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Unity.Interception.Configuration.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Unity.Interception.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Unity.RegistrationByConvention.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Unity.ServiceLocation.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\WebActivatorEx.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\WebGrease.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\SendEmail.Handler.dll
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\ITracking.Bussiness.pdb
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\ITracking.Bussiness.dll.config
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Tracking.Bussiness.pdb
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Tracking.Bussiness.dll.config
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Tracking.DataAccessLayer.pdb
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Tracking.DataAccessLayer.dll.config
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Tracking.Entities.pdb
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Tracking.Entities.dll.config
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\CommonServiceLocator.pdb
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\EntityFramework.xml
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\EntityFramework.SqlServer.xml
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Microsoft.AspNet.Identity.Core.xml
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.xml
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Cors.xml
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Security.xml
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Security.Cookies.xml
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Microsoft.Owin.Security.OAuth.xml
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Newtonsoft.Json.xml
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\System.Net.Http.Formatting.xml
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\System.Web.Http.xml
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\System.Web.Http.Cors.xml
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\System.Web.Http.WebHost.xml
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\System.Web.Helpers.xml
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\System.Web.Mvc.xml
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\System.Web.Optimization.xml
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\System.Web.Razor.xml
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\System.Web.WebPages.xml
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\System.Web.WebPages.Deployment.xml
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\System.Web.WebPages.Razor.xml
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Unity.AspNet.WebApi.xml
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Unity.Configuration.pdb
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Unity.Interception.pdb
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Unity.Interception.Configuration.pdb
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Unity.RegistrationByConvention.pdb
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Unity.ServiceLocation.pdb
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Antlr3.Runtime.pdb
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Microsoft.ApplicationInsights.xml
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.DependencyCollector.xml
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.WindowsServer.xml
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\Microsoft.AI.Web.xml
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\bin\SendEmail.Handler.pdb
+D:\AMS_Clone\Saswat_Backup\AttendenceTracking\obj\Debug\AttendenceTracking.csproj.CopyComplete

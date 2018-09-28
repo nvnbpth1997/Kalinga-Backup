@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreDI", "AspNetCoreDI\AspNetCoreDI.csproj", "{A9CB4FDA-C55A-4D28-B295-E3E8E084AAFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9CB4FDA-C55A-4D28-B295-E3E8E084AAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9CB4FDA-C55A-4D28-B295-E3E8E084AAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9CB4FDA-C55A-4D28-B295-E3E8E084AAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9CB4FDA-C55A-4D28-B295-E3E8E084AAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DA0E636-763D-47BF-A7F1-FBF9A85165A0}
+	EndGlobalSection
+EndGlobal

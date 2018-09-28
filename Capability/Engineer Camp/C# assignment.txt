@@ -1,0 +1,166 @@
+1. Date Format
+
+using System;
+
+public class TestDate {
+	
+	public static void Main(String []args)
+	{
+	DateTime date1 = DateTime.Today;
+	
+	DateTime date2 = date1.AddDays(-10);
+		
+		if(date1>date2)
+	Console.WriteLine(date2.ToString("yyyy-MM-dd"));
+		else
+			Console.WriteLine(date1.ToString("yyyy-MM-dd"));
+	}
+}
+
+2. Method Overriding
+
+public class TestClass
+{
+    public static void Main()
+    {
+    //Implement the code as instructed above
+		Person p = new Student();
+		p = new Stud();
+		p.GetInfo();
+    }
+}
+
+
+
+3. Exception Handling
+
+i)
+Compilation error (line 14, col 19): A previous catch clause already catches all exceptions of this or of a super type ('System.Exception')
+ Catch block with Exception class object can handle all kinds of exception. 
+   So there is no need of specific catch block with ArgumentException class.
+
+ii) 
+	Index out of bounds occurred
+	Program execution continued after Exception Handling
+
+iii)  
+
+Enter a number: 2
+Remaining program
+
+Enter a number: a
+Bad Format Remaining program
+
+Enter a number: 11
+Index out of bounds Remaining program
+
+iv) 
+
+Flow reaches Finally
+Run-time exception (line 12): Random = 0
+
+Stack Trace:
+
+[System.Exception: Random = 0]
+   at MyProgram.Main(String[] args) :line 12
+
+Random = 1
+Flow reaches Finally
+
+Random = 2
+Flow reaches Finally
+
+
+v) 
+
+i) call of methodB
+
+Exception from Class A
+Inside Class B Finally
+
+
+ii) call of methodA (Output from the catch of class A is not diplayed, instead throw works)
+
+Exception from Class A //This output is from the catch of class B
+Inside Class B Finally
+Inside Class A Finally
+
+iii) throw in the catch block of class B produces error because no more catch block is found
+
+Exception from Class A
+Inside Class B Finally
+Exception from Class A
+Inside Class A Finally
+Run-time exception (line 36): Exception from Class B
+
+Stack Trace:
+
+[System.Exception: Exception from Class B]
+   at B.methodB() :line 36
+   at A.methodA() :line 16
+   at C.Main() :line 50
+
+
+
+4.  Abstract and interface
+
+using System;
+
+abstract class Car {
+	public abstract void getTotalSeat();
+	public abstract void colors();
+	public abstract void price();
+	
+	void callFacility()
+	{
+		
+	}
+	
+	
+	void checkAC() 
+	{
+		
+	}
+	
+	void wheel()
+	{
+		
+	}
+	
+}
+
+class Hyundai : Car {
+	public override void colors()
+	{
+		Console.WriteLine("Color is red!");
+	}
+	
+	public override void price()
+	{
+		Console.WriteLine("Price is 10000");
+	}
+	
+	public override void getTotalSeat()
+	{
+		Console.WriteLine("5 seater!");
+	}
+}
+
+class Toyoto : Car {
+	
+	public override void colors()
+	{
+		Console.WriteLine("Color is Blue!");
+	}
+	
+	public override void price()
+	{
+		Console.WriteLine("Price is 5000");
+	}
+	
+	public override void getTotalSeat()
+	{
+		Console.WriteLine("4 seater!");
+	}
+	
+}

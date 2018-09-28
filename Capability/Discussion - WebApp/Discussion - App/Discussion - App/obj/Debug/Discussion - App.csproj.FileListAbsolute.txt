@@ -1,0 +1,86 @@
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\ApplicationInsights.config
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\Discussion - App.dll.config
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\Discussion - App.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\Discussion - App.pdb
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\roslyn\csc.exe
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\roslyn\csc.exe.config
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\roslyn\csc.rsp
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\roslyn\csi.exe
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\roslyn\csi.rsp
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\roslyn\System.AppContext.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\roslyn\System.Collections.Immutable.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\roslyn\System.IO.FileSystem.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\roslyn\System.Reflection.Metadata.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\roslyn\vbc.exe
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\roslyn\vbc.exe.config
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\roslyn\vbc.rsp
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\roslyn\VBCSCompiler.exe
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\roslyn\VBCSCompiler.exe.config
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\Antlr3.Runtime.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\EntityFramework.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\EntityFramework.SqlServer.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\Microsoft.AI.DependencyCollector.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\Microsoft.AI.Web.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\Microsoft.AI.WindowsServer.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\Microsoft.ApplicationInsights.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\Microsoft.Web.Infrastructure.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\Newtonsoft.Json.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\System.Net.Http.Formatting.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\System.Web.Cors.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\System.Web.Helpers.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\System.Web.Http.Cors.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\System.Web.Http.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\System.Web.Http.WebHost.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\System.Web.Mvc.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\System.Web.Optimization.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\System.Web.Razor.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\System.Web.WebPages.Deployment.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\System.Web.WebPages.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\System.Web.WebPages.Razor.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\WebGrease.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\EntityFramework.xml
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\EntityFramework.SqlServer.xml
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\System.Net.Http.Formatting.xml
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\System.Web.Http.xml
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\System.Web.Http.Cors.xml
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\Newtonsoft.Json.xml
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\System.Web.Helpers.xml
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\System.Web.Http.WebHost.xml
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\System.Web.Mvc.xml
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\System.Web.Optimization.xml
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\System.Web.Razor.xml
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\System.Web.WebPages.xml
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\System.Web.WebPages.Deployment.xml
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\System.Web.WebPages.Razor.xml
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\Antlr3.Runtime.pdb
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\Microsoft.AI.DependencyCollector.xml
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\Microsoft.AI.WindowsServer.xml
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\Microsoft.AI.Web.xml
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\obj\Debug\Discussion - App.csprojAssemblyReference.cache
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\obj\Debug\Discussion - App.csproj.CoreCompileInputs.cache
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\obj\Debug\Discussion - App.csproj.CopyComplete
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\obj\Debug\Discussion - App.dll
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\obj\Debug\Discussion - App.pdb
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\obj\Debug\Discussion___App.Migrations.Initial.resources
+D:\Capability\Discussion - WebApp\Discussion - App\Discussion - App\obj\Debug\Discussion - App.csproj.GenerateResource.cache

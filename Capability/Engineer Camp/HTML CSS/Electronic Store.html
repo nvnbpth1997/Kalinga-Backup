@@ -1,0 +1,95 @@
+<html>
+
+<head>
+    <title>
+
+    </title>
+    <link rel="stylesheet" href="form.css">
+    <h1><center> User Details </center></h1>
+    <script src="formValidation.js" type="text/javascript"></script>
+</head>
+
+<body>
+    <form name="myForm"  method="post" onsubmit="return formValidate();"> 
+    <div  class="cellContainer">
+        <label>Title:</label>
+        <select id="select">
+                <option value="Mr.">Mr.</option>
+                <option value="Mrs.">Mrs.</option>
+        </select>
+    </div>
+    <div class="cellContainer">
+        <label>First Name:</label>
+        <input type="textbox" name="firstname"> 
+    </div>
+    <div class="cellContainer">
+        <label>Last Name:</label>
+        <input type="textbox" name="lastname">
+    </div>
+    <div class="cellContainer">
+        <label>Address:</label>
+        <input type="textbox" name="address">
+    </div>
+    <div class="cellContainer">
+        <label>City:</label>
+        <input type="textbox" name="city">
+    </div>
+    <div class="cellContainer">
+        <label>State:</label>
+        <input type="textbox" name="state">
+    </div>
+    <div class="cellContainer">
+        <label>Postal Code:</label>
+        <input type="textbox" name="postalcode">
+    </div>
+    <div class="cellContainer">
+        <label>Country:</label>
+        <input type="textbox" name="country">
+    </div>
+    <div class="cellContainer">
+        <label>Phone:</label>
+        <input type="textbox" name="phone">
+    </div>
+    <div class="cellContainer">
+        <label>Fax:</label>
+        <input type="textbox" name="fax">
+    </div>
+    <div class="cellContainer">
+        <label>Email:</label>
+        <input type="textbox" name="email">
+    </div>
+    <div>
+        <label>Payment by:</label><br>
+        <ul>
+        <div>
+            <input type="radio" name=radio id="r1"> <label>Paypal</label> 
+        </div>
+        </ul>
+        <ul>
+        <div>
+            <input type="radio" name=radio id="r2">  <label>COD</label>
+        </div>
+        </ul>
+        <ul>
+        <div>
+            <input type="radio" name=radio id="r3">  <label>Credit Card</label>
+        </div>
+        </ul>
+    </div>
+    <div class>
+        <label>Any Additional Requests:</label>
+        <textarea name="feedback" cols="30" rows="5"> </textarea>
+    </div>
+    <div class="cellContainer">
+        <br>
+        <input type="checkbox" name="confirm"> <label>I agree with Terms and Conditions.</label>
+    </div>
+    <div class=cellContainer>
+        <br>
+        <input type="Submit" value="Confirm and Checkout" />
+    </div>
+    </form>
+   
+</body>
+
+</html>

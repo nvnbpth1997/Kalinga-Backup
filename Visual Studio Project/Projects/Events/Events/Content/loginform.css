@@ -1,0 +1,31 @@
+﻿
+form {
+    width: 400px;
+}
+
+label {
+    float: left;
+    width: 150px;
+}
+
+input[type=text]{
+    float: left;
+    width: 250px;
+}
+
+button-class {
+    display : inline;
+}
+
+table th, td {
+    border: hidden;
+    text-align: center;
+    width : 1200px;
+}
+
+.editor-multiline-field textarea {
+    float: initial;
+    width: 250px;
+    height: 200px;
+    
+}

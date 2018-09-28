@@ -1,0 +1,9 @@
+1. update marks set mark=mark+5 where marks.module_code=(select module_code from modules where module_name='Programming Language');
+
+2. update students set surname=concat('mind',surname);
+
+3. select * from students inner join marks on students.student_no=marks.student_no&&marks.mark>60&&marks.module_code='CM0002';
+   select * from students inner join marks on marks.mark>60&&students.student_no=marks.student_no inner join modules on marks.module_code=modules.module_code&&modules.module_name='Programming Language';
+
+4. select * from students inner join marks on marks.mark>80&&students.student_no=marks.student_no inner join modules on marks.module_code=modules.module_code&&modules.module_name='Databases';
+    select students.student_no, surname, forename from students inner join marks on marks.mark>80&&students.student_no=marks.student_no inner join modules on marks.module_code=modules.module_code&&modules.module_name='Databases';

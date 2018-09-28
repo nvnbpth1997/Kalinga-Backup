@@ -1,0 +1,133 @@
+1. Matrix outer
+
+package Test;
+
+import java.util.Scanner;
+
+public class Mtrix {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Scanner scan = new Scanner(System.in);
+		
+		int r = scan.nextInt();
+		int c = scan.nextInt();
+		
+		int a[][] = new int[r][c];
+		
+			for(int i=0; i<r; ++i)
+				for(int j=0; j<c; ++j)
+					a[i][j] = scan.nextInt();
+			
+			for(int i=0; i<r; ++i)
+				{
+				for(int j=0; j<c; ++j)
+				{
+					if(i==0||i==r-1)
+						System.out.print(a[i][j]+" ");
+					else
+						if(j==0||j==c-1)
+						  System.out.print(a[i][j]+" ");
+						else
+							System.out.print("  ");
+				}
+				System.out.print("\n");
+				}
+			
+			scan.close();
+	}
+
+}
+
+
+2. Is are replacement
+
+package Test;
+import java.util.Scanner;
+public class ReplaceIs {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+			Scanner in = new Scanner(System.in);
+			
+			String str = in.nextLine();
+			String s ="";
+						
+			for(int i=0; i<str.length()-1; ++i)
+				if(str.substring(i, i+2).equals("is")||str.substring(i, i+2).equals("IS"))
+				{
+					s+="are";
+					++i;
+				}
+				else
+					s+=str.charAt(i);
+		
+			System.out.println(s);		
+			in.close();
+	}
+
+}
+
+3. Triplets
+
+package Naveen;
+
+import java.util.Scanner;
+public class Triplets {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Scanner in = new Scanner(System.in);
+		int n = in.nextInt();
+		int data[] = new int[n];
+		
+		for(int i=0; i<n; ++i)
+			data[i]=in.nextInt();
+		
+		for(int i=0; i<n-(n%3); ++i)
+			for(int j=i+1; j<n-(n%3)+1; ++j)
+				for(int k=j+1; k<n; ++k)
+				{
+					if(data[i]+data[j]==data[k]||data[i]+data[k]==data[j]||data[j]+data[k]==data[i])
+						System.out.println("<"+data[i]+","+data[j]+","+data[k]+">");
+				}
+		in.close();
+	}
+
+}
+
+4. String reverse
+
+package Naveen;
+
+import java.util.Scanner;
+
+public class SentenceReverse {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String Sentence;
+		Scanner in = new Scanner(System.in);
+		Sentence = in.nextLine();
+		String [] words = Sentence.split(" ");
+		
+		for(int i=0; i<words.length; ++i)
+		{
+			char [] word = new char[words[i].length()];
+			  for(int j=0; j<words[i].length(); j++)
+				  if(Character.isLetter(words[i].charAt(words[i].length()-j-1)))
+						  word[j]=words[i].charAt(words[i].length()-j-1);
+				  else
+					  		word[j]=words[i].charAt(j);
+			for(int j=0; j<words[i].length(); j++)
+			System.out.print(word[j]);
+			System.out.print(" ");
+		}	
+		in.close();
+	}
+
+}
+

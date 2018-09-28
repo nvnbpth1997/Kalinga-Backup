@@ -1,0 +1,22 @@
+p{
+    text-align: center;
+    color: green;
+    font-style: italic;
+    font-size: 30px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+footer{
+   font-weight: bold;
+   margin-top: 300px;
+   text-align: center;
+   font-size: 18px;
+  }
+
+ 

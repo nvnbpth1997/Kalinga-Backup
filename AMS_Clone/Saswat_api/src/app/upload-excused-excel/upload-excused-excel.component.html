@@ -1,0 +1,34 @@
+
+  <mat-sidenav-content>
+    <mat-toolbar class="toolbar">
+      
+      <span class="span">AMS </span>
+  
+      
+      <a class="hovering" (click)="Logout()"> Logout </a>
+  
+     
+  
+    </mat-toolbar>
+    
+    <div class = "container">
+      <div class = "row"> 
+      <div class = "col-lg-3 col-md-3 col-sm-3"></div> 
+      <div class = "col-lg-6 col-md-6 col-sm-6">
+        <h3>Please upload Excel File..</h3>
+        <br> <br>
+      <input style type="file" #fileuploader ngf-pattern="'.xlsx'" accept="xlsx" class="btn btn-success" (change)="onFileChange($event)">
+      <button type="file" [disabled]="disableUpload !== 1" class="btn dark btn-outline" (click)="uploadexcusedfile()">Upload</button> 
+      </div>
+      <div class = "col-lg-3 col-md-3 col-sm-3"></div>
+      </div>
+      </div> 
+  
+  </mat-sidenav-content>
+
+  
+  
+  
+  
+  
+  

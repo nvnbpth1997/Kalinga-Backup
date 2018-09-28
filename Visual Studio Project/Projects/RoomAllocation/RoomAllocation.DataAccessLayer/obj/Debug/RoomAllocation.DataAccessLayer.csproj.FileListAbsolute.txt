@@ -1,0 +1,17 @@
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\RoomAllocation\RoomAllocation.DataAccessLayer\bin\Debug\RoomAllocation.DataAccessLayer.dll.config
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\RoomAllocation\RoomAllocation.DataAccessLayer\bin\Debug\RoomAllocation.DataAccessLayer.dll
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\RoomAllocation\RoomAllocation.DataAccessLayer\bin\Debug\RoomAllocation.DataAccessLayer.pdb
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\RoomAllocation\RoomAllocation.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\RoomAllocation\RoomAllocation.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\RoomAllocation\RoomAllocation.DataAccessLayer\bin\Debug\RoomAllocation.Entities.dll
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\RoomAllocation\RoomAllocation.DataAccessLayer\bin\Debug\RoomAllocation.Entities.pdb
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\RoomAllocation\RoomAllocation.DataAccessLayer\bin\Debug\RoomAllocation.Entities.dll.config
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\RoomAllocation\RoomAllocation.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\RoomAllocation\RoomAllocation.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\RoomAllocation\RoomAllocation.DataAccessLayer\obj\Debug\RoomAllocation.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\RoomAllocation\RoomAllocation.DataAccessLayer\obj\Debug\RoomAllocation.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\RoomAllocation\RoomAllocation.DataAccessLayer\obj\Debug\RoomAllocation.DataAccessLayer.csproj.CopyComplete
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\RoomAllocation\RoomAllocation.DataAccessLayer\obj\Debug\RoomAllocation.DataAccessLayer.dll
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\RoomAllocation\RoomAllocation.DataAccessLayer\obj\Debug\RoomAllocation.DataAccessLayer.pdb
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\RoomAllocation\RoomAllocation.DataAccessLayer\obj\Debug\RoomAllocation.DataAccessLayer.Migrations.AllocateRooms.resources
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\RoomAllocation\RoomAllocation.DataAccessLayer\obj\Debug\RoomAllocation.DataAccessLayer.csproj.GenerateResource.cache

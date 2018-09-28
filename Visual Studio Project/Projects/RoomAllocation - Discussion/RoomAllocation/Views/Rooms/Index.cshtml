@@ -1,0 +1,51 @@
+﻿@model IEnumerable<RoomAllocation.Models.Room>
+
+@{
+    ViewBag.Title = "Index-Rooms";
+}
+
+<h2>Kalinga - Room Details</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.room_RID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.room_blockName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.room_floorNumber)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.room_cost)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.room_RID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.room_blockName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.room_floorNumber)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.room_cost)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.roomID }) |
+            @Html.ActionLink("Details", "Details", new { id = item.roomID }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.roomID })
+        </td>
+    </tr>
+}
+
+</table>

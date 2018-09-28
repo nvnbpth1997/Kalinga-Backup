@@ -1,0 +1,60 @@
+.container
+{
+    margin-top: 64px;
+     /* background:#FFD7DC;  */
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/attendance-cc2a0.appspot.com/o/newimg.jpg?alt=media&token=92806f2c-3a68-4d9c-bc82-7e10bcb1fdca");
+   background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover;
+
+    
+    height: 100%;
+}
+.card{
+    display: flex;
+    justify-content: center;
+}
+.list{
+    display: flex;
+    justify-content: center;
+}
+mat-card{
+    align-self: center;
+    margin-top:30px;
+    margin-bottom:5px;
+    padding:5px;
+    width:500px;
+    background: #F2EDDF;
+    border: 3px double #333f48;
+}
+mat-card-header{
+    display: flex;
+    justify-content: center;
+}
+mat-card-subtitle{
+    text-align: center
+}
+h3{
+    display: flex;
+    justify-content: center;
+}
+.cmImg{
+    display: flex;
+    justify-content: center;
+}
+mat-grid-list{
+    display: flex;
+    justify-content: center;
+    width:500px;
+    padding:5px;
+}
+mat-grid-tile{
+    background: #F2EDDF;
+    border: 3px double #333f48;
+}
+.late{
+    color:green;
+}
+.no{
+    color:red;
+}

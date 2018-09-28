@@ -1,0 +1,625 @@
+  <div class = "body" (window:resize)="checkWidth()" ></div>
+<div class="tabs"> 
+  <mat-tab-group  class="group"(selectedTabChange)="getRepeatDefaulter($event)">
+   <mat-tab label="Defaulters"style="font-size:50px"> 
+      <div class="headings"> SWIPED LATE </div>
+   
+        <mat-grid-list class="id"cols={{cols}} rowHeight="2:2">
+            
+           <ul *ngFor="let mb of ms.mindsList|paginate:{itemsPerPage : 9, currentPage: p}">
+           <mat-grid-tile class="my-grid-tile">  
+       
+             <div class="maincontainer">
+               <a routerLink ="/home/details/{{mb.Mid}}">
+                  <div class="thecard">
+
+                    <div class="thefront">
+                      <h3 class="card-header">
+                        <img [src]="mb.Photograph" alt={{mb.Mid}} *ngIf="(mb.Photograph != null); else noImageFound"  style="width:140px;height:120px"
+                           align="center">
+                          </h3>
+                          <ng-template #noImageFound>
+                            <h3 class="card-header">
+                              <img src="https://firebasestorage.googleapis.com/v0/b/attendance-cc2a0.appspot.com/o/minds.png?alt=media&token=ebbb1edf-46a5-4bf2-ad05-3935e030ae55"
+                                style="width:140px;height:120px"  align="centre">
+                                </h3>
+                                </ng-template>
+                      <div class="card-body">
+                        <p class="card-text"><b>MID: </b>{{mb.Mid}}</p>
+                        <p class="card-text"><b>NAME: </b>{{mb.FirstName}} {{mb.LastName}}</p>
+                        <p class="card-text"> <b>SWIPE IN: </b>{{mb.Datetime|date:'HH:mm:ss a'}} </p>
+                      </div>
+                    </div>
+
+
+                    <div class="theback">
+                      <div class="card-backbody">
+                        <p class="card-cm"><b>CAMPUS MINDS </b></p>
+                        <p class="card-det"><b>E-MAIL: </b>{{mb.Email}}</p>
+                        <p class="card-det"><b>PHONE NO.: </b>{{mb.PhoneNo}}</p>
+                        <p class="card-det"><b>GENDER: </b>{{mb.Gender}}</p>
+                        <p class="card-det"><b>ROOM NO.: </b>{{mb.ResidenceString}}</p>
+
+                        <p class="card-cm"><b>LEAD DETAILS </b></p>
+                        <p class="card-det"><b>NAME: </b>{{mb.LeadName}}</p>
+                        <p class="card-det"><b>E-MAIL: </b>{{mb.LeadEmail}}</p>
+                        <p class="card-det"><b>PHONE NO.: </b>{{mb.LeadPhoneNo}}</p>
+
+                      </div>
+                    </div>
+
+                    </div>
+                    </a>
+                    </div>
+
+
+                
+           </mat-grid-tile>
+         </ul>
+       </mat-grid-list>  
+
+  
+<pagination-controls (pageChange)="p=$event" class="page"></pagination-controls>
+    </mat-tab>
+
+     <mat-tab label="Repeated Defaulters">
+      <div class="headings"> SWIPED LATE </div>
+      <div class="dropdown">
+        <select [(ngModel)]='defaultvalue' (ngModelChange)='OnFilter($event)'>
+          <option *ngFor="let item of filterrepeateddefaulters" [value]='item.id'>{{item.name}}</option>
+        </select>
+      </div>
+     
+      <mat-grid-list cols={{cols}} rowHeight="2:2">
+        <ul *ngFor="let mb of ms.mindsList|paginate:{itemsPerPage : 9, currentPage: p}">
+          <mat-grid-tile class="my-grid-tile">
+
+            <div class="maincontainer">
+              <a routerLink ="/home/details/{{mb.Mid}}">
+              <div class="thecard">
+
+                <div class="thefront">
+                  <h3 class="card-header">
+                    <img [src]="mb.Photograph" alt={{mb.Mid}} *ngIf="(mb.Photograph != null); else noImageFound"  style="width:140px;height:120px"
+                       align="center">
+                      </h3>
+                      <ng-template #noImageFound>
+                        <h3 class="card-header">
+                          <img src="https://firebasestorage.googleapis.com/v0/b/attendance-cc2a0.appspot.com/o/minds.png?alt=media&token=ebbb1edf-46a5-4bf2-ad05-3935e030ae55"
+                            style="width:140px;height:120px"  align="center">
+                            </h3>
+                            </ng-template>
+                  <div class="card-body">
+                    <p class="card-text"><b>MID: </b>{{mb.Mid}}</p>
+                    <p class="card-text"><b>NAME: </b>{{mb.FirstName}} {{mb.LastName}}</p>
+                    <p class="card-text"><b>LATE SWIPE COUNT: </b>{{mb.LateSwipe}}</p>
+                    <p class="card-text"><b>NOT SWIPE COUNT: </b>{{mb.NotSwipe}}</p>
+
+
+                  </div>
+                </div>
+
+
+                <div class="theback">
+                  <div class="card-backbody">
+                  <p class="card-cm"><b>CAMPUS MINDS </b></p>
+                  <p class="card-det"><b>E-MAIL: </b>{{mb.Email}}</p>
+                  <p class="card-det"><b>PHONE NO.: </b>{{mb.PhoneNo}}</p>
+                  <p class="card-det"><b>GENDER: </b>{{mb.Gender}}</p>
+                  <p class="card-det"><b>ROOM NO.: </b>{{mb.ResidenceString}}</p>
+
+                  <p class="card-cm"><b>LEAD DETAILS </b></p>
+                  <p class="card-det"><b>NAME: </b>{{mb.LeadName}}</p>
+                  <p class="card-det"><b>E-MAIL: </b>{{mb.LeadEmail}}</p>
+                  <p class="card-det"><b>PHONE NO.: </b>{{mb.LeadPhoneNo}}</p>
+
+                  </div>
+                </div>
+
+              </div>
+            </a>
+            </div>
+
+
+
+          </mat-grid-tile>
+        </ul>
+      </mat-grid-list>
+     
+
+                 
+                        
+                
+      
+    <pagination-controls (pageChange)="p=$event" class="page"></pagination-controls>
+     </mat-tab>
+     <mat-tab label="Filter Defaulters">
+      
+<div class="headings"> Defaulters </div><br>
+<div class="subheading">
+Filters:
+</div><br>
+<table>
+  <tr>
+  <td><input type="radio" id="1" name="test" value = "LTD" (click)='OnFilter("1")' [ngModel]="reference" checked>Last Three Days </td>
+    <td><input type="radio" id="2" name="test" (click)='OnFilter("2")' >Last Week </td>
+    <td><input type="radio" id="5" name="test" (click)='OnFilter("5")'>Last Month   </td>
+      <td><input type="radio" id="3" name="test" value= "LTM" (click)='OnFilter("3")' [ngModel]="r">Last Three Months </td>
+      <td><input type="radio" id="4" name="test" (click)='OnFilter("4")'>Threshold </td>
+  </tr>
+  <br>
+  <tr> <td><button (click)="ExportAsExcel(ms.mindsList)">Export As Excel</button> </td> </tr>
+</table>
+
+<mat-grid-list cols={{cols}} rowHeight="2:2">
+  <ul *ngFor="let mb of ms.mindsList|paginate:{itemsPerPage : 9, currentPage: p}">
+    <mat-grid-tile class="my-grid-tile">
+
+      <div class="maincontainer">
+        <a routerLink ="/home/details/{{mb.Mid}}">
+        <div class="thecard">
+
+          <div class="thefront">
+            <h3 class="card-header">
+              <img [src]="mb.Photograph" alt={{mb.Mid}} *ngIf="(mb.Photograph != null); else noImageFound"  style="width:140px;height:120px"
+                 align="center">
+                </h3>
+                <ng-template #noImageFound>
+                  <h3 class="card-header">
+                    <img src="https://firebasestorage.googleapis.com/v0/b/attendance-cc2a0.appspot.com/o/minds.png?alt=media&token=ebbb1edf-46a5-4bf2-ad05-3935e030ae55"
+                      style="width:140px;height:120px"  align="center">
+                      </h3>
+                      </ng-template>
+            <div class="card-body">
+              <p class="card-text"><b>MID: </b>{{mb.Mid}}</p>
+              <p class="card-text"><b>NAME: </b>{{mb.FirstName}} {{mb.LastName}}</p>
+              <p class="card-text"><b>LATE SWIPE COUNT: </b>{{mb.LateSwipe}}</p>
+              <p class="card-text"><b>NOT SWIPE COUNT: </b>{{mb.NotSwipe}}</p>
+
+
+            </div>
+          </div>
+
+
+          <div class="theback">
+            <div class="card-backbody">
+            <p class="card-cm"><b>CAMPUS MINDS </b></p>
+            <p class="card-det"><b>E-MAIL: </b>{{mb.Email}}</p>
+            <p class="card-det"><b>PHONE NO.: </b>{{mb.PhoneNo}}</p>
+            <p class="card-det"><b>GENDER: </b>{{mb.Gender}}</p>
+            <p class="card-det"><b>ROOM NO.: </b>{{mb.ResidenceString}}</p>
+
+            <p class="card-cm"><b>LEAD DETAILS </b></p>
+            <p class="card-det"><b>NAME: </b>{{mb.LeadName}}</p>
+            <p class="card-det"><b>E-MAIL: </b>{{mb.LeadEmail}}</p>
+            <p class="card-det"><b>PHONE NO.: </b>{{mb.LeadPhoneNo}}</p>
+
+            </div>
+          </div>
+
+        </div>
+      </a>
+      </div>
+
+
+
+    </mat-grid-tile>
+  </ul>
+</mat-grid-list>
+
+  
+           
+                  
+          
+
+<pagination-controls (pageChange)="p=$event" class="page"></pagination-controls>
+
+    </mat-tab>
+  </mat-tab-group> 
+</div>
+
+ 
+ <!-- <mat-grid-list class="id"cols="3" rowHeight="2:2">
+    <mat-grid-tile class="my-grid-tile">         
+
+ <div class="maincontainer">
+  <div class="thecard">
+
+    <div class="thefront">
+    <h3 class="card-header"><img src="/assets/minds.png"style="width:140px;height:120px" align="center"></h3>
+    <div class="card-body">
+        <p class="card-text">NAME</p>
+        <p class="card-text">MID</p>  
+      </div>
+       </div>
+    
+
+        <div class="theback">
+        <div class="card-backbody">
+            <p class="card-text">NAME</p>
+            <p class="card-text">MID</p>  
+          </div>
+        </div>
+
+  </div>
+</div> 
+
+</mat-grid-tile>
+ </mat-grid-list> -->
+
+
+<!-- HARD CODED <div class="container">
+    
+ <mat-tab-group>
+    <mat-tab label="Defaulters">   
+        <! <input class="form-control" type="text" placeholder="Search" aria-label="Search"> -->
+         <!-- <mat-grid-list class="id"cols="3" rowHeight="1:1">
+            <mat-grid-tile class="my-grid-tile">         
+        
+         <div class="maincontainer">
+          <div class="thecard">
+        
+            <div class="thefront">
+            <h3 class="card-header"><img src="/assets/minds.png"style="width:140px;height:120px" align="center"></h3>
+            <div class="card-body">
+                <p class="card-text">NAME</p>
+                <p class="card-text">MID</p>  
+              </div>
+               </div>
+            
+        
+                <div class="theback">
+                <div class="card-backbody">
+                    <p class="card-text">NAME</p>
+                    <p class="card-text">MID</p>  
+                  </div>
+                </div>
+        
+          </div>
+        </div> 
+        
+        </mat-grid-tile>
+         </mat-grid-list>
+
+    </mat-tab>
+   
+<mat-tab label="Repeated Defaulters"> -->
+  
+     <!-- <input class="form-control" type="text" placeholder="Search" aria-label="Search">
+   -->
+   <!-- <div class="sidenav">
+      <div class="filter"> -->
+          <!--<select>
+              <option value="Filter_By">Filter By :</option>
+              <option value="Last_Week">Last Week</option>
+              <option value="Last_Month">Last Month</option>
+              <option value="Thrashold">Thrashold</option>
+            </select> -->
+
+          <!-- Example split danger button -->
+
+          <!-- <div class="dropdown">
+    <button class="btn btn-default dropdown-toggle" type="button" id="menu1" data-toggle="dropdown">Tutorials
+    <span class="caret"></span></button>
+    <ul class="dropdown-menu" role="menu" aria-labelledby="menu1">
+      <li role="presentation"><a role="menuitem" tabindex="-1" href="#">HTML</a></li>
+      <li role="presentation"><a role="menuitem" tabindex="-1" href="#">CSS</a></li>
+      <li role="presentation"><a role="menuitem" tabindex="-1" href="#">JavaScript</a></li>
+      <li role="presentation" class="divider"></li>
+      <li role="presentation"><a role="menuitem" tabindex="-1" href="#">About Us</a></li>
+    </ul>
+  </div> -->
+       <!-- <label style="font-family: 'Times New Roman', Times, serif"> Filter By: </label>
+<div class="custom-control custom-radio custom-control-inline" style="font-family: 'Times New Roman', Times, serif">
+    <input type="radio" class="custom-control-input" id="defaultInline1" name="inlineDefaultRadiosExample" value="first" ng-model="content">
+    <label class="custom-control-label" for="defaultInline1">Last Week</label>
+  </div>
+
+  <div class="custom-control custom-radio custom-control-inline" style="font-family: 'Times New Roman', Times, serif">
+      <input type="radio" class="custom-control-input" id="defaultInline2" name="inlineDefaultRadiosExample" value="second" ng-model="content">
+      <label class="custom-control-label" for="defaultInline2">Last Month</label>
+    </div>
+
+    <div class="custom-control custom-radio custom-control-inline" style="font-family: 'Times New Roman', Times, serif">
+        <input type="radio" class="custom-control-input" id="defaultInline3" name="inlineDefaultRadiosExample" value="third" ng-model="content">
+        <label class="custom-control-label" for="defaultInline3">Thrashold</label>
+    </div> 
+
+      </div>
+  </div> -->
+  
+  <!-- Default inline 2-->
+  
+  
+  <!-- Default inline 3-->
+  
+    
+  
+     <!-- <mat-grid-list class="id"cols="3" rowHeight="2:2">
+        <mat-grid-tile class="my-grid-tile">         
+    
+     <div class="maincontainer">
+      <div class="thecard">
+    
+        <div class="thefront">
+        <h3 class="card-header"><img src="/assets/minds.png"style="width:140px;height:120px" align="center"></h3>
+        <div class="card-body">
+            <p class="card-text">NAME</p>
+            <p class="card-text">MID</p>  
+          </div>
+           </div>
+        
+    
+            <div class="theback">
+            <div class="card-backbody">
+                <p class="card-text">NAME</p>
+                <p class="card-text">MID</p>  
+              </div>
+            </div>
+    
+      </div>
+    </div> 
+    
+    </mat-grid-tile>
+      -->
+
+
+        <!-- <mat-grid-tile class="my-grid-tile">         
+    
+     <div class="maincontainer">
+      <div class="thecard">
+    
+        <div class="thefront">
+        <h3 class="card-header"><img src="/assets/minds.png"style="width:140px;height:120px" align="center"></h3>
+        <div class="card-body">
+            <p class="card-text">NAME</p>
+            <p class="card-text">MID</p>  
+          </div>
+           </div>
+        
+    
+            <div class="theback">
+            <div class="card-backbody">
+                <p class="card-text">NAME</p>
+                <p class="card-text">MID</p>  
+              </div>
+            </div>
+    
+      </div>
+    </div> 
+    
+    </mat-grid-tile>
+
+    <mat-grid-tile class="my-grid-tile">         
+        
+         <div class="maincontainer">
+          <div class="thecard">
+        
+            <div class="thefront">
+            <h3 class="card-header"><img src="/assets/minds.png"style="width:140px;height:120px" align="center"></h3>
+            <div class="card-body">
+                <p class="card-text">NAME</p>
+                <p class="card-text">MID</p>  
+              </div>
+               </div>
+            
+        
+                <div class="theback">
+                <div class="card-backbody">
+                    <p class="card-text">NAME</p>
+                    <p class="card-text">MID</p>  
+                  </div>
+                </div>
+        
+          </div>
+        </div> 
+        
+        </mat-grid-tile>
+
+        <mat-grid-tile class="my-grid-tile">         
+            
+             <div class="maincontainer">
+              <div class="thecard">
+            
+                <div class="thefront">
+                <h3 class="card-header"><img src="/assets/minds.png"style="width:140px;height:120px" align="center"></h3>
+                <div class="card-body">
+                    <p class="card-text">NAME</p>
+                    <p class="card-text">MID</p>  
+                  </div>
+                   </div>
+                
+            
+                    <div class="theback">
+                    <div class="card-backbody">
+                        <p class="card-text">NAME</p>
+                        <p class="card-text">MID</p>  
+                      </div>
+                    </div>
+            
+              </div>
+            </div> 
+            
+            </mat-grid-tile>
+
+            <mat-grid-tile class="my-grid-tile">         
+                
+                 <div class="maincontainer">
+                  <div class="thecard">
+                
+                    <div class="thefront">
+                    <h3 class="card-header"><img src="/assets/minds.png"style="width:140px;height:120px" align="center"></h3>
+                    <div class="card-body">
+                        <p class="card-text">NAME</p>
+                        <p class="card-text">MID</p>  
+                      </div>
+                       </div>
+                    
+                
+                        <div class="theback">
+                        <div class="card-backbody">
+                            <p class="card-text">NAME</p>
+                            <p class="card-text">MID</p>  
+                          </div>
+                        </div>
+                
+                  </div>
+                </div> 
+                
+                </mat-grid-tile>
+
+                <mat-grid-tile class="my-grid-tile">         
+                    
+                     <div class="maincontainer">
+                      <div class="thecard">
+                    
+                        <div class="thefront">
+                        <h3 class="card-header"><img src="/assets/minds.png"style="width:140px;height:120px" align="center"></h3>
+                        <div class="card-body">
+                            <p class="card-text">NAME</p>
+                            <p class="card-text">MID</p>  
+                          </div>
+                           </div>
+                        
+                    
+                            <div class="theback">
+                            <div class="card-backbody">
+                                <p class="card-text">NAME</p>
+                                <p class="card-text">MID</p>  
+                              </div>
+                            </div>
+                    
+                      </div>
+                    </div> 
+                    
+                    </mat-grid-tile>
+
+                    <mat-grid-tile class="my-grid-tile">         
+                        
+                         <div class="maincontainer">
+                          <div class="thecard">
+                        
+                            <div class="thefront">
+                            <h3 class="card-header"><img src="/assets/minds.png"style="width:140px;height:120px" align="center"></h3>
+                            <div class="card-body">
+                                <p class="card-text">NAME</p>
+                                <p class="card-text">MID</p>  
+                              </div>
+                               </div>
+                            
+                        
+                                <div class="theback">
+                                <div class="card-backbody">
+                                    <p class="card-text">NAME</p>
+                                    <p class="card-text">MID</p>  
+                                  </div>
+                                </div>
+                        
+                          </div>
+                        </div> 
+                        
+                        </mat-grid-tile>
+                        <mat-grid-tile class="my-grid-tile">         
+                            
+                             <div class="maincontainer">
+                              <div class="thecard">
+                            
+                                <div class="thefront">
+                                <h3 class="card-header"><img src="/assets/minds.png"style="width:140px;height:120px" align="center"></h3>
+                                <div class="card-body">
+                                    <p class="card-text">NAME</p>
+                                    <p class="card-text">MID</p>  
+                                  </div>
+                                   </div>
+                                
+                            
+                                    <div class="theback">
+                                    <div class="card-backbody">
+                                        <p class="card-text">NAME</p>
+                                        <p class="card-text">MID</p>  
+                                      </div>
+                                    </div>
+                            
+                              </div>
+                            </div> 
+                            
+                            </mat-grid-tile>
+                            <mat-grid-tile class="my-grid-tile">         
+                                
+                                 <div class="maincontainer">
+                                  <div class="thecard">
+                                
+                                    <div class="thefront">
+                                    <h3 class="card-header"><img src="/assets/minds.png"style="width:140px;height:120px" align="center"></h3>
+                                    <div class="card-body">
+                                        <p class="card-text">NAME</p>
+                                        <p class="card-text">MID</p>  
+                                      </div>
+                                       </div>
+                                    
+                                
+                                        <div class="theback">
+                                        <div class="card-backbody">
+                                            <p class="card-text">NAME</p>
+                                            <p class="card-text">MID</p>  
+                                          </div>
+                                        </div>
+                                
+                                  </div>
+                                </div> 
+                                
+                                </mat-grid-tile>
+  </mat-grid-list> 
+</mat-tab>
+
+  <mat-tab label="Filters">
+  
+    <label style="font-family: 'Times New Roman', Times, serif"> Filter By: </label>&nbsp;&nbsp;
+    <div class="custom-control custom-radio custom-control-inline" style="font-family: 'Times New Roman', Times, serif">
+        <input type="radio" class="custom-control-input" id="defaultInline1" name="inlineDefaultRadiosExample" value="first" ng-model="content">
+        <label class="custom-control-label" for="defaultInline1"> Last Week</label>
+      </div>
+    
+      <div class="custom-control custom-radio custom-control-inline" style="font-family: 'Times New Roman', Times, serif">
+          <input type="radio" class="custom-control-input" id="defaultInline2" name="inlineDefaultRadiosExample" value="second" ng-model="content">
+          <label class="custom-control-label" for="defaultInline2">Last Month</label>
+        </div>
+    
+        <div class="custom-control custom-radio custom-control-inline" style="font-family: 'Times New Roman', Times, serif">
+            <input type="radio" class="custom-control-input" id="defaultInline3" name="inlineDefaultRadiosExample" value="third" ng-model="content">
+            <label class="custom-control-label" for="defaultInline3">Thrashold</label>
+        </div> 
+
+     
+         <mat-grid-list class="id"cols="3" rowHeight="2:2">
+            <mat-grid-tile class="my-grid-tile">         
+        
+         <div class="maincontainer">
+          <div class="thecard">
+        
+            <div class="thefront">
+            <h3 class="card-header"><img src="/assets/minds.png"style="width:140px;height:120px" align="center"></h3>
+            <div class="card-body">
+                <p class="card-text">NAME</p>
+                <p class="card-text">MID</p>  
+              </div>
+               </div>
+
+          </div>
+        </div>
+              </mat-grid-tile>
+        </mat-grid-list>     
+     
+
+  </mat-tab>
+  
+
+    
+  </mat-tab-group> -->
+    
+     
+  
+
+
+  
+<!-- </div> -->

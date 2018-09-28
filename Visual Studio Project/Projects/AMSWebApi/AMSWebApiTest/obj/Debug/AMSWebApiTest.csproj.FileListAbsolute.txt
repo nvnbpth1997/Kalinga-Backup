@@ -1,0 +1,14 @@
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\AMSWebApi\AMSWebApiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\AMSWebApi\AMSWebApiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\AMSWebApi\AMSWebApiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\AMSWebApi\AMSWebApiTest\bin\Debug\AMSWebApiTest.dll
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\AMSWebApi\AMSWebApiTest\bin\Debug\AMSWebApiTest.pdb
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\AMSWebApi\AMSWebApiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\AMSWebApi\AMSWebApiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\AMSWebApi\AMSWebApiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\AMSWebApi\AMSWebApiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\AMSWebApi\AMSWebApiTest\obj\Debug\AMSWebApiTest.csprojAssemblyReference.cache
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\AMSWebApi\AMSWebApiTest\obj\Debug\AMSWebApiTest.csproj.CoreCompileInputs.cache
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\AMSWebApi\AMSWebApiTest\obj\Debug\AMSWebApiTest.csproj.CopyComplete
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\AMSWebApi\AMSWebApiTest\obj\Debug\AMSWebApiTest.dll
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\AMSWebApi\AMSWebApiTest\obj\Debug\AMSWebApiTest.pdb

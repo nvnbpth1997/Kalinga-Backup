@@ -1,0 +1,51 @@
+<div *ngIf="filterService.minds==0; else th">
+    No records found!!
+  </div>
+  <ng-template #th> <table>
+    <tr>
+      <th>MID</th>
+      <th>FirstName</th>
+      <th>LastName</th>
+      <th></th>
+    </tr>
+    <tr *ngFor="let mind of filterService.minds">
+      <td>{{mind.MID}}<td>{{mind.FirstName}}</td><td>{{mind.LastName}} </td>  
+
+      <td>
+      <!-- <td *ngFor="let image of filterService.images"> -->
+        <!-- <button type="button" (click)="getImageFromService(mind.MID)">Get Image</button> -->
+        <img [src]="mind.image.ImageURL"
+        alt={{mind.image.ImageName}}
+        *ngIf="(!isImageLoading && mind.image != null); else noImageFound" style="height:250px;width:200px">
+      <ng-template #noImageFound>
+        <!-- <img [src]="image.ImageURL"  alt={{image.ImageName}}
+        *ngIf="(!isImageLoading && 'minds.jpg' == image.ImageName)" style="height:250px;width:200px"> -->
+      </ng-template>
+      </td>
+        
+      <!-- <td> <button mat-raised-button color="primary" routerLink='/Details' (click)="details(mind.ID)"> Details </button> </td> -->
+  </table> 
+
+  <br><br>
+
+  <div class="align">
+    Report By month <br><br>
+  <!-- <div>
+  <input type = "radio" name= "Check" routerLink='/Track-Details' (click)="retrieve(-1)"> Last 1 Month
+  <input type = "radio" name= "Check" routerLink='/Track-Details' (click)="retrieve(-3)"> Last 3 Months
+  </div> -->
+  <select  [(ngModel)]="last" (ngModelChange)='test($event)'>
+  <option *ngFor="let obj of info" [value]="obj.id">{{obj.name}}</option>
+  </select> 
+ 
+  <!-- <a routerLink="/Repeated-Defaulter">Back</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+  <span class="ralign">
+  <input type="button" class= "button button5"value="Export as Excel" (click)="filterService.exportAsExcelFile(filterService.minds,'Report')">
+  </span>
+</div> <br><br>
+  <div class="align"> Report By Date <br><br>
+    From: <input type="date" [(ngModel)]="filterService.fromDate"> &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
+    To: <input type="date" [(ngModel)]="filterService.toDate"> &nbsp;&nbsp;&nbsp;&nbsp;
+    <input type="button" class= "button button5" value="Submit" (click)="retrieveByDate()"> 
+  </div>

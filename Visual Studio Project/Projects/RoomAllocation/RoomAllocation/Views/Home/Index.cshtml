@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "Home";
+}
+
+<h2>Room Allocation System</h2>      
+
+<body>  
+    @foreach (var imgPath in Directory.GetFiles(Server.MapPath("~/Content/uploads"), "*.jpg"))
+{
+    var img = new FileInfo(imgPath);
+    <img src="@Url.Content(String.Format("~/Content/uploads/{0}", img.Name))" width="850" />
+}
+    </body>
+

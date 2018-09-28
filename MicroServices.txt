@@ -1,0 +1,10 @@
+.UseIISIntegration()
+It is crosss platform 
+Uses inbuilt DI
+	- object is not created by us. instead it is injected when the controller is invoked
+	- use fromservices attribute to do method DI
+
+main method in program.cs invoked first (similar to global.asax in framework)
+startup method creates object for us
+use configureservices method to register the controllers
+app setting.json is same like app.config

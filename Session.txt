@@ -1,0 +1,87 @@
+TDF ----
+FormsModule
+uses ngmodel for two way binding
+asynchronous
+hampers dom structure
+
+Reactive Form ----
+ReactiveFormsModule
+synchronous
+doesn't hampers dom structure
+by default it is two way binding
+Form control used to create fields of forms
+setValue method is used for value insertion
+get the value using .value
+FormGroup is used to group the related formcontrols
+FormBuilder is an injectible provider 
+
+
+
+Dependency injection ----
+
+
+Identity Framework ----
+identity framework, cors, owin
+owin authentication/authorisation
+token and cookie based authentication
+roles is for authorisation
+userclaim has additional information(credit card number) 
+Third party authorisation done in userlogins
+
+
+Authorize attribute ----
+built-in filter(role based method access)
+
+authentication	allow only the valid user/identity of the user
+authorisation	representing the roles of the user/control over particular resource
+
+ways :--
+globally, controller level, action level
+
+allow anonymous(everyone) and authorize(restricted access)
+
+
+Custom authorize attribute ----
+[AttributeUsage(AttributeTargets.Method)]
+
+
+Authorization attribute ----
+Authentication using authorization attribute
+Action filters -- before and after action invoke / before and after view render
+Result filters -- before having any output
+
+Map, promise and callbacks
+
+Unit Testing ----
+
+naming convention :-
+ProjectName_MethodName_TestScenario();
+
+
+Exception Handling ----
+
+CreateErrorResponse
+HttpResponseMessage
+
+.pipe(catcheError)
+
+
+.Net Core ----
+cross platform
+inbuilt dependancy injection
+uses json hence faster
+appsettings.json is webconfig files
+entity framework core sqlserver must be used
+core cors must be used
+
+Using Entity framework in core:-
+register the dbcontext in Startup --> configure services method
+appsettings has json for connection string
+register the interface-class pairs
+	transient creates instance every time
+	scoped creates instance per http request
+	singleton creates instance for application
+
+AddCors must be registered inside configureServices()
+
+Middleware 

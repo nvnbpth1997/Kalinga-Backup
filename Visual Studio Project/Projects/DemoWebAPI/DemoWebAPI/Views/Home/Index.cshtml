@@ -1,0 +1,18 @@
+﻿@model IEnumerable<DemoWebAPI.Models.Product>
+
+@foreach (var item in Model)
+{
+<div>
+    @item.ID
+    @item.ProductName
+    <ul>
+            @foreach (var item1 in item.Customers) { 
+        <li>
+            @item1.Customer_ID
+            @item1.CustomerName
+        </li>
+            }
+    </ul>
+</div>
+   
+}

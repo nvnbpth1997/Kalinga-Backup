@@ -1,0 +1,22 @@
+<h3>Minds Form</h3>
+<div class="form">
+<div>
+<label>Name: </label>
+<input #textbox1 type="text" [(ngModel)]="mind.name" required><br>
+</div>
+<div>
+<label>MID: </label>
+<input #textbox2 type="text" [(ngModel)]="mind.mid" required><br>
+</div>
+<div>
+<label>Track: </label>
+<input #textbox3 type="text" [(ngModel)]="mind.track" required><br>
+</div>
+<div class="outer">
+<div class="inner"><button (click)="Clear()">Clear</button></div>
+<div class="inner"><button (click)="AddComment(textbox1.value, textbox2.value, textbox3.value)">Post</button></div>
+</div>    
+<div>
+    <app-mind-details [mind]="minds"></app-mind-details>
+</div>
+</div>                                                                                                

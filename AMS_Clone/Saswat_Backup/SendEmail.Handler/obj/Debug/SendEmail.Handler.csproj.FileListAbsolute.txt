@@ -1,0 +1,182 @@
+D:\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\SendEmail.Handler.dll
+D:\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\SendEmail.Handler.pdb
+D:\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\Tracking.Entities.dll
+D:\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\WebActivatorEx.dll
+D:\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\Unity.Abstractions.dll
+D:\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\Unity.Container.dll
+D:\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\Unity.AspNet.WebApi.dll
+D:\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\System.Web.Http.WebHost.dll
+D:\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\System.Web.Http.dll
+D:\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\System.Net.Http.Formatting.dll
+D:\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\Newtonsoft.Json.dll
+D:\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\Tracking.Entities.pdb
+D:\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\Tracking.Entities.dll.config
+D:\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\Unity.AspNet.WebApi.xml
+D:\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\System.Web.Http.WebHost.xml
+D:\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\System.Web.Http.xml
+D:\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\System.Net.Http.Formatting.xml
+D:\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\Newtonsoft.Json.xml
+D:\AttendanceTracking_WebAPI\SendEmail.Handler\obj\Debug\SendEmail.Handler.csprojResolveAssemblyReference.cache
+D:\AttendanceTracking_WebAPI\SendEmail.Handler\obj\Debug\SendEmail.Handler.dll
+D:\AttendanceTracking_WebAPI\SendEmail.Handler\obj\Debug\SendEmail.Handler.pdb
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\SendEmail.Handler.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\SendEmail.Handler.pdb
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\Tracking.Entities.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\WebActivatorEx.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\Unity.Abstractions.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\Unity.Container.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\Unity.AspNet.WebApi.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\System.Web.Http.WebHost.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\System.Web.Http.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\System.Net.Http.Formatting.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\Newtonsoft.Json.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\Tracking.Entities.pdb
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\Tracking.Entities.dll.config
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\Unity.AspNet.WebApi.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\System.Web.Http.WebHost.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\System.Web.Http.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\System.Net.Http.Formatting.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\Newtonsoft.Json.xml
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\SendEmail.Handler\obj\Debug\SendEmail.Handler.csprojResolveAssemblyReference.cache
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\SendEmail.Handler\obj\Debug\SendEmail.Handler.dll
+D:\AMS_BackUp\AMS_API\AttendanceTracking_WebAPI\SendEmail.Handler\obj\Debug\SendEmail.Handler.pdb
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\SendEmail.Handler.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\SendEmail.Handler.pdb
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\Tracking.Entities.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\WebActivatorEx.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\Unity.Abstractions.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\Unity.Container.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\Unity.AspNet.WebApi.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\System.Web.Http.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\Newtonsoft.Json.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\Tracking.Entities.pdb
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\Tracking.Entities.dll.config
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\Unity.AspNet.WebApi.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\System.Web.Http.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\SendEmail.Handler\bin\Debug\Newtonsoft.Json.xml
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\SendEmail.Handler\obj\Debug\SendEmail.Handler.csprojAssemblyReference.cache
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\SendEmail.Handler\obj\Debug\SendEmail.Handler.csproj.CoreCompileInputs.cache
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\SendEmail.Handler\obj\Debug\SendEmail.Handler.csproj.CopyComplete
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\SendEmail.Handler\obj\Debug\SendEmail.Handler.dll
+C:\Users\M1046670\Desktop\AMS Project\AttendanceTracking_WebAPI\SendEmail.Handler\obj\Debug\SendEmail.Handler.pdb
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\SendEmail.Handler\bin\Debug\SendEmail.Handler.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\SendEmail.Handler\bin\Debug\SendEmail.Handler.pdb
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\SendEmail.Handler\bin\Debug\Tracking.Entities.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\SendEmail.Handler\bin\Debug\WebActivatorEx.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\SendEmail.Handler\bin\Debug\Unity.Abstractions.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\SendEmail.Handler\bin\Debug\Unity.Container.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\SendEmail.Handler\bin\Debug\Unity.AspNet.WebApi.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\SendEmail.Handler\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\SendEmail.Handler\bin\Debug\System.Web.Http.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\SendEmail.Handler\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\SendEmail.Handler\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\SendEmail.Handler\bin\Debug\Newtonsoft.Json.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\SendEmail.Handler\bin\Debug\Tracking.Entities.pdb
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\SendEmail.Handler\bin\Debug\Tracking.Entities.dll.config
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\SendEmail.Handler\bin\Debug\Unity.AspNet.WebApi.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\SendEmail.Handler\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\SendEmail.Handler\bin\Debug\System.Web.Http.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\SendEmail.Handler\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\SendEmail.Handler\bin\Debug\Newtonsoft.Json.xml
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\SendEmail.Handler\obj\Debug\SendEmail.Handler.csprojResolveAssemblyReference.cache
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\SendEmail.Handler\obj\Debug\SendEmail.Handler.dll
+C:\Users\M1047044\Documents\Visual Studio 2017\Projects\AttendenceTracking\Saswat_Backup\SendEmail.Handler\obj\Debug\SendEmail.Handler.pdb
+D:\Saswat_Backup\SendEmail.Handler\bin\Debug\SendEmail.Handler.dll
+D:\Saswat_Backup\SendEmail.Handler\bin\Debug\SendEmail.Handler.pdb
+D:\Saswat_Backup\SendEmail.Handler\bin\Debug\Tracking.Entities.dll
+D:\Saswat_Backup\SendEmail.Handler\bin\Debug\WebActivatorEx.dll
+D:\Saswat_Backup\SendEmail.Handler\bin\Debug\Unity.Abstractions.dll
+D:\Saswat_Backup\SendEmail.Handler\bin\Debug\Unity.Container.dll
+D:\Saswat_Backup\SendEmail.Handler\bin\Debug\Unity.AspNet.WebApi.dll
+D:\Saswat_Backup\SendEmail.Handler\bin\Debug\System.Web.Http.WebHost.dll
+D:\Saswat_Backup\SendEmail.Handler\bin\Debug\System.Web.Http.dll
+D:\Saswat_Backup\SendEmail.Handler\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Saswat_Backup\SendEmail.Handler\bin\Debug\System.Net.Http.Formatting.dll
+D:\Saswat_Backup\SendEmail.Handler\bin\Debug\Newtonsoft.Json.dll
+D:\Saswat_Backup\SendEmail.Handler\bin\Debug\Tracking.Entities.pdb
+D:\Saswat_Backup\SendEmail.Handler\bin\Debug\Tracking.Entities.dll.config
+D:\Saswat_Backup\SendEmail.Handler\bin\Debug\Unity.AspNet.WebApi.xml
+D:\Saswat_Backup\SendEmail.Handler\bin\Debug\System.Web.Http.WebHost.xml
+D:\Saswat_Backup\SendEmail.Handler\bin\Debug\System.Web.Http.xml
+D:\Saswat_Backup\SendEmail.Handler\bin\Debug\System.Net.Http.Formatting.xml
+D:\Saswat_Backup\SendEmail.Handler\bin\Debug\Newtonsoft.Json.xml
+D:\Saswat_Backup\SendEmail.Handler\obj\Debug\SendEmail.Handler.csprojResolveAssemblyReference.cache
+D:\Saswat_Backup\SendEmail.Handler\obj\Debug\SendEmail.Handler.dll
+D:\Saswat_Backup\SendEmail.Handler\obj\Debug\SendEmail.Handler.pdb
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\SendEmail.Handler\bin\Debug\SendEmail.Handler.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\SendEmail.Handler\bin\Debug\SendEmail.Handler.pdb
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\SendEmail.Handler\bin\Debug\Tracking.Entities.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\SendEmail.Handler\bin\Debug\WebActivatorEx.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\SendEmail.Handler\bin\Debug\Unity.Abstractions.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\SendEmail.Handler\bin\Debug\Unity.Container.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\SendEmail.Handler\bin\Debug\Unity.AspNet.WebApi.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\SendEmail.Handler\bin\Debug\Newtonsoft.Json.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\SendEmail.Handler\bin\Debug\System.Web.Http.WebHost.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\SendEmail.Handler\bin\Debug\System.Web.Http.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\SendEmail.Handler\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\SendEmail.Handler\bin\Debug\System.Net.Http.Formatting.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\SendEmail.Handler\bin\Debug\Tracking.Entities.pdb
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\SendEmail.Handler\bin\Debug\Tracking.Entities.dll.config
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\SendEmail.Handler\bin\Debug\Unity.AspNet.WebApi.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\SendEmail.Handler\bin\Debug\Newtonsoft.Json.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\SendEmail.Handler\bin\Debug\System.Web.Http.WebHost.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\SendEmail.Handler\bin\Debug\System.Web.Http.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\SendEmail.Handler\bin\Debug\System.Net.Http.Formatting.xml
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\SendEmail.Handler\obj\Debug\SendEmail.Handler.csprojResolveAssemblyReference.cache
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\SendEmail.Handler\obj\Debug\SendEmail.Handler.dll
+D:\AMS_Final\AMS_WEbAPI\Saswat_Backup\SendEmail.Handler\obj\Debug\SendEmail.Handler.pdb
+D:\Project\Saswat_Backup\SendEmail.Handler\bin\Debug\SendEmail.Handler.dll
+D:\Project\Saswat_Backup\SendEmail.Handler\bin\Debug\SendEmail.Handler.pdb
+D:\Project\Saswat_Backup\SendEmail.Handler\bin\Debug\Tracking.Entities.dll
+D:\Project\Saswat_Backup\SendEmail.Handler\bin\Debug\WebActivatorEx.dll
+D:\Project\Saswat_Backup\SendEmail.Handler\bin\Debug\Unity.Abstractions.dll
+D:\Project\Saswat_Backup\SendEmail.Handler\bin\Debug\Unity.Container.dll
+D:\Project\Saswat_Backup\SendEmail.Handler\bin\Debug\Unity.AspNet.WebApi.dll
+D:\Project\Saswat_Backup\SendEmail.Handler\bin\Debug\Newtonsoft.Json.dll
+D:\Project\Saswat_Backup\SendEmail.Handler\bin\Debug\System.Web.Http.WebHost.dll
+D:\Project\Saswat_Backup\SendEmail.Handler\bin\Debug\System.Web.Http.dll
+D:\Project\Saswat_Backup\SendEmail.Handler\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Project\Saswat_Backup\SendEmail.Handler\bin\Debug\System.Net.Http.Formatting.dll
+D:\Project\Saswat_Backup\SendEmail.Handler\bin\Debug\Tracking.Entities.pdb
+D:\Project\Saswat_Backup\SendEmail.Handler\bin\Debug\Tracking.Entities.dll.config
+D:\Project\Saswat_Backup\SendEmail.Handler\bin\Debug\Unity.AspNet.WebApi.xml
+D:\Project\Saswat_Backup\SendEmail.Handler\bin\Debug\Newtonsoft.Json.xml
+D:\Project\Saswat_Backup\SendEmail.Handler\bin\Debug\System.Web.Http.WebHost.xml
+D:\Project\Saswat_Backup\SendEmail.Handler\bin\Debug\System.Web.Http.xml
+D:\Project\Saswat_Backup\SendEmail.Handler\bin\Debug\System.Net.Http.Formatting.xml
+D:\Project\Saswat_Backup\SendEmail.Handler\obj\Debug\SendEmail.Handler.csprojAssemblyReference.cache
+D:\Project\Saswat_Backup\SendEmail.Handler\obj\Debug\SendEmail.Handler.csproj.CoreCompileInputs.cache
+D:\Project\Saswat_Backup\SendEmail.Handler\obj\Debug\SendEmail.Handler.csproj.CopyComplete
+D:\Project\Saswat_Backup\SendEmail.Handler\obj\Debug\SendEmail.Handler.dll
+D:\Project\Saswat_Backup\SendEmail.Handler\obj\Debug\SendEmail.Handler.pdb
+D:\AMS_Clone\Saswat_Backup\SendEmail.Handler\bin\Debug\SendEmail.Handler.dll
+D:\AMS_Clone\Saswat_Backup\SendEmail.Handler\bin\Debug\SendEmail.Handler.pdb
+D:\AMS_Clone\Saswat_Backup\SendEmail.Handler\bin\Debug\Tracking.Entities.dll
+D:\AMS_Clone\Saswat_Backup\SendEmail.Handler\bin\Debug\WebActivatorEx.dll
+D:\AMS_Clone\Saswat_Backup\SendEmail.Handler\bin\Debug\Unity.Abstractions.dll
+D:\AMS_Clone\Saswat_Backup\SendEmail.Handler\bin\Debug\Unity.Container.dll
+D:\AMS_Clone\Saswat_Backup\SendEmail.Handler\bin\Debug\Unity.AspNet.WebApi.dll
+D:\AMS_Clone\Saswat_Backup\SendEmail.Handler\bin\Debug\Newtonsoft.Json.dll
+D:\AMS_Clone\Saswat_Backup\SendEmail.Handler\bin\Debug\System.Web.Http.WebHost.dll
+D:\AMS_Clone\Saswat_Backup\SendEmail.Handler\bin\Debug\System.Web.Http.dll
+D:\AMS_Clone\Saswat_Backup\SendEmail.Handler\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\AMS_Clone\Saswat_Backup\SendEmail.Handler\bin\Debug\System.Net.Http.Formatting.dll
+D:\AMS_Clone\Saswat_Backup\SendEmail.Handler\bin\Debug\Tracking.Entities.pdb
+D:\AMS_Clone\Saswat_Backup\SendEmail.Handler\bin\Debug\Tracking.Entities.dll.config
+D:\AMS_Clone\Saswat_Backup\SendEmail.Handler\bin\Debug\Unity.AspNet.WebApi.xml
+D:\AMS_Clone\Saswat_Backup\SendEmail.Handler\bin\Debug\Newtonsoft.Json.xml
+D:\AMS_Clone\Saswat_Backup\SendEmail.Handler\bin\Debug\System.Web.Http.WebHost.xml
+D:\AMS_Clone\Saswat_Backup\SendEmail.Handler\bin\Debug\System.Web.Http.xml
+D:\AMS_Clone\Saswat_Backup\SendEmail.Handler\bin\Debug\System.Net.Http.Formatting.xml
+D:\AMS_Clone\Saswat_Backup\SendEmail.Handler\obj\Debug\SendEmail.Handler.csprojAssemblyReference.cache
+D:\AMS_Clone\Saswat_Backup\SendEmail.Handler\obj\Debug\SendEmail.Handler.csproj.CoreCompileInputs.cache
+D:\AMS_Clone\Saswat_Backup\SendEmail.Handler\obj\Debug\SendEmail.Handler.csproj.CopyComplete
+D:\AMS_Clone\Saswat_Backup\SendEmail.Handler\obj\Debug\SendEmail.Handler.dll
+D:\AMS_Clone\Saswat_Backup\SendEmail.Handler\obj\Debug\SendEmail.Handler.pdb

@@ -1,0 +1,27 @@
+.sidenav-container {
+  height: 100%;
+}
+
+.sidenav {
+  width: 200px;
+  background-color: #8F6182
+}
+
+.mat-toolbar.mat-primary {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.mat-nav-list{
+  margin-left: 15px;
+}
+
+.mat-list-item{
+  color:white;
+}
+
+.color{
+  background-color: #8F6182
+}
+

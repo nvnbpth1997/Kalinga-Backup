@@ -1,0 +1,63 @@
+
+<div class ="body" (window:resize)="checkWidth()" ></div>
+<div class="headings"> SWIPED ON TIME </div>
+
+<mat-grid-list class="id"cols={{cols}} rowHeight="2:2">
+
+  <!-- Search form -->
+<!-- <input class="form-control" type="text" placeholder="Search" aria-label="Search"> -->
+  <!-- <div class="col-md-4"> -->
+<ul *ngFor="let mb of ms.mindsList|paginate:{itemsPerPage : 9, currentPage: p}">
+  <mat-grid-tile class="my-grid-tile">
+    
+      <div class="maincontainer">
+        <a routerLink ="/home/details/{{mb.Mid}}">
+        <div class="thecard">
+
+          <div class="thefront">
+            <h3 class="card-header">
+              <img [src]="mb.Photograph" alt={{mb.Mid}} *ngIf="(mb.Photograph != NULL); else noImageFound"  style="width:140px;height:120px"
+                 align="center">
+                </h3>
+                <ng-template #noImageFound>
+                  <h3 class="card-header">
+                    <img src="https://firebasestorage.googleapis.com/v0/b/attendance-cc2a0.appspot.com/o/minds.png?alt=media&token=ebbb1edf-46a5-4bf2-ad05-3935e030ae55"
+                      style="width:140px;height:120px"  align="center">
+                      </h3>
+                      </ng-template>
+            <div class="card-body">
+              <p class="card-text"><b>MID: </b>{{mb.Mid}}</p>
+              <p class="card-text"><b>NAME: </b>{{mb.FirstName}} {{mb.LastName}}</p>
+              <p class="card-text"> <b>SWIPE IN: </b>{{mb.Datetime|date:'HH:mm:ss a'}} </p>
+            </div>
+          </div>
+
+
+          <div class="theback">
+            <div class="card-backbody">
+              <p class="card-cm"><b>CAMPUS MINDS </b></p>
+              <p class="card-det"><b>E-MAIL: </b>{{mb.Email}}</p>
+              <p class="card-det"><b>PHONE NO.: </b>{{mb.PhoneNo}}</p>
+              <p class="card-det"><b>GENDER: </b>{{mb.Gender}}</p>
+              <p class="card-det"><b>ROOM NO.: </b>{{mb.ResidenceString}}</p>
+
+              <p class="card-cm"><b>LEAD DETAILS </b></p>
+              <p class="card-det"><b>NAME: </b>{{mb.LeadName}}</p>
+              <p class="card-det"><b>E-MAIL: </b>{{mb.LeadEmail}}</p>
+              <p class="card-det"><b>PHONE NO.: </b>{{mb.LeadPhoneNo}}</p>
+
+
+            </div>
+          </div>
+
+        </div>
+        </a>
+      </div>
+
+      
+     </mat-grid-tile>
+    </ul>
+  </mat-grid-list>
+
+
+<pagination-controls (pageChange)="p=$event" class="page"></pagination-controls>

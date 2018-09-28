@@ -1,0 +1,11 @@
+c:\users\m1047096\documents\visual studio 2017\Projects\ClassLibrary1\StudentEntity\bin\Debug\StudentEntity.dll
+c:\users\m1047096\documents\visual studio 2017\Projects\ClassLibrary1\StudentEntity\bin\Debug\StudentEntity.pdb
+c:\users\m1047096\documents\visual studio 2017\Projects\ClassLibrary1\StudentEntity\obj\Debug\StudentEntity.csproj.CoreCompileInputs.cache
+c:\users\m1047096\documents\visual studio 2017\Projects\ClassLibrary1\StudentEntity\obj\Debug\StudentEntity.dll
+c:\users\m1047096\documents\visual studio 2017\Projects\ClassLibrary1\StudentEntity\obj\Debug\StudentEntity.pdb
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\StudentEntity\bin\Debug\StudentEntity.dll
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\StudentEntity\bin\Debug\StudentEntity.pdb
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\StudentEntity\obj\Debug\StudentEntity.csprojAssemblyReference.cache
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\StudentEntity\obj\Debug\StudentEntity.csproj.CoreCompileInputs.cache
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\StudentEntity\obj\Debug\StudentEntity.dll
+C:\Users\M1047096\Documents\Visual Studio 2017\Projects\StudentAPP\StudentEntity\obj\Debug\StudentEntity.pdb

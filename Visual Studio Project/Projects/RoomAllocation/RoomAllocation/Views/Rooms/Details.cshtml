@@ -1,0 +1,42 @@
+﻿@model RoomAllocation.Models.Room
+
+@{
+    ViewBag.Title = "Details-Room";
+}
+
+<h2>Details - Room</h2>
+
+<div>
+    
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.room_RID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.room_RID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.room_blockName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.room_blockName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.room_floorNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.room_floorNumber)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.roomID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

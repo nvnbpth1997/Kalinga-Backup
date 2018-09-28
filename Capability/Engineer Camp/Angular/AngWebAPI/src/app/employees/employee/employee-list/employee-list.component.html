@@ -1,0 +1,12 @@
+<table class="table table-sm table-hover">
+  <tr *ngFor="let employee of emp.employeelist">
+    <td>{{employee.FirstName}} {{employee.LastName}} </td> 
+    <td>{{employee.Designation}}</td>
+    <td>
+      <input type="button" value="Edit" (click)="showForEdit(employee)">
+    </td>
+    <td>
+      <input type="button" value="Delete" (click)="onDelete(employee.EmployeeID)">
+    </td>
+</table>
+

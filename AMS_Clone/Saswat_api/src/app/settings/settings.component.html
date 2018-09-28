@@ -1,0 +1,39 @@
+<div>
+  <h2 style="margin-left: 620px">Settings</h2><hr><br>
+<form #settingForm=ngForm>
+  <table>
+    <tr>
+      <td>Daily Time: <input type="time" class = "form-control" style = "width: 450px" min=00:01 max=11:59 name = "Time" #Time="ngModel" [(ngModel)]="ms.settingsdetails.Time" required></td>
+      <td>Threshold Count: <input type="number" class = "form-control" style = "width: 450px" name = "Thresholdcount" #Thresholdcount="ngModel" [(ngModel)]="ms.settingsdetails.Thresholdcount" required></td>
+    </tr>
+    <tr>
+        <td><pre *ngIf="Time.invalid && Time.touched" style="color: red">This Field Is Required.</pre></td>
+      <td><pre *ngIf="Thresholdcount.invalid && Thresholdcount.touched" style="color: red">This Field Is Required.</pre></td>
+    </tr>
+    <tr>
+      <td>SwipeType-Text: <input type="text" class = "form-control" style = "width: 450px"name="LateswipeText" #LateswipeText="ngModel" [(ngModel)]="ms.settingsdetails.LateswipeText"></td>
+      <td>SwipeType-Text: <input type="text" class = "form-control" style = "width: 450px"name="NotswipeText" #NotswipeText="ngModel" [(ngModel)]="ms.settingsdetails.NotswipeText"></td>
+    </tr>
+    <tr>
+        <td><pre *ngIf="LateswipeText.touched && ms.settingsdetails.LateswipeText==''" style="color: red">This Field Is Required.</pre></td>
+        <td><pre *ngIf="NotswipeText.touched && ms.settingsdetails.NotswipeText==''" style="color: red">This Field Is Required.</pre></td>
+    </tr>
+    <tr>
+      <td>
+      Category: <select name = "Category" class = "form-control" #Category="ngModel" [(ngModel)]="ms.settingsdetails.Category" style = "width: 450px" (ngModelChange) = "select($event)">
+        <option value="C1">C1</option>
+        <option value="IMTS">IMTS</option>
+      </select>
+      </td>
+    </tr>
+    <tr>
+        <td *ngIf="ms.settingsdetails.Category=='' && Category.touched" style="color: red">This Field Is Required.</td>
+    </tr><br>
+    <tr>
+      <td><button [disabled]="!settingForm.valid || ms.settingsdetails.Category=='' || ms.settingsdetails.NotswipeText=='' || ms.settingsdetails.LateswipeText==''" class="btn btn-lg btn-block btn-info" style = "width: 450px" type="submit" (click)="submit(settingForm)">Update</button></td>
+      <td><button class="btn btn-lg btn-block btn-secendary" style = "width: 450px" type="reset" (click)="resetform(settingForm)">Reset</button></td>
+    </tr>
+  </table><br>
+  
+</form>
+</div>

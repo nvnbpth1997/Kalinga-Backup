@@ -1,0 +1,65 @@
+﻿@model IEnumerable<RoomAllocation.Models.CombinedModel>
+@{
+    ViewBag.Title = "Allocated Rooms";
+}
+
+<h2>Minds</h2>
+
+<table class="table">
+    <tr>
+        <th> MID</th>
+        <th> Name </th>
+        <th> Track Name</th>
+        <th> Room ID</th>
+        <th> Block Name</th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>
+            @item.users.user_mid
+        </td>
+        <td>
+            @item.users.user_name
+        </td>
+        <td>
+            @item.users.user_trackName
+        </td>
+        @{
+            try
+            {
+                if (item.users.userID != item.allocatedRooms.userID)
+                {
+                    <td></td>
+                    <td></td>
+                    <td>
+                        @Html.ActionLink("Allocate Room", "Allocate", new { id = item.users.userID })
+                    </td>
+                }
+                else
+                {
+                    <td>
+                        @item.rooms.room_RID
+                    </td>
+                    <td>
+                        @item.rooms.room_blockName
+                    </td>
+                    <td></td>
+                }
+            }
+            catch (Exception)
+            {
+                <td></td>
+                <td></td>
+                <td>
+                    @Html.ActionLink("Allocate Room", "Allocate", new { id = item.users.userID })
+                </td>
+            }
+
+        }
+    </tr>
+    }
+
+</table>
